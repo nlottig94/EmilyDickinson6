@@ -24,8 +24,53 @@
     <text>
         <body>
             <head>
-                <title>Poem 1 (J 73: 1830-1886)</title></head>
-            
+                <title>Poem 1 (J 73: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">Who never lost<app>
+                    <rdg wit="#df6"> </rdg>
+                    <rdg wit="#CP">, </rdg>
+                    </app>are unprepared</l>
+                <l n="2">A Coronet to find!</l>
+                <l n="3">Who never thirsted</l>
+                <l n="4">Flagons, and Cooling Tamarind!</l>
+            </lg>
+            <lg>
+                <l n="5">Who never <app>
+                    <rdg wit="#df6">Climbed</rdg>
+                    <rdg wit="#CP">climbed</rdg>
+                </app> the weary league&#8212;</l>
+                <l n="6">Can <app>
+                    <rdg wit="#df6">Such</rdg>
+                    <rdg wit="#CP">such</rdg>
+                </app> a foot <app>
+                    <rdg wit="#df6">Explore</rdg>
+                    <rdg wit="#CP">explore</rdg>
+                </app></l>
+                <l n="7">The <app>
+                    <rdg wit="#df6">Purple</rdg>
+                    <rdg wit="#CP">purple</rdg>
+                </app> territories</l>
+                <l n="8">On Pizarro's shore?</l>
+            </lg>
+            <lg>
+                <l n="9"> How many Legions overcome&#8212;</l>
+                <l n="10">The Emperor will say?</l>
+                <l n="11">How many <app>
+                    <rdg wit="#df6"><hi rend="underline">Colors</hi></rdg>
+                    <rdg wit="#CP"><hi rend="italic">Colors</hi></rdg>
+                </app> taken</l>
+                <l n="12">On Revolution Day?</l>
+            </lg>
+            <lg>
+                <l n="13">How many <app>
+                    <rdg wit="#df6"><hi rend="underline">Bullets</hi></rdg>
+                    <rdg wit="#CP"><hi rend="italic">Bullets</hi></rdg>
+                </app> bearest?</l>
+                <l n="14">Hast Thou the Royal scar?</l>
+                <l n="15">Angels! Write "Promoted"<!-- 2016-03-18: nll: Should I use <hi rend="quoted"> and then get rid of the quotes?--></l>
+                <l n="16">On this Soldier's brow!</l>
+            </lg>
         </body>
     </text>
 </TEI>
