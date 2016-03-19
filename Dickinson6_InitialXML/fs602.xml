@@ -30,26 +30,38 @@
                     <rdg wit="#df6">Amid</rdg>
                     <rdg wit="#CP">amid</rdg>
                 </app> the Hill</l>
-                <l n="2">Her annual Secret keeps!<!-- 2016-03-18: nll: Is the S in Secret capital? Double-check me Brooke!--></l>
+                <l n="2">Her annual Secret keeps!<!-- 2016-03-18: nll: Is the S in Secret capital? Double-check me Brooke! I didn't mark this line up at all, also!--></l>
                 <l n="3">A Lady white, within the Field</l>
                 <l n="4">In placid Lily sleeps!</l>
             </lg>
             <lg>
                 <l n="5">The tidy Breezes, with their Brooms&#8212;</l>
-                <l n="6">Sweep vale&#8212;And hill&#8212;And tree!</l>
-                <l n="7">Prithee, my pretty Housewives!<!-- 2016-03-18: nll: Is the M in my capital?--></l>
+                <l n="6">Sweep vale&#8212;<app>
+                    <rdg wit="#df6">And</rdg>
+                    <rdg wit="#CP">and</rdg>
+                </app> hill&#8212;<app>
+                    <rdg wit="#df6">And</rdg>
+                    <rdg wit="#CP">and</rdg>
+                </app> tree!</l>
+                <l n="7">Prithee, my pretty Housewives!<!-- 2016-03-18: nll: Is the M in my capital? I didn't mark this line up because I'm not sure.--></l>
                 <l n="8">Who may expected be?<!-- 2016-03-18: nll: Is the E in expected capital?--></l>
             </lg>
             <lg>
-                <l n="9">The neighbors do not get suspect!</l>
-                <l n="10">The woods exchange a smile!<!-- 2016-03-18: nll: Is the E in exchange capital?--></l>
+                <l n="9">The <app>
+                    <rdg wit="df6">neighbors</rdg>
+                    <rdg wit="#CP">Neighbors</rdg>
+                </app> do not yet suspect!</l>
+                <l n="10">The <app>
+                    <rdg wit="#df6">woods</rdg>
+                    <rdg wit="#CP">Woods</rdg>
+                </app> exchange a smile!<!-- 2016-03-18: nll: Is the E in exchange capital?--></l>
                 <l n="11">Orchard, and Buttercup, and Bird&#8212;</l>
-                <l n="12">In Such a little while!<!-- 2016-03-18: nll: Is the S in Such capital?--></l>
+                <l n="12">In Such a little while!<!-- 2016-03-18: nll: Is the S in Such capital? I didn't mark up this line.--></l>
             </lg>
             <lg>
                 <l n="13">And yet, how still the Landscape stands!</l>
                 <l n="14">How nonchalant the Hedge!</l>
-                <l n="15">As if the "Resurrection"<!-- 2016-03-18: nll: Again, are we using <hi rend="quoted"> here and getting rid of the quotes?--></l>
+                <l n="15">As if the <q type="">Resurrection</q><!-- 2016-03-19: nll: What attribute value here?--></l>
                 <l n="16">Were nothing very strange!</l>
             </lg>
         </body>
