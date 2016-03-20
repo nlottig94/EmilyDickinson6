@@ -23,8 +23,11 @@
     <text>
         <body>
             <head>
-                <title>Poem 4 (J 127: 1830-1886)</title></head>
-            
+                <title>Poem 4 (J 127: 1830-1886)</title>
+            </head>
+            <lg>
+                <l><q rend="singleQuote" type="">Houses</q>&#8212;So the </l>
+            </lg>
         </body>
     </text>
 </TEI>
