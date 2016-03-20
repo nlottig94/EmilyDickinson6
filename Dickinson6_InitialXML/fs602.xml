@@ -23,46 +23,104 @@
     <text>
         <body>
             <head>
-                <title>Poem 2 (J 74: 1830-1886)</title>
+                <title>Poem 2 (J 74: 1830-1886)</title><!-- 2016-03-19: nll: The Poems 3 version of this poem has a title...What should we do with this?-->
             </head>
             <lg>
                 <l n="1">A Lady red&#8212;<app>
                     <rdg wit="#df6">Amid</rdg>
                     <rdg wit="#CP">amid</rdg>
-                </app> the Hill</l>
-                <l n="2">Her annual Secret keeps!<!-- 2016-03-18: nll: Is the S in Secret capital? Double-check me Brooke! I didn't mark this line up at all, also!--></l>
-                <l n="3">A Lady white, within the Field</l>
-                <l n="4">In placid Lily sleeps!</l>
+                    <rdg wit="#poems3">upon</rdg>
+                </app> the <app>
+                    <rdg wit="#df6 #CP">Hill</rdg>
+                    <rdg wit="#poems3">hill</rdg>
+                </app></l>
+                <l n="2">Her annual Secret keeps<app>
+                    <rdg wit="#df6 #CP">!</rdg>
+                    <rdg wit="#poems3">;</rdg>
+                </app><!-- 2016-03-18: nll: Is the S in Secret capital? Double-check me Brooke! I didn't mark this line up at all, also!--></l>
+                <l n="3">A Lady white<app>
+                    <rdg wit="#df6 #CP">, </rdg>
+                    <rdg wit="#poems3"> </rdg>
+                </app>within the <app>
+                    <rdg wit="#df6 #CP">Field</rdg>
+                    <rdg wit="#poems3">field</rdg>
+                </app></l>
+                <l n="4">In placid <app>
+                    <rdg wit="#df6 #CP">Lily</rdg>
+                    <rdg wit="#poems3">lily</rdg>
+                </app> sleeps!</l>
             </lg>
             <lg>
-                <l n="5">The tidy Breezes, with their Brooms&#8212;</l>
-                <l n="6">Sweep vale&#8212;<app>
+                <l n="5">The tidy <app>
+                    <rdg wit="#df6 #CP">Breezes, </rdg>
+                    <rdg wit="#poems3">breezes </rdg>
+                </app>with their <app>
+                    <rdg wit="#df6 #CP">Brooms&#8212;</rdg>
+                    <rdg wit="#poems3">brooms</rdg>
+                </app></l>
+                <l n="6">Sweep vale<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#poems3">, </rdg>
+                </app><app>
                     <rdg wit="#df6">And</rdg>
-                    <rdg wit="#CP">and</rdg>
-                </app> hill&#8212;<app>
+                    <rdg wit="#CP #poems3">and</rdg>
+                </app> hill<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#poems3">, </rdg>
+                </app><app>
                     <rdg wit="#df6">And</rdg>
-                    <rdg wit="#CP">and</rdg>
+                    <rdg wit="#CP #poems3">and</rdg>
                 </app> tree!</l>
-                <l n="7">Prithee, my pretty Housewives!<!-- 2016-03-18: nll: Is the M in my capital? I didn't mark this line up because I'm not sure.--></l>
+                <l n="7">Prithee, my pretty <app>
+                    <rdg wit="#df6 #CP">Housewives</rdg>
+                    <rdg wit="#poems3">housewives</rdg>
+                </app>!<!-- 2016-03-18: nll: Is the M in my capital? I didn't mark this line up because I'm not sure.--></l>
                 <l n="8">Who may expected be?<!-- 2016-03-18: nll: Is the E in expected capital?--></l>
             </lg>
             <lg>
                 <l n="9">The <app>
-                    <rdg wit="df6">neighbors</rdg>
+                    <rdg wit="#df6 #poems3">neighbors</rdg>
                     <rdg wit="#CP">Neighbors</rdg>
                 </app> do not yet suspect!</l>
                 <l n="10">The <app>
-                    <rdg wit="#df6">woods</rdg>
+                    <rdg wit="#df6 #poems3">woods</rdg>
                     <rdg wit="#CP">Woods</rdg>
-                </app> exchange a smile!<!-- 2016-03-18: nll: Is the E in exchange capital?--></l>
-                <l n="11">Orchard, and Buttercup, and Bird&#8212;</l>
+                </app> exchange a smile<app>
+                    <rdg wit="#df6 #CP">!</rdg>
+                    <rdg wit="#poems3">&#8212;</rdg>
+                </app><!-- 2016-03-18: nll: Is the E in exchange capital?--></l>
+                <l n="11">Orchard, and <app>
+                    <rdg wit="#df6 #CP">Buttercup</rdg>
+                    <rdg wit="#poems3">buttercup</rdg>
+                </app>, and <app>
+                    <rdg wit="#df6 #CP">Bird</rdg>
+                    <rdg wit="#poems3">bird</rdg>
+                </app>&#8212;</l>
                 <l n="12">In Such a little while!<!-- 2016-03-18: nll: Is the S in Such capital? I didn't mark up this line.--></l>
             </lg>
             <lg>
-                <l n="13">And yet, how still the Landscape stands!</l>
-                <l n="14">How nonchalant the Hedge!</l>
-                <l n="15">As if the <q type="">Resurrection</q><!-- 2016-03-19: nll: What attribute value here?--></l>
-                <l n="16">Were nothing very strange!</l>
+                <l n="13">And yet<app>
+                    <rdg wit="#df6 #CP">, </rdg>
+                    <rdg wit="#poems3"> </rdg>
+                </app>how still the <app>
+                    <rdg wit="#df6 #CP">Landscape</rdg>
+                    <rdg wit="#poems3">landscape</rdg>
+                </app> stands<app>
+                    <rdg wit="#df6 #CP">!</rdg>
+                    <rdg wit="#poems3">,</rdg>
+                </app></l>
+                <l n="14">How nonchalant the <app>
+                    <rdg wit="#df6 #CP">Hedge!</rdg>
+                    <rdg wit="#poems3">wood,</rdg>
+                </app></l>
+                <l n="15">As if the <app>
+                    <rdg wit="#df6 #CP"><q type="">Resurrection</q></rdg>
+                    <rdg wit="#poems3">resurrection</rdg>
+                </app><!-- 2016-03-19: nll: What attribute value here?--></l>
+                <l n="16">Were nothing very <app>
+                    <rdg wit="#df6 #CP">strange</rdg>
+                    <rdg wit="#poems3">odd</rdg>
+                </app>!</l>
             </lg>
         </body>
     </text>
