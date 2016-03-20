@@ -68,7 +68,7 @@
                     <rdg wit="#CP"><emph rend="italic">Bullets</emph></rdg>
                 </app> bearest?</l>
                 <l n="14">Hast Thou the Royal scar?</l>
-                <l n="15">Angels! Write <q type="">Promoted</q><!-- 2016-03-19: nll: What attribute value here?--></l>
+                <l n="15">Angels! Write <q rend="doubleQuote" type="">Promoted</q><!-- 2016-03-19: nll: What attribute value here?--></l>
                 <l n="16">On this Soldier's brow!</l>
             </lg>
         </body>
