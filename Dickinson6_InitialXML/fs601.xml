@@ -57,15 +57,15 @@
                 <l n="9"> How many Legions overcome&#8212;</l>
                 <l n="10">The Emperor will say?</l>
                 <l n="11">How many <app>
-                    <rdg wit="#df6"><hi rend="underline">Colors</hi></rdg>
-                    <rdg wit="#CP"><hi rend="italic">Colors</hi></rdg>
+                    <rdg wit="#df6"><emph rend="underline">Colors</emph></rdg>
+                    <rdg wit="#CP"><emph rend="italic">Colors</emph></rdg>
                 </app> taken</l>
                 <l n="12">On Revolution Day?</l>
             </lg>
             <lg>
                 <l n="13">How many <app>
-                    <rdg wit="#df6"><hi rend="underline">Bullets</hi></rdg>
-                    <rdg wit="#CP"><hi rend="italic">Bullets</hi></rdg>
+                    <rdg wit="#df6"><emph rend="underline">Bullets</emph></rdg>
+                    <rdg wit="#CP"><emph rend="italic">Bullets</emph></rdg>
                 </app> bearest?</l>
                 <l n="14">Hast Thou the Royal scar?</l>
                 <l n="15">Angels! Write <q type="">Promoted</q><!-- 2016-03-19: nll: What attribute value here?--></l>
