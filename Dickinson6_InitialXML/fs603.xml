@@ -23,8 +23,94 @@
     <text>
         <body>
             <head>
-                <title>Poem 3 (J 126: 1830-1886)</title></head>
-            
+                <title>Poem 3 (J 126: 1830-1886)</title>
+            </head>
+            <lg>
+                <l>To fight aloud<app>
+                    <rdg wit="#df6 #CP #D #fh">, </rdg>
+                    <rdg wit="#poems1"> </rdg>
+                </app>is very brave<app>
+                    <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
+                    <rdg wit="#poems1">,</rdg>
+                </app></l>
+                <l>But <app>
+                    <rdg wit="#df6"><emph rend="underline">gallanter</emph></rdg>
+                    <rdg wit="#CP #D #fh"><emph rend="italic">gallanter</emph></rdg>
+                    <rdg wit="#poems1">gallanter</rdg>
+                </app>, I know<app>
+                    <rdg wit="#df6 #CP #D #fh"></rdg>
+                    <rdg wit="#poems1">,</rdg>
+                </app></l>
+                <l>Who charge within the bosom<app>
+                    <rdg wit="#df6 #CP #D #fh"></rdg>
+                    <rdg wit="#poems1">,</rdg>
+                </app></l>
+                <l>The <app>
+                    <rdg wit="#df6 #CP #D #fh">Cavalry</rdg>
+                    <rdg wit="#poems1">cavalry</rdg>
+                </app> of <app><!--2016-03-19: nll: So I know it looks like Dickinson meant to write "Woe" here, but there is no 'e' at the end of the word...-->
+                    <rdg wit="#df6 #D">Wo</rdg>
+                    <rdg wit="#CP #fh">Woe</rdg>
+                    <rdg wit="#poems1">woe</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
+                    <rdg wit="#poems1">.</rdg>
+                </app></l>
+            </lg>
+            <lg>
+                <l>Who win, <app>
+                    <rdg wit="#df6">And</rdg>
+                    <rdg wit="#CP #D #fh #poems1">and</rdg>
+                </app> nations do not see<app>
+                    <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
+                    <rdg wit="poems1">,</rdg>
+                </app></l>
+                <l>Who fall<app>
+                    <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
+                    <rdg wit="#poems1">,</rdg>
+                </app><app>
+                    <rdg wit="#df6">And</rdg>
+                    <rdg wit="#CP #D #fh">and</rdg>
+                </app> none observe<app>
+                    <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
+                    <rdg wit="#poems1">,</rdg>
+                </app></l>
+                <l>Whose dying <app>
+                    <rdg wit="#df6">Eyes</rdg>
+                    <rdg wit="#CP #D #fh #poems1">eyes</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #D #fh">, </rdg>
+                    <rdg wit="#poems1"> </rdg>
+                </app>no Country</l>
+                <l>Regards with patriot love<app>
+                    <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
+                    <rdg wit="#poems1">.</rdg>
+                </app></l>
+            </lg>
+            <lg>
+                <l>We trust, in plumed procession<!--2016-03-19: nll: I need another set of eyes here. It almost looks like there is a comma here in the Poems1...--></l>
+                <l>For such<app>
+                    <rdg wit="#df6 #CP #D #fh">, </rdg>
+                    <rdg wit="#poems1"> </rdg>
+                </app>the <app>
+                    <rdg wit="#df6 #CP #D #fh">Angels</rdg>
+                    <rdg wit="#poems1">angels</rdg>
+                </app> go<app>
+                    <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
+                    <rdg wit="#poems1">,</rdg>
+                </app></l>
+                <l>Rank after <app>
+                    <rdg wit="#df6 #CP #D #fh">Rank</rdg>
+                    <rdg wit="poems1">rank</rdg>
+                </app>, with Even feet<!--2016-03-19: nll: I can't tell if the E in Even is capitalized or not...Brooke? So I didn't mark it up.--><app>
+                    <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
+                    <rdg wit="#poems1"></rdg>
+                </app></l>
+                <l>And <app>
+                    <rdg wit="#df6 #CP #D #fh">Uniforms</rdg>
+                    <rdg wit="#poems1">uniforms</rdg>
+                </app> of snow.<!--2016-03-19: nll: I also can't tell if the S in snow is capitalized or not, so I didn't mark it up.--></l>
+            </lg>
         </body>
     </text>
 </TEI>
