@@ -21,8 +21,48 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-    <!--2016-03-27: nll: We'll need to make sure we use CSS to create the underlining, italicizing, and quoting!-->
     <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/601.xml"/>
+                    <ptr target="img/601/fs601.jpg"/>
+                    <ptr target="img/601/601CP.jpg"/>
+                    <ptr target="img/601/601ce.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df6">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 6</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="CP">
+                        <bibl>
+                            <title>The Complete Poems of Emily Dickinson</title>
+                            <author>Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1960</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson, Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown, and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <!--2016-03-27: nll: We'll need to make sure we use CSS to create the underlining, italicizing, and quoting!-->
         <body>
             <head>
                 <title>Poem 1 (J 73: 1830-1886)</title>
