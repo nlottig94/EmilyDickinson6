@@ -21,6 +21,7 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <!--2016-03-27: nll: We'll need to make sure we use CSS to create the underlining, italicizing, and quoting!-->
     <text>
         <body>
             <head>
@@ -29,36 +30,61 @@
             <lg>
                 <l n="1">Who never lost<app>
                     <rdg wit="#df6"> </rdg>
-                    <rdg wit="#CP">, </rdg>
+                    <rdg wit="#CP #ce">, </rdg>
                     </app>are unprepared</l>
-                <l n="2">A Coronet to find!</l>
-                <l n="3">Who never thirsted</l>
-                <l n="4">Flagons, and Cooling Tamarind!</l>
+                <l n="2">A <app>
+                    <rdg wit="#df6 #CP">Coronet</rdg>
+                    <rdg wit="#ce">coronet</rdg>
+                </app> to find<app>
+                    <rdg wit="#df6 #CP">!</rdg>
+                    <rdg wit="#ce">;</rdg>
+                </app></l>
+                <l n="3">Who never thirsted<app>
+                    <rdg wit="#df6 #CP"></rdg>
+                    <rdg wit="#ce">, flagons</rdg>
+                </app></l>
+                <l n="4"><app>
+                    <rdg wit="#df6 #CP">Flagons, and Cooling Tamarind!</rdg>
+                    <rdg wit="#ce">And cooling tamarind.</rdg>
+                </app></l>
             </lg>
             <lg>
                 <l n="5">Who never <app>
                     <rdg wit="#df6">Climbed</rdg>
-                    <rdg wit="#CP">climbed</rdg>
+                    <rdg wit="#CP #ce">climbed</rdg>
                 </app> the weary league&#8212;</l>
                 <l n="6">Can <app>
                     <rdg wit="#df6">Such</rdg>
-                    <rdg wit="#CP">such</rdg>
+                    <rdg wit="#CP #ce">such</rdg>
                 </app> a foot <app>
                     <rdg wit="#df6">Explore</rdg>
-                    <rdg wit="#CP">explore</rdg>
+                    <rdg wit="#CP #ce">explore</rdg>
                 </app></l>
                 <l n="7">The <app>
                     <rdg wit="#df6">Purple</rdg>
-                    <rdg wit="#CP">purple</rdg>
+                    <rdg wit="#CP #ce">purple</rdg>
                 </app> territories</l>
-                <l n="8">On Pizarro's shore?</l>
+                <l n="8">On Pizarro's shore?<!--2016-03-27: nll: Should we tag Pizarro as a persName?--></l>
             </lg>
             <lg>
-                <l n="9"> How many Legions overcome&#8212;</l>
-                <l n="10">The Emperor will say?</l>
+                <l n="9">How many <app>
+                    <rdg wit="#df6 #CP">Legions</rdg>
+                    <rdg wit="#ce">legions</rdg>
+                </app> overcome<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce">?</rdg>
+                </app></l>
+                <l n="10">The <app>
+                    <rdg wit="#df6 #CP">Emperor</rdg>
+                    <rdg wit="#ce">emperor</rdg>
+                </app> will say<app>
+                    <rdg wit="#df6 #CP">?</rdg>
+                    <rdg wit="#ce">.</rdg>
+                </app></l>
                 <l n="11">How many <app>
                     <rdg wit="#df6"><emph rend="underline">Colors</emph></rdg>
                     <rdg wit="#CP"><emph rend="italic">Colors</emph></rdg>
+                    <rdg wit="#ce">colors</rdg>
                 </app> taken</l>
                 <l n="12">On Revolution Day?</l>
             </lg>
@@ -66,10 +92,23 @@
                 <l n="13">How many <app>
                     <rdg wit="#df6"><emph rend="underline">Bullets</emph></rdg>
                     <rdg wit="#CP"><emph rend="italic">Bullets</emph></rdg>
+                    <rdg wit="#ce">bullets</rdg>
                 </app> bearest?</l>
-                <l n="14">Hast Thou the Royal scar?</l>
-                <l n="15">Angels! Write <q rend="doubleQuote" type="">Promoted</q><!-- 2016-03-19: nll: What attribute value here?--></l>
-                <l n="16">On this Soldier's brow!</l>
+                <l n="14"><app>
+                    <rdg wit="#df6 #CP">Hast Thou the Royal scar?</rdg>
+                    <rdg wit="#ce">The royal scar hast thou?</rdg>
+                </app></l>
+                <l n="15">Angels<app>
+                    <rdg wit="#df6 #CP">!</rdg>
+                    <rdg wit="#ce">,</rdg>
+                </app> <app>
+                    <rdg wit="#df6 #CP">Write</rdg>
+                    <rdg wit="#ce">write</rdg>
+                </app> <q rend="double" type="emph">Promoted</q></l>
+                <l n="16">On this <app>
+                    <rdg wit="#df6 #CP">Soldier's</rdg>
+                    <rdg wit="#ce">soldier's</rdg>
+                </app> brow!</l>
             </lg>
         </body>
     </text>
