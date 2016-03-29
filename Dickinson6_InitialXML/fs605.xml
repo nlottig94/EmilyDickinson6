@@ -78,8 +78,40 @@
         </front>
         <body>
             <head>
-                <title>Poem 5 (J 128: 1830-1886)</title></head>
-            
+                <title>Poem 5 (J 128: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">Bring me the sunset in a cup,</l>
+                <l n="2">Reckon the morning's flagon's up</l>
+                <l n="3">And say how many Dew,</l>
+                <l n="4">Tell me how far the morning leaps&#8212;</l>
+                <l n="5">Tell me what time the weaver sleeps</l>
+                <l n="6">Who spun the breadths of blue!</l>
+            </lg>
+            <lg>
+                <l n="7">Write me how manny notes there be</l>
+                <l n="8">In the new Robin's Ecstasy</l>
+                <l n="9">Among astonished boughs&#8212;</l>
+                <l n="10">How many trips the Tortoise makes&#8212;</l>
+                <l n="11">How many cups the Bee partakes,</l>
+                <l n="12">The Debauchee of Dews!</l>
+            </lg>
+            <lg>
+                <l n="13">Also, who laid the Rainbow's piers,</l>
+                <l n="14">Also, who leads the docile spheres</l>
+                <l n="15">By withes of supple blue?</l>
+                <l n="16">Whose fingers string the stalactite&#8212;</l>
+                <l n="17">Who counts the wampum of the night</l>
+                <l n="18">To see there none is due?</l>
+            </lg>
+            <lg>
+                <l n="19">Who built this little Alban House</l>
+                <l n="20">And shut the windows down so close</l>
+                <l n="21">My spirit cannot see?</l>
+                <l n="22">Who'll let me out some gala day</l>
+                <l n="23">With implements to fly away,</l>
+                <l n="24">Passing Pomposity?</l>
+            </lg>
         </body>
     </text>
 </TEI>
