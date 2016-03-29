@@ -21,6 +21,46 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/604.xml"/>
+                    <ptr target="img/604/fs604.jpg"/>
+                    <ptr target="img/604/604CP.jpg"/>
+                    <ptr target="img/604/604bm.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df6">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 6</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="CP">
+                        <bibl>
+                            <title>The Complete Poems of Emily Dickinson</title>
+                            <author>Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1960</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="bm">
+                        <bibl>
+                            <title>Bolts of Melody: New Poems of Emily Dickinson</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Mabel Loomis Todd and Millicent Todd Bingham</editor>
+                            <pubPlace>New York</pubPlace>
+                            <publisher>Harper &amp; Row, Publishers Inc.</publisher>
+                            <date>1945</date>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
         <body>
             <head>
                 <title>Poem 4 (J 127: 1830-1886)</title>
