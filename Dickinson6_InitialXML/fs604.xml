@@ -26,13 +26,13 @@
                 <title>Poem 4 (J 127: 1830-1886)</title>
             </head>
             <lg>
-                <l><q rend="singleQuote" type="">Houses</q>&#8212;So the Wise Men tell me.</l>
-                <l><q rend="singleQuote" type=""> Mansions</q>! Mansions must be warm!</l>
+                <l><q rend="single" type="">Houses</q>&#8212;So the Wise Men tell me.</l><!--2016-03-29: nll: I'm just changing 'singleQuote' to 'single.'-->
+                <l><q rend="single" type=""> Mansions</q>! Mansions must be warm!</l>
                 <l>Mansions cannot let the tears in,</l>
                 <l>Mansions must Exclude the storm! </l>
             </lg>
             <lg>
-                <l><q rend="singleQuote" type="">Many Mansions</q>, by  <q rend="singleQuote" type="">his Father</q>,</l>
+                <l><q rend="single" type="">Many Mansions</q>, by  <q rend="single" type="">his Father</q>,</l>
                 <l>I dont know him; snugly built!</l>
                 <l>Could the children find the way there</l>
                 <l>Some, would Even trudge tonight!</l>
