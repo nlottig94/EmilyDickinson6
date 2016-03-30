@@ -95,10 +95,7 @@
                     <rdg wit="#df6 #CP">Hill</rdg>
                     <rdg wit="#poems3 #ce">hill</rdg>
                 </app></l>
-                <l n="2">Her annual <app>
-                    <rdg wit="#df6">Secret</rdg>
-                    <rdg wit="#CP #poems3 #ce">secret</rdg>
-                </app> keeps<app>
+                <l n="2">Her annual secret keeps<app>
                     <rdg wit="#df6 #CP">!</rdg>
                     <rdg wit="#poems3 #ce">;</rdg>
                 </app><!-- 2016-03-18: nll: Is the S in Secret capital? Double-check me Brooke! It looks to me that it is capital, so that's what I'm going with. It won't be too hard to change if we need to.--></l>
