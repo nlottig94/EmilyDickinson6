@@ -1,6 +1,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -66,13 +67,13 @@
                 <title>Poem 4 (J 127: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1"><q rend="single" type="">Houses</q>&#8212;So the Wise Men tell me.</l><!--2016-03-29: nll: I'm just changing 'singleQuote' to 'single.'-->
-                <l n="2"><q rend="single" type=""> Mansions</q>! Mansions must be warm!</l>
+                <l n="1"><q rend="single" type="thought">Houses</q>&#8212;So the Wise Men tell me.</l><!--2016-03-29: nll: I'm just changing 'singleQuote' to 'single.'-->
+                <l n="2"><q rend="single" type="thought"> Mansions</q>! Mansions must be warm!</l>
                 <l n="3">Mansions cannot let the tears in,</l>
                 <l n="4">Mansions must Exclude the storm! </l>
             </lg>
             <lg>
-                <l n="5"><q rend="single" type="">Many Mansions</q>, by  <q rend="single" type="">his Father</q>,</l>
+                <l n="5"><q rend="single" type="thought">Many Mansions</q>, by  <q rend="single" type="thought">his Father</q>,</l>
                 <l n="6">I dont know him; snugly built!</l>
                 <l n="7">Could the children find the way there</l>
                 <l n="8">Some, would Even trudge tonight!</l>
