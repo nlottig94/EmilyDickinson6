@@ -7,6 +7,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Fascicle 6: Poem 8. 608/76/variant</title>
+                <title type="Poems1alt" corresp="#poems1">SETTING SAIL.</title>
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
@@ -22,10 +23,88 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/608.xml"/>
+                    <ptr target="img/608/fs608.jpg"/>
+                    <ptr target="img/608/608ce.jpg"/>
+                    <ptr target="img/608/608CPa.jpg"/>
+                    <ptr target="img/608/608CPb.jpg"/>
+                    <ptr target="img/608/608fha.jpg"/>
+                    <ptr target="img/608/608fhb.jpg"/>
+                    <ptr target="img/608/608poems1.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df6">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 6</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="CP">
+                        <bibl>
+                            <title>The Complete Poems of Emily Dickinson</title>
+                            <author>Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1960</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="poems1">
+                        <bibl>
+                            <title>Poems, First Series</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Mabel loomis Todd and Thomas Wentworth Higginson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Roberts Brothers</publisher>
+                            <date>1890</date>
+                            <ref target="http://www.ibiblio.org/ebooks/Dickinson/Dickinson_Poems1.htm">oems by Emily Dickinson, First Series (html version)</ref>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson, Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown, and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="fh">
+                        <bibl>
+                            <title>Final Harvest: Emily Dickinson's Poems</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1961</date>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
         <body>
             <head>
-                <title>Poem 8 (J 76: 1830-1886)</title></head>
-            
+                <title>Poem 8 (J 76: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">Exultation is the going</l>
+                <l n="2">Of an inland soul to sea&#8212;</l>
+                <l n="3">Past the Houses&#8212;</l>
+                <l n="4">Past the Headlands&#8212;</l>
+                <l n="5">Into deep Eternity&#8212;</l>
+            </lg>
+            <lg>
+                <l n="6">Bred as we, Among the mountains</l>
+                <l n="7">Can the sailor understand</l>
+                <l n="8">The divine intoxication</l>
+                <l n="9">Of the first league out from land</l>
+            </lg>
         </body>
     </text>
 </TEI>
