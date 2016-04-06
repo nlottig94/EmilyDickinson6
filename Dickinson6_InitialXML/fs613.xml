@@ -84,8 +84,28 @@
         </front>
         <body>
             <head>
-                <title>Poem 13 (J 78: 1830-1886)</title></head>
-            
+                <title>Poem 13 (J 78: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">A poor&#8212;torn heart&#8212;a tattered heart&#8212;</l>
+                <l n="2">That sat it down to rest&#8212;</l>
+                <l n="3">Nor notices that the Ebbing Day</l>
+                <l n="4">Flowed silver to the west&#8212;</l>
+                <l n="5">Nor noticed night did soft descend&#8212;</l>
+                <l n="6">Nor Constellation burn&#8212;</l>
+                <l n="7">Intent upon the vision</l>
+                <l n="8">Of latitudes unknown.</l>
+            </lg>
+            <lg>
+                <l n="9">The angels&#8212;happening that way</l>
+                <l n="10">This dusty heart Espied&#8212;</l>
+                <l n="11">Tenderly took it up from toil</l>
+                <l n="12">And carried it to God&#8212;</l>
+                <l n="13">Then&#8212;scandals for the Barefoot&#8212;</l>
+                <l n="14">There&#8212;gathered from the gales&#8212;</l>
+                <l n="15">Do the blue havens of the hand</l>
+                <l n="16">Lead the wandering sails.</l>
+            </lg>
         </body>
     </text>
 </TEI>

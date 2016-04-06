@@ -76,8 +76,20 @@
         </front>
         <body>
             <head>
-                <title>Poem 9 (J 77: 1830-1886)</title></head>
-            
+                <title>Poem 9 (J 77: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">I never hear the word <q rend="double">Escape</q></l>
+                <l n="2">Without a quicker blood,</l>
+                <l n="3">A sudden Expectation,</l>
+                <l n="4">A flying attitude!</l>
+            </lg>
+            <lg>
+                <l n="5">I never hear of prisons broad</l>
+                <l n="6">By soldiers battered down,</l>
+                <l n="7">But I tug childish at my bar&#8212;</l>
+                <l n="8">Only to fail again!</l>
+            </lg>
         </body>
     </text>
 </TEI>
