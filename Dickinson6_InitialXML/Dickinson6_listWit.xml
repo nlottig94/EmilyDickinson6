@@ -75,6 +75,12 @@
             <author>Emily Dickinson</author>
         </bibl>
     </witness>
+    <witness xml:id="LETTER">
+        <bibl>
+            <title>LETTER</title>
+            <author>Emily Dickinson</author>
+        </bibl>
+    </witness>
     <witness xml:id="D">
         <bibl>
             <title>Dickinson</title>

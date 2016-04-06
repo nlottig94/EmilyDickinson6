@@ -22,6 +22,59 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/615.xml"/>
+                    <ptr target="img/615/fs615.jpg"/>
+                    <ptr target="img/615/615ce.jpg"/>
+                    <ptr target="img/615/615CPa.jpg"/>
+                    <ptr target="img/615/615CPb.jpg"/>
+                    <ptr target="img/615/615poems1.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df6">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 6</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="CP">
+                        <bibl>
+                            <title>The Complete Poems of Emily Dickinson</title>
+                            <author>Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1960</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson, Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown, and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="poems1">
+                        <bibl>
+                            <title>Poems, First Series</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Mabel loomis Todd and Thomas Wentworth Higginson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Roberts Brothers</publisher>
+                            <date>1890</date>
+                            <ref target="http://www.ibiblio.org/ebooks/Dickinson/Dickinson_Poems1.htm">oems by Emily Dickinson, First Series (html version)</ref>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
         <body>
             <head>
                 <title>Poem 15 (J 133: 1830-1886)</title></head>

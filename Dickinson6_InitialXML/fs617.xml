@@ -22,6 +22,58 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/617.xml"/>
+                    <ptr target="img/617/fs617.jpg"/>
+                    <ptr target="img/617/617cea.jpg"/>
+                    <ptr target="img/617/617ceb.jpg"/>
+                    <ptr target="img/617/617CPa.jpg"/>
+                    <ptr target="img/617/617CPb.jpg"/>
+                    <ptr target="img/617/617D.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df6">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 6</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="CP">
+                        <bibl>
+                            <title>The Complete Poems of Emily Dickinson</title>
+                            <author>Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1960</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson, Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown, and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="D">
+                        <bibl>
+                            <title>Dickinson</title>
+                            <author>Helen Vendler</author>
+                            <pubPlace>Cambridge, Massachusetts</pubPlace>
+                            <publisher>The Belknap Press of Harvard University Press</publisher>
+                            <date>2010</date>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
         <body>
             <head>
                 <title>Poem 17 (J 80: 1830-1886)</title></head>

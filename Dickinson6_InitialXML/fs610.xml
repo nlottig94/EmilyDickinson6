@@ -22,6 +22,82 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/610.xml"/>
+                    <ptr target="img/610/fs610a.jpg"/>
+                    <ptr target="img/610/fs610b.jpg"/>
+                    <ptr target="img/610/610cea.jpg"/>
+                    <ptr target="img/610/610ceb.jpg"/>
+                    <ptr target="img/610/610CP.jpg"/>
+                    <ptr target="img/610/610D.jpg"/>
+                    <ptr target="img/610/610fha.jpg"/>
+                    <ptr target="img/610/610fhb.jpg"/>
+                    <ptr target="img/610/610poems1.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df6">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 6</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="CP">
+                        <bibl>
+                            <title>The Complete Poems of Emily Dickinson</title>
+                            <author>Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1960</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson, Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown, and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="D">
+                        <bibl>
+                            <title>Dickinson</title>
+                            <author>Helen Vendler</author>
+                            <pubPlace>Cambridge, Massachusetts</pubPlace>
+                            <publisher>The Belknap Press of Harvard University Press</publisher>
+                            <date>2010</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="fh">
+                        <bibl>
+                            <title>Final Harvest: Emily Dickinson's Poems</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1961</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="poems1">
+                        <bibl>
+                            <title>Poems, First Series</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Mabel loomis Todd and Thomas Wentworth Higginson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Roberts Brothers</publisher>
+                            <date>1890</date>
+                            <ref target="http://www.ibiblio.org/ebooks/Dickinson/Dickinson_Poems1.htm">oems by Emily Dickinson, First Series (html version)</ref>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
         <body>
             <head>
                 <title>Poem 10 (J 130: 1830-1886)</title></head>

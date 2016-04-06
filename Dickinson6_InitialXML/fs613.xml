@@ -22,6 +22,66 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/613.xml"/>
+                    <ptr target="img/613/fs613.jpg"/>
+                    <ptr target="img/613/613cea.jpg"/>
+                    <ptr target="img/613/613ceb.jpg"/>
+                    <ptr target="img/613/613CP.jpg"/>
+                    <ptr target="img/613/613lSD.jpg"/>
+                    <ptr target="img/613/613poems2.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df6">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 6</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="CP">
+                        <bibl>
+                            <title>The Complete Poems of Emily Dickinson</title>
+                            <author>Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1960</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson, Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown, and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="lSD">
+                        <bibl>
+                            <title>LETTER TO SISTER-IN-LAW (Susan Dickinson)</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="poems2">
+                        <bibl>
+                            <title>Poems, Second Series</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Thomas Wentworth Higginson and Mabel Loomis Todd</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Roberts Brothers</publisher>
+                            <date>1891</date>
+                            <ref target="http://www.ibiblio.org/ebooks/Dickinson/Dickinson_Poems2.htm#copy">Poems by Emily Dickinson, Second Series (html version)</ref>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
         <body>
             <head>
                 <title>Poem 13 (J 78: 1830-1886)</title></head>
