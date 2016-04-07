@@ -79,17 +79,67 @@
                 <title>Poem 17 (J 80: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1">Our lives are Swiss&#8212;</l>
-                <l n="2">So still&#8212;So Cool&#8212;</l>
-                <l n="3">Till some odd afternoon</l>
-                <l n="4">The <geogName type="mountainRange">Alps</geogName> neglect their Curtains</l>
-                <l n="5">And we look farther on!</l>
+                <l n="1">Our lives are Swiss<app>
+                    <rdg wit="#df6 #CP #D">&#8212;</rdg>
+                    <rdg wit="#ce">,&#8212;</rdg>
+                </app></l>
+                <l n="2">So still<app>
+                    <rdg wit="#df6 #CP #D">&#8212;</rdg>
+                    <rdg wit="#ce">, </rdg>
+                </app>so <app>
+                    <rdg wit="#df6 #CP #D">Cool</rdg>
+                    <rdg wit="#ce">cool</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #D">&#8212;</rdg>
+                    <rdg wit="#ce">,</rdg>
+                </app></l>
+                <l n="3">Till<app>
+                    <rdg wit="#df6 #CP #D"></rdg>
+                    <rdg wit="#ce">,</rdg>
+                </app> some odd afternoon<app>
+                    <rdg wit="#df6 #CP #D"></rdg>
+                    <rdg wit="#ce">,</rdg>
+                </app></l>
+                <l n="4">The <geogName type="mountainRange">Alps</geogName> neglect their <app>
+                    <rdg wit="#df6 #CP #D">Curtains</rdg>
+                    <rdg wit="#ce">curtains</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #D"></rdg>
+                    <rdg wit="#ce">,</rdg>
+                </app></l>
+                <l n="5">And we look farther on<app>
+                    <rdg wit="#df6 #CP #D">!</rdg>
+                    <rdg wit="#ce">.</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l n="6"><emph rend="underline"><country>Italy</country></emph> stands the other side!</l>
-                <l n="7">While like a guard between.</l>
-                <l n="8">The solumn <geogName type="mountainRange">Alps</geogName>&#8212;</l>
-                <l n="9">The Siren <geogName type="mountainRange">Alps</geogName></l>
+                <l n="6"><app>
+                    <rdg wit="#df6"><emph rend="underline"><country>Italy</country></emph></rdg>
+                    <rdg wit="#CP #D"><emph rend="italic"><country>Italy</country></emph></rdg>
+                    <rdg wit="#ce"><country>Italy</country></rdg>
+                </app> stands the other side<app>
+                    <rdg wit="#df6 #CP #D">!</rdg>
+                    <rdg wit="#ce">,</rdg>
+                </app></l>
+                <l n="7">While<app>
+                    <rdg wit="#df6 #CP #D"></rdg>
+                    <rdg wit="#ce">,</rdg>
+                </app> like a guard between<app>
+                    <rdg wit="#df6">.</rdg>
+                    <rdg wit="#ce">,</rdg>
+                    <rdg wit="#CP #D">&#8212;</rdg>
+                </app></l>
+                <l n="8">The solumn <geogName type="mountainRange">Alps</geogName><app>
+                    <rdg wit="#df6 #CP #D">&#8212;</rdg>
+                    <rdg wit="#ce">,</rdg>
+                </app></l>
+                <l n="9">The <app>
+                    <rdg wit="#df6">Siren</rdg>
+                    <rdg wit="#ce #CP #D">siren</rdg>
+                </app> <geogName type="mountainRange">Alps</geogName><app>
+                    <rdg wit="#df6 #CP #D"></rdg>
+                    <rdg wit="#ce">,</rdg>
+                </app></l>
                 <l n="10">Forever intervene!</l>
             </lg>
         </body>
