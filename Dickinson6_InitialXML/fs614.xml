@@ -79,8 +79,44 @@
         </front>
         <body>
             <head>
-                <title>Poem 14 (J 132-J 133: 1830-1886)</title></head>
-            
+                <title>Poem 14 (J 132-J 133: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">I bring an unaccustomed wine</l>
+                <l n="2">To lips long parching</l>
+                <l n="3">Next to mine,</l>
+                <l n="4">And summon them to drink;</l>
+            </lg>
+            <lg>
+                <l n="5">Crackling with fever, they Essay,</l>
+                <l n="6">I turn my brimming Eyes away,</l>
+                <l n="7">And come next hour to look.</l>
+            </lg>
+            <lg>
+                <l n="8">The hands still hug the tardy glass&#8212;</l>
+                <l n="9">The lips I w'd have cooled, Alas&#8212;</l>
+                <l n="10">Are so superfluous Cold.</l>
+            </lg>
+            <lg>
+                <l n="11">I w'd as soon attempt to warm</l>
+                <l n="12">The bosoms where the frost has lain</l>
+                <l n="13">Ages beneath the mould&#8212;</l>
+            </lg>
+            <lg>
+                <l n="14">Some other thirsty there may be</l>
+                <l n="15">To whom this w'd have pointed me</l>
+                <l n="16">Had it remained to speak&#8212;</l>
+            </lg>
+            <lg>
+                <l n="17">And so I always bear the cup</l>
+                <l n="18">If, haply, mine may be the drop</l>
+                <l n="19">Some pilgrim thirst to slake&#8212;</l>
+            </lg>
+            <lg>
+                <l n="20">If, haply, any say to me</l>
+                <l n="21"><q rend="double" type="spoken">Unto the little, unto me,</q></l>
+                <l n="22">When I at last awake.</l>
+            </lg>
         </body>
     </text>
 </TEI>

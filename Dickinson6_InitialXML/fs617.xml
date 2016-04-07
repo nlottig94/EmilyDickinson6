@@ -76,8 +76,22 @@
         </front>
         <body>
             <head>
-                <title>Poem 17 (J 80: 1830-1886)</title></head>
-            
+                <title>Poem 17 (J 80: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">Our lives are Swiss&#8212;</l>
+                <l n="2">So still&#8212;So Cool&#8212;</l>
+                <l n="3">Till some odd afternoon</l>
+                <l n="4">The <geogName type="mountainRange">Alps</geogName> neglect their Curtains</l>
+                <l n="5">And we look farther on!</l>
+            </lg>
+            <lg>
+                <l n="6"><emph rend="underline"><country>Italy</country></emph> stands the other side!</l>
+                <l n="7">While like a guard between.</l>
+                <l n="8">The solumn <geogName type="mountainRange">Alps</geogName>&#8212;</l>
+                <l n="9">The Siren <geogName type="mountainRange">Alps</geogName></l>
+                <l n="10">Forever intervene!</l>
+            </lg>
         </body>
     </text>
 </TEI>

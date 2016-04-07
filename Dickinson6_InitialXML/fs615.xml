@@ -77,8 +77,20 @@
         </front>
         <body>
             <head>
-                <title>Poem 15 (J 133: 1830-1886)</title></head>
-            
+                <title>Poem 15 (J 133: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">As children bid the Guest <q rend="double" type="spoken">Good Night</q></l>
+                <l n="2">And then reluctant turn&#8212;</l>
+                <l n="3">My flowers raise their pretty lips&#8212;</l>
+                <l n="4">Then put their nightgowns on.</l>
+            </lg>
+            <lg>
+                <l n="5">As children caper when they wake</l>
+                <l n="6">Merry that it is morn&#8212;</l>
+                <l n="7">My flowers from a hundred cribs</l>
+                <l n="8">Will peep, and prance again.</l>
+            </lg>
         </body>
     </text>
 </TEI>
