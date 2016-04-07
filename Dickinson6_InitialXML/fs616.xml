@@ -82,35 +82,98 @@
             </head>
             <lg>
                 <l n="1">Going to Heaven!</l>
-                <l n="2">I dont know when&#8212;</l>
-                <l n="3">Pray do not ask me how!</l>
-                <l n="4">Indeed I'm too astonished</l>
+                <l n="2">I <app>
+                    <rdg wit="#df6">dont</rdg>
+                    <rdg wit="#ce #CP #poems2">don't</rdg>
+                </app> know when<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                </app></l>
+                <l n="3">Pray do not ask me how<app>
+                    <rdg wit="#df6 #CP">!</rdg>
+                    <rdg wit="#ce #poems2">,&#8212;</rdg>
+                </app></l>
+                <l n="4">Indeed<app>
+                    <rdg wit="#df6 #CP"></rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                </app> I'm too astonished</l>
                 <l n="5">To think of answering you!</l>
-                <l n="6">Going to Heaven!</l>
+                <l n="6">Going to Heaven<app>
+                    <rdg wit="#df6 #CP">!</rdg>
+                    <rdg wit="#ce #poems2">!&#8212;</rdg>
+                </app></l>
                 <l n="7">How dim it sounds!</l>
                 <l n="8">And yet it will be done</l>
-                <l n="9">As soon as flocks go home at night</l>
-                <l n="10">Unto the Shepherds' arm!</l>
+                <l n="9">As sure as flocks go home at night</l>
+                <l n="10">Unto the <app>
+                    <rdg wit="#df6">Shepherds'</rdg>
+                    <rdg wit="#CP">Shephard's</rdg>
+                    <rdg wit="#ce #poems2">shepherd's</rdg>
+                </app> arm!</l>
             </lg>
             <lg>
                 <l n="11">Perhaps you're going too!</l>
                 <l n="12">Who knows?</l>
-                <l n="13">If you sh'd get there first</l>
-                <l n="14">Save just a little place for me</l>
-                <l n="15">Close to the two I lost&#8212;</l>
-                <l n="16">The smallest <q rend="double" type="emph">Robe</q> will fit me</l>
-                <l n="17">And just a bit of <q rend="double" type="emph">Crown&#8212;</q></l>
+                <l n="13">If you <app>
+                    <rdg wit="#df6">sh'd</rdg>
+                    <rdg wit="#ce #CP #poems2">should</rdg>
+                </app> get there first<app>
+                    <rdg wit="#df6 #CP"></rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                </app></l>
+                <l n="14">Save just a little <app>
+                    <rdg wit="#df6 #ce #poems2">place</rdg>
+                    <rdg wit="#CP">space</rdg>
+                </app> for me</l>
+                <l n="15">Close to the two I lost<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">!</rdg>
+                </app></l>
+                <l n="16">The smallest <app>
+                    <rdg wit="#df6 #CP"><q rend="double" type="emph">Robe</q></rdg>
+                    <rdg wit="#ce #poems2"><q rend="double" type="emph">robe</q></rdg>
+                </app> will fit me<app>
+                    <rdg wit="#df6 #CP"></rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                </app></l>
+                <l n="17">And just a bit of <app>
+                    <rdg wit="#df6"><q rend="double" type="emph">Crown&#8212;</q></rdg>
+                    <rdg wit="#CP"><q rend="double" type="emph">Crown</q>&#8212;</rdg>
+                    <rdg wit="#ce"><q rend="double" type="emph">crown</q>;</rdg>
+                    <rdg wit="#poems2"><q rend="double" type="emph">crown;</q></rdg>
+                </app></l>
                 <l n="18">For you know we do not mind our dress</l>
-                <l n="19">When we are going home&#8212;</l>
+                <l n="19">When we are going home<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">.</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l n="20">I'm glad I dont believe it</l>
-                <l n="21">For it w'd stop my breath&#8212;</l>
+                <l n="20">I'm glad I <app>
+                    <rdg wit="#df6">dont</rdg>
+                    <rdg wit="#ce #CP #poems2">don't</rdg>
+                </app> believe it<app>
+                    <rdg wit="#df6 #CP"></rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                </app></l>
+                <l n="21">For it <app>
+                    <rdg wit="#df6">w'd</rdg>
+                    <rdg wit="#ce #CP #poems2">would</rdg>
+                </app> stop my breath<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                </app></l>
                 <l n="22">And I'd like to look a little more</l>
-                <l n="23">At such a curious Earth!</l>
+                <l n="23">At such a curious <app>
+                    <rdg wit="#df6 #CP">Earth</rdg>
+                    <rdg wit="#ce #poems2">earth</rdg>
+                </app>!</l>
                 <l n="24">I am glad they did believe it</l>
-                <l n="25">When I have never found</l>
-                <l n="26">Since the mighty Autumn afternoon</l>
+                <l n="25">Whom I have never found</l>
+                <l n="26">Since the mighty <app>
+                    <rdg wit="#df6 #CP">Autumn</rdg>
+                    <rdg wit="#ce #poems2">autumm</rdg>
+                </app> afternoon</l>
                 <l n="27">I left them in the ground.</l>
             </lg>
         </body>
