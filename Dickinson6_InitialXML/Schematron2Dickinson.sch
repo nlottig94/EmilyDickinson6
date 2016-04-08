@@ -52,7 +52,9 @@
     <pattern>
         <rule context="@wit">
             <let name="tokens" value="for $i in tokenize(., '\s+') return substring-after($i, '#')"/>
-            <assert test="every $token in $tokens satisfies $token = $witList">
+            <assert test="every $token in $tokens satisfies $token = $witList or contains(., 'var')">
+                <!--2016-04-08 ebb: I have just added an "or" to this assert test, so that you have an alternative that approves the presence of tokens beginnning with var. 
+                    You could probably fine-tune this to try to ensure that the substring after var contains digits, and perhaps in a certain order if you think you need that.-->
                 The attribute, after the hashtag (#) must match a defined @xml:id in the witList file!
             </assert>
         </rule>
