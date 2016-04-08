@@ -62,9 +62,9 @@
     
     <pattern>
         <rule context="tei:app">
-            <let name="wit" value="tokenize(replace(string-join(.//@wit, ' '), '#df16', ''), '\s+')"/>
+            <let name="wit" value="tokenize(replace(string-join(.//@wit, ' '), '#df6', ''), '\s+')"/>
             <assert test="count($wit) eq count(distinct-values($wit))">
-                There should not be any repeating witnesses in a single app element other than the possibility of #df16.
+                There should not be any repeating witnesses in a single app element other than the possibility of #df6.
             </assert>
         </rule>
     </pattern>
