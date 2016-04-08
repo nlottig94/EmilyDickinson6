@@ -83,8 +83,14 @@
             </head>
             <lg>
                 <l n="1">I bring an unaccustomed wine</l>
-                <l n="2">To lips long parching</l>
-                <l n="3">Next to mine,</l>
+                <l n="2">To lips long parching<app>
+                    <rdg wit="#df6"></rdg>
+                    <rdg wit="#ce">, next to mine,</rdg>
+                </app></l>
+                <l n="3"><app>
+                    <rdg wit="#df6">Next to mine,</rdg>
+                    <rdg wit="#ce"></rdg>
+                </app></l>
                 <l n="4">And summon them to drink;</l>
             </lg>
             <lg>
