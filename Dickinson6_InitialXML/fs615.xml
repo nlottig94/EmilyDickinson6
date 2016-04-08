@@ -80,14 +80,41 @@
                 <title>Poem 15 (J 133: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1">As children bid the Guest <q rend="double" type="spoken">Good Night</q></l>
-                <l n="2">And then reluctant turn&#8212;</l>
-                <l n="3">My flowers raise their pretty lips&#8212;</l>
+                <l n="1">As <app>
+                    <rdg wit="#df6 #ce #poems1">children</rdg>
+                    <rdg wit="#CP">Children</rdg>
+                </app> bid the <app>
+                    <rdg wit="#df6 #CP">Guest</rdg>
+                    <rdg wit="#ce #poems1">guest</rdg>
+                </app> <app>
+                    <rdg wit="#df6 #CP"><q rend="double" type="spoken">Good Night</q></rdg>
+                    <rdg wit="#ce #poems1">good-night</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP"></rdg>
+                    <rdg wit="#ce #poems1">,</rdg>
+                </app></l>
+                <l n="2">And then reluctant turn<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">,</rdg>
+                </app></l>
+                <l n="3">My flowers raise their pretty lips<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">,</rdg>
+                </app></l>
                 <l n="4">Then put their nightgowns on.</l>
             </lg>
             <lg>
-                <l n="5">As children caper when they wake</l>
-                <l n="6">Merry that it is morn&#8212;</l>
+                <l n="5">As children caper when they wake<app>
+                    <rdg wit="#df6 #CP"></rdg>
+                    <rdg wit="#ce #poems1">,</rdg>
+                </app></l>
+                <l n="6">Merry that it is <app>
+                    <rdg wit="#df6 #ce #poems1">morn</rdg>
+                    <rdg wit="#CP">Morn</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">,</rdg>
+                </app></l>
                 <l n="7">My flowers from a hundred cribs</l>
                 <l n="8">Will peep, and prance again.</l>
             </lg>
