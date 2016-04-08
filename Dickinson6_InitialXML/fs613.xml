@@ -87,24 +87,107 @@
                 <title>Poem 13 (J 78: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1">A poor&#8212;torn heart&#8212;a tattered heart&#8212;</l>
-                <l n="2">That sat it down to rest&#8212;</l>
-                <l n="3">Nor notices that the Ebbing Day</l>
-                <l n="4">Flowed silver to the west&#8212;</l>
-                <l n="5">Nor noticed night did soft descend&#8212;</l>
-                <l n="6">Nor Constellation burn&#8212;</l>
+                <l n="1">A poor<app>
+                    <rdg wit="#df6 #CP #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems2"> </rdg>
+                </app>torn <app>
+                    <rdg wit="#df6 #ce #CP #poems2">heart</rdg>
+                    <rdg wit="#lSD">Heart</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">, </rdg>
+                </app>a tattered heart<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #lSD #poems2">,</rdg>
+                </app></l>
+                <l n="2">That sat it down to rest<app>
+                    <rdg wit="#df6 #CP #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                </app></l>
+                <l n="3">Nor noticed that the <app>
+                    <rdg wit="#df6 #CP #lSD">Ebbing Day</rdg>
+                    <rdg wit="#ce #poems2">ebbing day</rdg>
+                </app></l>
+                <l n="4">Flowed silver to the <app>
+                    <rdg wit="#df6 #ce #lSD #poems2">west</rdg>
+                    <rdg wit="#CP">West</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                    <rdg wit="#lSD">;</rdg>
+                </app></l>
+                <l n="5">Nor noticed <app>
+                    <rdg wit="#df6 #ce #lSD #poems2">night</rdg>
+                    <rdg wit="#CP">Night</rdg>
+                </app> did soft descend<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #lSD #poems2"></rdg>
+                </app></l>
+                <l n="6">Nor <app>
+                    <rdg wit="#df6 #CP #lSD">Constellation</rdg>
+                    <rdg wit="#ce #poems2">constellation</rdg>
+                </app> burn<app>
+                    <rdg wit="#df6 #CP #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                </app></l>
                 <l n="7">Intent upon the vision</l>
-                <l n="8">Of latitudes unknown.</l>
+                <l n="8">Of <app>
+                    <rdg wit="#df6 #ce #CP #poems2">latitudes</rdg>
+                    <rdg wit="#lSD">Latitudes</rdg>
+                </app> unknown<app>
+                    <rdg wit="#df6 #ce #CP #poems2">.</rdg>
+                    <rdg wit="#lSD">&#8212;</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l n="9">The angels&#8212;happening that way</l>
-                <l n="10">This dusty heart Espied&#8212;</l>
-                <l n="11">Tenderly took it up from toil</l>
-                <l n="12">And carried it to God&#8212;</l>
-                <l n="13">Then&#8212;scandals for the Barefoot&#8212;</l>
-                <l n="14">There&#8212;gathered from the gales&#8212;</l>
-                <l n="15">Do the blue havens of the hand</l>
-                <l n="16">Lead the wandering sails.</l>
+                <l n="9">The angels<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #lSD #poems2">, </rdg>
+                </app>happening that way<app>
+                    <rdg wit="#df6 #CP #lSD"></rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                </app></l>
+                <l n="10">This dusty heart <app>
+                    <rdg wit="#df6 #lSD">Espied</rdg>
+                    <rdg wit="#ce #CP #poems2">espied</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">;</rdg>
+                </app></l>
+                <l n="11">Tenderly took it up from toil<app>
+                    <rdg wit="#df6 #ce #CP #poems2"></rdg>
+                    <rdg wit="#lSD">,</rdg>
+                </app></l>
+                <l n="12">And carried it to <persName>God</persName><app>
+                    <rdg wit="#df6 #CP #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">.</rdg>
+                </app></l>
+                <l n="13">There<app>
+                    <rdg wit="#df6 #CP #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,&#8212;</rdg>
+                </app>sandals for the <app>
+                    <rdg wit="#df6 #CP #lSD">Barefoot</rdg>
+                    <rdg wit="#ce #poems2">barefoot</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">;</rdg>
+                </app></l>
+                <l n="14">There<app>
+                    <rdg wit="#df6 #CP #lSD">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,&#8212;</rdg>
+                </app>gathered from the gales<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#ce #poems2">,</rdg>
+                    <rdg wit="#lSD"></rdg>
+                </app></l>
+                <l n="15">Do the blue <app>
+                    <rdg wit="#df6 #ce #CP #poems2">havens</rdg>
+                    <rdg wit="#lSD">Havens</rdg>
+                </app> by the hand</l>
+                <l n="16">Lead the wandering <app>
+                    <rdg wit="#df6 #ce #lSD #poems2">sails</rdg>
+                    <rdg wit="#CP">Sails</rdg>
+                </app>.</l>
             </lg>
         </body>
     </text>
