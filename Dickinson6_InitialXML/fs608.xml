@@ -94,7 +94,10 @@
             </head>
             <lg>
                 <l n="1">Exultation is the going</l>
-                <l n="2">Of an inland soul to sea&#8212;</l>
+                <l n="2">Of an inland soul to sea<app>
+                    <rdg wit="#df6">&#8212;</rdg>
+                    <rdg wit="#ce">,&#8212;</rdg>
+                </app></l>
                 <l n="3">Past the Houses&#8212;</l>
                 <l n="4">Past the Headlands&#8212;</l>
                 <l n="5">Into deep Eternity&#8212;</l>
