@@ -67,16 +67,82 @@
                 <title>Poem 4 (J 127: 1830-1886)</title>
             </head>
             <lg>
-                <l n="1"><q rend="single" type="thought">Houses</q>&#8212;So the Wise Men tell me.</l><!--2016-03-29: nll: I'm just changing 'singleQuote' to 'single.'-->
-                <l n="2"><q rend="single" type="thought"> Mansions</q>! Mansions must be warm!</l>
+                <l n="1"><app>
+                    <rdg wit="#df6"><q rend="single" type="thought">Houses</q>&#8212;</rdg>
+                    <rdg wit="#bm"><q rend="double" type="thought">Houses,</q> </rdg>
+                    <rdg wit="#CP"><q rend="double" type="thought">Houses</q>&#8212;</rdg>
+                </app><app>
+                    <rdg wit="#df6">So</rdg>
+                    <rdg wit="#bm #CP">so</rdg>
+                </app> the <app>
+                    <rdg wit="#df6 #CP">Wise Men</rdg>
+                    <rdg wit="#bm">wise men</rdg>
+                </app> tell me<app>
+                    <rdg wit="#df6">.</rdg><!--2016-04-10: Brooke, I think this period might be a dash in the original.  What do you think?-->
+                    <rdg wit="#bm">,</rdg>
+                    <rdg wit="#CP">&#8212;</rdg>
+                </app></l>
+                <l n="2"><app>
+                    <rdg wit="#df6"><q rend="single" type="thought">Mansions</q></rdg>
+                    <rdg wit="#bm #CP"><q rend="double" type="thought">Mansions</q></rdg>
+                </app>! Mansions must be warm<app>
+                    <rdg wit="#df6 #CP">!</rdg>
+                    <rdg wit="#bm">,</rdg>
+                </app></l>
                 <l n="3">Mansions cannot let the tears in,</l>
-                <l n="4">Mansions must Exclude the storm! </l>
+                <l n="4">Mansions must <app>
+                    <rdg wit="#df6">Exclude</rdg>
+                    <rdg wit="#bm #CP">exclude</rdg>
+                </app> the storm<app>
+                    <rdg wit="#df6 #CP">!</rdg>
+                    <rdg wit="#bm">.</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l n="5"><q rend="single" type="thought">Many Mansions</q>, by  <q rend="single" type="thought">his Father</q>,</l>
-                <l n="6">I dont know him; snugly built!</l>
-                <l n="7">Could the children find the way there</l>
-                <l n="8">Some, would Even trudge tonight!</l>
+                <l n="5"><app>
+                    <rdg wit="#df6"><q rend="single" type="thought">Many Mansions</q></rdg>
+                    <rdg wit="#bm"><q rend="double" type="thought">Many mansions</q></rdg>
+                    <rdg wit="#CP"><q rend="double" type="thought">Many Mansions,</q></rdg>
+                </app><app>
+                    <rdg wit="#df6">,</rdg>
+                    <rdg wit="#bm #CP"></rdg>
+                </app> by  <app>
+                    <rdg wit="#df6"><q rend="single" type="thought">his Father</q></rdg>
+                    <rdg wit="#bm"><q rend="double" type="thought">His Father</q></rdg>
+                    <rdg wit="#CP"><q rend="double" type="thought">his Father,</q></rdg>
+                </app><app>
+                    <rdg wit="#df6">,</rdg>
+                    <rdg wit="#bm">&#8212;</rdg>
+                    <rdg wit="#CP"></rdg>
+                </app></l>
+                <l n="6"><app>
+                    <rdg wit="#df6"><emph rend="underline">I</emph></rdg>
+                    <rdg wit="#CP"><emph rend="italic">I</emph></rdg>
+                    <rdg wit="#bm">I</rdg>
+                </app> <app>
+                    <rdg wit="#df6">dont</rdg>
+                    <rdg wit="#bm #CP">don't</rdg>
+                </app> know him<app>
+                    <rdg wit="#df6 #CP">; </rdg>
+                    <rdg wit="#bm">&#8212;</rdg>
+                </app>snugly built<app>
+                    <rdg wit="#df6 #CP">!</rdg>
+                    <rdg wit="#bm">.</rdg>
+                </app></l>
+                <l n="7">Could the <app>
+                    <rdg wit="#df6 #bm">children</rdg>
+                    <rdg wit="#CP">Children</rdg>
+                </app> find the way there<app>
+                    <rdg wit="#df6 #CP">&#8212;</rdg>
+                    <rdg wit="#bm"></rdg>
+                </app></l>
+                <l n="8">Some<app>
+                    <rdg wit="#df6 #CP">,</rdg>
+                    <rdg wit="#bm"></rdg>
+                </app> would <app>
+                    <rdg wit="#df6">Even</rdg>
+                    <rdg wit="#bm #CP">even</rdg>
+                </app> trudge tonight!</l>
             </lg>
         </body>
     </text>
