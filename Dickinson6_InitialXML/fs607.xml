@@ -60,7 +60,10 @@
                 <l n="2">Stealthy Cocoon, why hide you so</l>
                 <l n="3">What all the world suspect?</l>
                 <l n="4">An hour, and gay on every tree</l>
-                <l n="5">Your secret, perched in estasy<!--2016-04-03: nll: Brooke, look this over for me. It looks like estasy, but in the published version it's ecstasy...and if how I have it is correct, we'll need to add an app and rdg elements here because #CP has ecstasy.--></l>
+                <l n="5">Your secret, perched in <app>
+                    <rdg wit="#df6">estasy</rdg><!--2016-04-03: nll: Brooke, look this over for me. It looks like estasy, but in the published version it's ecstasy...and if how I have it is correct, we'll need to add an app and rdg elements here because #CP has ecstasy.-->
+                    <rdg wit="#CP">ecstasy</rdg>
+                </app></l>
                 <l n="6">Defies imprisonment!</l>
             </lg>
             <lg>
