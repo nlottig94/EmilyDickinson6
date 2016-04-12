@@ -99,13 +99,10 @@
             </lg>
             <lg>
                 <l n="5"><app>
-                    <rdg wit="#df6"><q rend="single" type="thought">Many Mansions</q></rdg>
+                    <rdg wit="#df6"><q rend="single" type="thought">Many Mansions</q>,</rdg>
                     <rdg wit="#bm"><q rend="double" type="thought">Many mansions</q></rdg>
                     <rdg wit="#CP"><q rend="double" type="thought">Many Mansions,</q></rdg>
-                </app><app>
-                    <rdg wit="#df6">,</rdg>
-                    <rdg wit="#bm #CP"></rdg>
-                </app> by  <app>
+                </app> by <app>
                     <rdg wit="#df6"><q rend="single" type="thought">his Father</q></rdg>
                     <rdg wit="#bm"><q rend="double" type="thought">His Father</q></rdg>
                     <rdg wit="#CP"><q rend="double" type="thought">his Father,</q></rdg>
