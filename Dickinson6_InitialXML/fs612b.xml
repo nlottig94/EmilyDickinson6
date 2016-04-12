@@ -1,0 +1,133 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="Schematron2Dickinson.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fascicle 6: Poem 12. 612/216/variant/version 2</title>
+                <author>Emily Dickinson</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Fascicle 6: Dickinson's variants and published versions</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno>612-2</idno></msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="references">
+                <listRef>
+                    <ptr target="xml/612.xml"/>
+                    <ptr target="img/612/fs612-2.jpg"/>
+                    <ptr target="img/612/612ce.jpg"/>
+                    <ptr target="img/612/612CP.jpg"/>
+                    <ptr target="img/612/612D.jpg"/>
+                    <ptr target="img/612/612fh.jpg"/>
+                    <ptr target="img/612/612lSDa.jpg"/>
+                    <ptr target="img/612/612lSDb.jpg"/>
+                    <ptr target="img/612/612poems1.jpg"/>
+                </listRef>
+            </div>
+            <div type="witness">
+                <listWit>
+                    <witness xml:id="df6">
+                        <bibl>
+                            <title>ORIGINAL POEMS: Fascicle 6</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="CP">
+                        <bibl>
+                            <title>The Complete Poems of Emily Dickinson</title>
+                            <author>Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1960</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="ce">
+                        <bibl>
+                            <title>The Poems of Emily Dickinson, Centenary Edition</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Martha Dickinson Bianchi and Alfred Leete Hampson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown, and Company</publisher>
+                            <date>1930</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="fh">
+                        <bibl>
+                            <title>Final Harvest: Emily Dickinson's Poems</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Thomas H. Johnson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Little, Brown and Company</publisher>
+                            <date>1961</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="D">
+                        <bibl>
+                            <title>Dickinson</title>
+                            <author>Helen Vendler</author>
+                            <pubPlace>Cambridge, Massachusetts</pubPlace>
+                            <publisher>The Belknap Press of Harvard University Press</publisher>
+                            <date>2010</date>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="lSD">
+                        <bibl>
+                            <title>LETTER TO SISTER-IN-LAW (Susan Dickinson)</title>
+                            <author>Emily Dickinson</author>
+                        </bibl>
+                    </witness>
+                    <witness xml:id="poems1">
+                        <bibl>
+                            <title>Poems, First Series</title>
+                            <author>Emily Dickinson</author>
+                            <editor>Mabel loomis Todd and Thomas Wentworth Higginson</editor>
+                            <pubPlace>Boston</pubPlace>
+                            <publisher>Roberts Brothers</publisher>
+                            <date>1890</date>
+                            <ref target="http://www.ibiblio.org/ebooks/Dickinson/Dickinson_Poems1.htm">oems by Emily Dickinson, First Series (html version)</ref>
+                        </bibl>
+                    </witness>
+                </listWit>
+            </div>
+        </front>
+        <body>
+            <head>
+                <title>Poem 12 (J 216: 1830-1886)</title>
+            </head>
+            <lg>
+                <l n="1">Safe in their Alabaster Chambers&#8212;</l>
+                <l n="2">Untouched by morning<!--2016-04-07: nll: I'm unsure if the m in morning is capital...--><app>
+                    <rdg wit="var0 #df6"></rdg>
+                    <rdg wit=" var1 #df6">&#8212;</rdg>
+                </app></l>
+                <l n="3">And untouched by Noon&#8212;</l>
+                <l n="4"><app>
+                    <rdg wit="var0 #df6">Sleep</rdg>
+                    <rdg wit="var1 #df6">Lie</rdg>
+                </app> the meek members of the Resurrection&#8212;</l>
+                <l n="5">Rafter of satin,<!--2016-04-07: nll: I can't tell if the s in satin capital or not.--></l>
+                <l n="6">And Roof of stone.</l>
+            </lg>
+            <lg>
+                <l n="7">Light laughs the breeze</l>
+                <l n="8">In her Castle above them&#8212;</l>
+                <l n="9">Babbles the Bee in a stolid Ear,</l>
+                <l n="10">Pipe the Sweet Birds in ignorant Cadence&#8212;</l>
+                <l n="11">Ah, what sagacity perished here!</l>
+            </lg>
+        </body>
+    </text>
+</TEI>
