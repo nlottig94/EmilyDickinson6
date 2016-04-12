@@ -99,11 +99,17 @@
                     <rdg wit="#ce #poems1">,&#8212;</rdg>
                     <rdg wit="#CP #fh">,</rdg>
                 </app></l>
-                <l n="3"><app>
-                    <rdg wit="#df6">Past the Houses&#8212;</rdg>
-                    <rdg wit="#ce #poems1">Past the houses, past the headlands,</rdg>
-                    <rdg wit="#CP #fh">Past the houses&#8212;past the headlands&#8212;</rdg>
-                </app></l>
+                <l n="3">Past the <app>
+                        <rdg wit="#df6">Houses</rdg>
+                        <rdg wit="#ce #CP #fh #poems1">houses</rdg>
+                    </app><app>
+                        <rdg wit="#df6 #CP #fh">&#8212;</rdg>
+                        <rdg wit="#ce #poems1">, </rdg>
+                    </app><app>
+                        <rdg wit="#df6"></rdg>
+                        <rdg wit="#ce #poems1">past the headlands,</rdg>
+                        <rdg wit="#CP #fh">past the headlands&#8212;</rdg>
+                    </app></l>
                 <l n="4"><app>
                     <rdg wit="#df6">Past the Headlands&#8212;</rdg>
                     <rdg wit="#ce #CP #fh #poems1"></rdg>
