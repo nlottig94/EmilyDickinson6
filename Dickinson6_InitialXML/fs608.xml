@@ -96,17 +96,43 @@
                 <l n="1">Exultation is the going</l>
                 <l n="2">Of an inland soul to sea<app>
                     <rdg wit="#df6">&#8212;</rdg>
-                    <rdg wit="#ce">,&#8212;</rdg>
+                    <rdg wit="#ce #poems1">,&#8212;</rdg>
+                    <rdg wit="#CP #fh">,</rdg>
                 </app></l>
-                <l n="3">Past the Houses&#8212;</l>
-                <l n="4">Past the Headlands&#8212;</l>
-                <l n="5">Into deep Eternity&#8212;</l>
+                <l n="3"><app>
+                    <rdg wit="#df6">Past the Houses&#8212;</rdg>
+                    <rdg wit="#ce #poems1">Past the houses, past the headlands,</rdg>
+                    <rdg wit="#CP #fh">Past the houses&#8212;past the headlands&#8212;</rdg>
+                </app></l>
+                <l n="4"><app>
+                    <rdg wit="#df6">Past the Headlands&#8212;</rdg>
+                    <rdg wit="#ce #CP #fh #poems1"></rdg>
+                </app></l>
+                <l n="5">Into deep <app>
+                    <rdg wit="#df6 #CP #fh">Eternity</rdg>
+                    <rdg wit="#ce #poems1">eternity</rdg>
+                </app><app>
+                    <rdg wit="#df6 #CP #fh">&#8212;</rdg>
+                    <rdg wit="#ce #poems1">!</rdg>
+                </app></l>
             </lg>
             <lg>
-                <l n="6">Bred as we, Among the mountains</l>
+                <l n="6">Bred as we, <app>
+                    <rdg wit="#df6">Among</rdg>
+                    <rdg wit="#ce #CP #fh #poems1">among</rdg>
+                </app> the mountains<app>
+                    <rdg wit="#df6"></rdg>
+                    <rdg wit="#ce #CP #fh #poems1">,</rdg>
+                </app></l>
                 <l n="7">Can the sailor understand</l>
                 <l n="8">The divine intoxication</l>
-                <l n="9">Of the first league out from Land</l>
+                <l n="9">Of the first league out from <app>
+                    <rdg wit="#df6">Land</rdg>
+                    <rdg wit="#ce #CP #fh #poems1">land</rdg>
+                </app><app>
+                    <rdg wit="#df6"></rdg>
+                    <rdg wit="#ce #CP #fh #poems1">?</rdg>
+                </app></l>
             </lg>
         </body>
     </text>
