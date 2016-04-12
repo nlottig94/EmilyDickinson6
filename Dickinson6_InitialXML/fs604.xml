@@ -78,9 +78,8 @@
                     <rdg wit="#df6 #CP">Wise Men</rdg>
                     <rdg wit="#bm">wise men</rdg>
                 </app> tell me<app>
-                    <rdg wit="#df6">.</rdg><!--2016-04-10: Brooke, I think this period might be a dash in the original.  What do you think?-->
+                    <rdg wit="#df6">&#8212;</rdg>
                     <rdg wit="#bm">,</rdg>
-                    <rdg wit="#CP">&#8212;</rdg>
                 </app></l>
                 <l n="2"><app>
                     <rdg wit="#df6"><q rend="single" type="thought">Mansions</q></rdg>
