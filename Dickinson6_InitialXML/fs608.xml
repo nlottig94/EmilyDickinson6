@@ -127,7 +127,7 @@
                     <rdg wit="#df6">Among</rdg>
                     <rdg wit="#ce #CP #fh #poems1">among</rdg>
                 </app> the mountains<app>
-                    <rdg wit="#df6"></rdg>
+                    <rdg wit="#df6"></rdg><!--2016-04-12: bas: Should we indicate that it's cut off? There's really no way to tell if any punctuation was there or not. Any thoughts? -->
                     <rdg wit="#ce #CP #fh #poems1">,</rdg>
                 </app></l>
                 <l n="7">Can the sailor understand</l>
@@ -137,7 +137,7 @@
                     <rdg wit="#ce #CP #fh #poems1">land</rdg>
                 </app><app>
                     <rdg wit="#df6"></rdg>
-                    <rdg wit="#ce #CP #fh #poems1">?</rdg>
+                    <rdg wit="#ce #CP #fh #poems1">?</rdg><!--2016-04-12: bas: Same thing here. -->
                 </app></l>
             </lg>
         </body>

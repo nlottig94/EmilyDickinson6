@@ -62,7 +62,7 @@
                 <l n="4">An hour, and gay on every tree</l>
                 <l n="5">Your secret, perched in <app>
                     <rdg wit="#df6">estasy</rdg><!--2016-04-03: nll: Brooke, look this over for me. It looks like estasy, but in the published version it's ecstasy...and if how I have it is correct, we'll need to add an app and rdg elements here because #CP has ecstasy.-->
-                    <rdg wit="#CP">ecstasy</rdg>
+                    <rdg wit="#CP">ecstasy</rdg><!--2016-04-12: bas: Nicole, it looks like estasy to me, so the app and rdg look correct.-->
                 </app></l>
                 <l n="6">Defies imprisonment!</l>
             </lg>
