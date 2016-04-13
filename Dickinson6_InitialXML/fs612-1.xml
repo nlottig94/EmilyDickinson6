@@ -25,15 +25,12 @@
         <front>
             <div type="references">
                 <listRef>
-                    <ptr target="xml/612.xml"/>
-                    <ptr target="img/612/fs612-1.jpg"/>
-                    <ptr target="img/612/612ce.jpg"/>
-                    <ptr target="img/612/612CP.jpg"/>
-                    <ptr target="img/612/612D.jpg"/>
-                    <ptr target="img/612/612fh.jpg"/>
-                    <ptr target="img/612/612lSDa.jpg"/>
-                    <ptr target="img/612/612lSDb.jpg"/>
-                    <ptr target="img/612/612poems1.jpg"/>
+                    <ptr target="xml/612-1.xml"/>
+                    <ptr target="img/612-1/fs612-1.jpg"/>
+                    <ptr target="img/612-1/612ce.jpg"/>
+                    <ptr target="img/612-1/612CP.jpg"/>
+                    <ptr target="img/612-1/612fh.jpg"/>
+                    <ptr target="img/612-1/612poems1.jpg"/>
                 </listRef>
             </div>
             <div type="witness">
