@@ -136,7 +136,7 @@
                 </app> old sophistries of <date when="--06">June</date><app>
                     <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
                     <rdg wit="#ce #poems1">,&#8212;</rdg>
-                </app><!--2016-04-05: nll: Brooke you'll need to look at this. It looks like a period after the first old, but the others have a dash.--></l>
+                </app><!--2016-04-05: nll: Brooke you'll need to look at this. It looks like a period after the first old, but the others have a dash.--><!-- 2016-04-13: bas: Looks like a period. --></l>
                 <l n="6">A blue and gold mistake.</l>
             </lg>
             <lg>
@@ -150,7 +150,7 @@
                     <rdg wit="#df6 #D">.</rdg>
                     <rdg wit="#ce #poems1">,</rdg>
                     <rdg wit="#CP #fh">&#8212;</rdg>
-                </app><!--2016-04-05: nll: You'll have to look at this one too!--></l>
+                </app><!--2016-04-05: nll: You'll have to look at this one too!--><!-- 2016-04-13: bas: Period. --></l>
                 <l n="8">Almost thy plausibility</l>
                 <l n="9">Induces my belief<app>
                     <rdg wit="#df6 #ce #D #poems1">,</rdg>
@@ -207,10 +207,7 @@
                     <rdg wit="#df6 #CP #D #fh">&#8212;</rdg>
                     <rdg wit="#ce #poems1">,</rdg>
                 </app></l>
-                <l n="17">Thy <app>
-                    <rdg wit="#df6">Consecrated</rdg>
-                    <rdg wit="#ce #CP #D #fh #poems1">consecrated</rdg>
-                </app> bread to <app>
+                <l n="17">Thy consecrated bread to <app>
                     <rdg wit="#df6 #CP #D #fh">take</rdg>
                     <rdg wit="#ce #poems1">break</rdg>
                 </app><app>
