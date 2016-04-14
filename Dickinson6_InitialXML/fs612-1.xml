@@ -99,7 +99,8 @@
                 </app></l>
                 <l n="2">Untouched by <app>
                     <rdg wit="#df6 #ce #poems1">morning</rdg>
-                    <rdg wit="#CP #fh">Morning</rdg>
+                    <rdg wit="#fh">Morning</rdg>
+                    <rdg wit="#CP">Morning&#8212;</rdg>
                 </app><app>
                     <rdg wit="#df6 #CP #fh"></rdg>
                     <rdg wit="#ce #poems1"> and untouched by noon,</rdg>
@@ -115,7 +116,11 @@
                     <rdg wit="#df6 #CP #fh">&#8212;</rdg>
                     <rdg wit="#ce #poems1">,</rdg>
                 </app></l>
-                <l n="5">Rafter of satin,<app>
+                <l n="5">Rafter of <app>
+                    <rdg wit="#df6">Satin,</rdg>
+                    <rdg wit="#ce #poems1">satin,</rdg>
+                    <rdg wit="#CP #fh">Satin&#8212;</rdg>
+                </app><app>
                     <rdg wit="#df6 #CP #fh"></rdg>
                     <rdg wit="#ce #poems1"> and roof of stone.</rdg>
                 </app><!--2016-04-07: nll: I can't tell if the s in satin capital or not.--></l>
@@ -146,10 +151,7 @@
                 <l n="10">Pipe the <app>
                     <rdg wit="#df6 #CP #fh">Sweet Birds</rdg>
                     <rdg wit="#ce #poems1">sweet birds</rdg>
-                </app> in ignorant <app>
-                    <rdg wit="#df6">Cadence</rdg>
-                    <rdg wit="#ce #CP #fh #poems1">cadence</rdg>
-                </app><app>
+                </app> in ignorant cadence<app>
                     <rdg wit="#df6 #CP #fh">&#8212;</rdg>
                     <rdg wit="#ce #poems1">,&#8212;</rdg>
                 </app></l>
