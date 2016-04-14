@@ -117,10 +117,13 @@
                     <rdg wit="#ce #poems1">,</rdg>
                 </app></l>
                 <l n="5">Rafter of <app>
-                    <rdg wit="#df6">Satin,</rdg>
-                    <rdg wit="#ce #poems1">satin,</rdg>
-                    <rdg wit="#CP #fh">Satin&#8212;</rdg>
-                </app><app>
+                    <rdg wit="#df6 #CP #fh">Satin</rdg>
+                    <rdg wit="#ce #poems1">satin</rdg>
+                </app>
+                    <app>
+                        <rdg wit="#df6 #ce #poems1">,</rdg>
+                        <rdg wit="#CP #fh">&#8212;</rdg>
+                    </app><app>
                     <rdg wit="#df6 #CP #fh"></rdg>
                     <rdg wit="#ce #poems1"> and roof of stone.</rdg>
                 </app><!--2016-04-07: nll: I can't tell if the s in satin capital or not.--></l>
