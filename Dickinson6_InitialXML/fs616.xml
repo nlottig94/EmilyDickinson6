@@ -136,8 +136,7 @@
                     <rdg wit="#ce #poems2">,</rdg>
                 </app></l>
                 <l n="17">And just a bit of <app>
-                    <rdg wit="#df6"><q rend="double" type="emph">Crown&#8212;</q></rdg>
-                    <rdg wit="#CP"><q rend="double" type="emph">Crown</q>&#8212;</rdg>
+                    <rdg wit="#df6 #CP"><q rend="double" type="emph">Crown</q>&#8212;</rdg>
                     <rdg wit="#ce"><q rend="double" type="emph">crown</q>;</rdg>
                     <rdg wit="#poems2"><q rend="double" type="emph">crown;</q></rdg>
                 </app></l>
