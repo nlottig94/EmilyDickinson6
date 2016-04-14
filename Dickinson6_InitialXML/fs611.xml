@@ -182,7 +182,10 @@
                 </app></l>
             </lg>
             <lg>
-                <l n="13">Perhaps a squirrel may remain<!--2016-04-08: nll: Brook, does it look like there is an underline under squirrel in the LETTER?--><app>
+                <l n="13">Perhaps a <app>
+                    <rdg wit="#df6 #CP #fh #ce">squirrel</rdg>
+                    <rdg wit="#LETTER"><hi rend="underline">squirrel</hi></rdg>
+                </app> may remain<!--2016-04-08: nll: Brook, does it look like there is an underline under squirrel in the LETTER?--><app>
                     <rdg wit="#df6 #CP #fh">&#8212;</rdg>
                     <rdg wit="#ce">,</rdg>
                     <rdg wit="#LETTER"></rdg>
