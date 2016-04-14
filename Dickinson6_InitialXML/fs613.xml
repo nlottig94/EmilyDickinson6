@@ -140,7 +140,10 @@
                 </app></l>
             </lg>
             <lg>
-                <l n="9">The angels<app>
+                <l n="9">The <app>
+                    <rdg wit="#df6 #ce #CP #poems2">angels</rdg>
+                    <rdg wit="#lSD">Angels</rdg>
+                </app><app>
                     <rdg wit="#df6 #CP">&#8212;</rdg>
                     <rdg wit="#ce #lSD #poems2">, </rdg>
                 </app>happening that way<app>
