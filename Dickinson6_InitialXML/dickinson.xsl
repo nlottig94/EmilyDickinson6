@@ -96,7 +96,7 @@
                             <xsl:if test="//front//witness[@xml:id/contains(., 'CP')]">
                                 <button class="CPKey" id="CPButton">Complete Poems</button>
                             </xsl:if>
-                            <a class="origXML" id="origXML" href="{//listRef/ptr/@target[contains(., 'xml')]}">View Original XML</a>
+                            <a class="origXML" id="origXML" href="{//listRef/ptr/@target[contains(., 'xml/fs6')]}">View Original XML</a>
                             <button class="origImg" id="origImg">View Original Variant Images</button>
                             <p class="instruct"><strong>Instructions:</strong> You can turn the variations of the poem on and off at the same time. The button will
                             show as depressed, and the poems will load side by side. The images for the corresponding poem will stack on top of each other
