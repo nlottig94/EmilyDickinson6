@@ -128,16 +128,16 @@
                                     <!-- Tests for existance of variant image files in the listRef element of each poem's XML-->
                                     <xsl:choose>
                                     <xsl:when test=".[contains(., 'fs') and not(contains(., 'a.') or contains(., 'b.') or contains(., 'c.'))]">
-                                        <div class="modalDesc">Fascicle 16</div>
+                                        <div class="modalDesc">Fascicle 6</div>
                                     </xsl:when>
                                     <xsl:when test=".[contains(., 'fs') and contains(., 'a.')]">
-                                        <div class="modalDesc">Fascicle 16 'A'</div>
+                                        <div class="modalDesc">Fascicle 6 'A'</div>
                                     </xsl:when>
                                     <xsl:when test=".[contains(., 'fs') and contains(., 'b.')]">
-                                        <div class="modalDesc">Fascicle 16 'B'</div>
+                                        <div class="modalDesc">Fascicle 6 'B'</div>
                                     </xsl:when>
                                     <xsl:when test=".[contains(., 'fs') and contains(., 'c.')]">
-                                        <div class="modalDesc">Fascicle 16 'C'</div>
+                                        <div class="modalDesc">Fascicle 6 'C'</div>
                                     </xsl:when>
                                     <xsl:when test=".[contains(., 'poems1.')]">
                                         <div class="modalDesc">1890 Poems</div>
@@ -147,9 +147,6 @@
                                     </xsl:when>
                                     <xsl:when test=".[contains(., 'poems3.')]">
                                         <div class="modalDesc">1896 Poems</div>
-                                    </xsl:when>
-                                    <xsl:when test=".[contains(., 'fp')]">
-                                        <div class="modalDesc">Further Poems</div>
                                     </xsl:when>
                                     <xsl:when test=".[contains(., 'ce.')]">
                                         <div class="modalDesc">Centenary Edition</div>
@@ -172,15 +169,30 @@
                                     <xsl:when test=".[contains(., 'bm.')]">
                                         <div class="modalDesc">Bolts of Melody</div>
                                     </xsl:when>
-                                    <xsl:when test=".[contains(., 'am.')]">
-                                        <div class="modalDesc">Atlantic Monthly</div>
-                                    </xsl:when>
+                                        <xsl:when test=".[contains(., 'lSD.')]">
+                                            <div class="modalDesc">Susan Dickinson Letter</div>
+                                        </xsl:when>
                                     <xsl:when test=".[contains(., 'lSDa.')]">
                                         <div class="modalDesc">Susan Dickinson Letter 'A'</div>
                                     </xsl:when>
                                     <xsl:when test=".[contains(., 'lSDb.')]">
                                         <div class="modalDesc">Susan Dickinson Letter 'B'</div>
                                     </xsl:when>
+                                        <xsl:when test=".[contains(., 'LETTER.')]">
+                                            <div class="modalDesc">Letter from Emily Dickinson</div>
+                                        </xsl:when>
+                                        <xsl:when test=".[contains(., 'D.')]">
+                                            <div class="modalDesc">Dickinson</div>
+                                        </xsl:when>
+                                        <xsl:when test=".[contains(., 'CP.')]">
+                                            <div class="modalDesc">Complete Poems</div>
+                                        </xsl:when>
+                                        <xsl:when test=".[contains(., 'CPa.')]">
+                                            <div class="modalDesc">Complete Poems 'A'</div>
+                                        </xsl:when>
+                                        <xsl:when test=".[contains(., 'CPb.')]">
+                                            <div class="modalDesc">Complete Poems 'B'</div>
+                                        </xsl:when>
                                     </xsl:choose>
                                 </div>
                                 </xsl:for-each>
@@ -213,17 +225,17 @@
                     <xsl:if test="text()[1]">
                         <xsl:apply-templates select="text()[1]"/>
                     </xsl:if>
-                    <xsl:if test="app[1]/rdg[@wit/contains(., 'var0')]/text()">
-                        <span class="var">VAR 1: </span><span class="df16"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., 'var0')]"/></span>
+                    <!--<xsl:if test="app[1]/rdg[@wit/contains(., 'var0')]/text()">
+                        <span class="var">VAR 1: </span><span class="df6"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., 'var0')]"/></span>
                     </xsl:if>
                     <xsl:if test="app[1]/rdg[@wit/contains(., 'var1')]/text()">
-                        <span class="var">VAR 2: </span><span class="df16"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., 'var1')]"/></span>
+                        <span class="var">VAR 2: </span><span class="df6"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., 'var1')]"/></span>
                     </xsl:if>
                     <xsl:if test="app[1]/rdg[@wit/contains(., 'var2')]/text()">
-                        <span class="var">VAR 3: </span><span class="df16"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., 'var2')]"/></span>
-                    </xsl:if>
-                    <xsl:if test="app[1]/rdg[@wit/contains(., '#df16')]/text()">
-                        <span class="df16"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#df16')]"/></span>
+                        <span class="var">VAR 3: </span><span class="df6"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., 'var2')]"/></span>
+                    </xsl:if>-->
+                    <xsl:if test="app[1]/rdg[@wit/contains(., '#df6')]/text()">
+                        <span class="df6"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#df6')]"/></span>
                     </xsl:if>
                     <xsl:if test="app[1]/rdg[@wit/contains(., '#poems1')]/text()">
                         <span class="poems1"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#poems1')]"/></span>
@@ -234,9 +246,6 @@
                     <xsl:if test="app[1]/rdg[@wit/contains(., '#poems3')]/text()">
                         <span class="poems3"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#poems3')]"/></span>
                     </xsl:if>
-                    <xsl:if test="app[1]/rdg[@wit/contains(., '#fp')]/text()">
-                        <span class="fp"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#fp')]"/></span>
-                    </xsl:if>
                     <xsl:if test="app[1]/rdg[@wit/contains(., '#ce')]/text()">
                         <span class="ce"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#ce')]"/></span>
                     </xsl:if>
@@ -246,19 +255,25 @@
                     <xsl:if test="app[1]/rdg[@wit/contains(., '#bm')]/text()">
                         <span class="bm"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#bm')]"/></span>
                     </xsl:if>
-                    <xsl:if test="app[1]/rdg[@wit/contains(., '#am')]/text()">
-                        <span class="am"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#am')]"/></span>
-                    </xsl:if>
                     <xsl:if test="app[1]/rdg[@wit/contains(., '#lSD')]/text()">
                         <span class="lsd"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#lSD')]"/></span>
                     </xsl:if>
-                    <xsl:if test="app[1]/rdg[@wit/contains(., 'var0')]/del[@rend/contains(., 'strikethrough')]/text()">
-                        <span class="var">VAR 1: </span><span class="df16"><span class="strikethrough"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., 'var0')]/del[@rend/contains(., 'strikethrough')]"/></span></span>
+                    <xsl:if test="app[1]/rdg[@wit/contains(., '#LETTER')]/text()">
+                        <span class="LETTER"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#LETTER')]"/></span>
                     </xsl:if>
+                    <xsl:if test="app[1]/rdg[@wit/contains(., '#D')]/text()">
+                        <span class="D"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#D')]"/></span>
+                    </xsl:if>
+                    <xsl:if test="app[1]/rdg[@wit/contains(., '#CP')]/text()">
+                        <span class="CP"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., '#CP')]"/></span>
+                    </xsl:if>
+                    <!--<xsl:if test="app[1]/rdg[@wit/contains(., 'var0')]/del[@rend/contains(., 'strikethrough')]/text()">
+                        <span class="var">VAR 1: </span><span class="df6"><span class="strikethrough"><xsl:apply-templates select="app[1]/rdg[@wit/contains(., 'var0')]/del[@rend/contains(., 'strikethrough')]"/></span></span>
+                    </xsl:if>-->
                     <xsl:if test="text()[2]">
                         <xsl:apply-templates select="text()[2]"/>
                     </xsl:if>
-                    <xsl:if test="app[2]/rdg[@wit/contains(., 'var0')]/text()">
+                    <!--<xsl:if test="app[2]/rdg[@wit/contains(., 'var0')]/text()">
                         <span class="var">VAR 1: </span><span class="df16"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., 'var0')]"/></span>
                     </xsl:if>
                     <xsl:if test="app[2]/rdg[@wit/contains(., 'var1')]/text()">
@@ -266,9 +281,9 @@
                     </xsl:if>
                     <xsl:if test="app[2]/rdg[@wit/contains(., 'var2')]/text()">
                         <span class="var">VAR 3: </span><span class="df16"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., 'var2')]"/></span>
-                    </xsl:if>
-                    <xsl:if test="app[2]/rdg[@wit/contains(., '#df16')]/text()">
-                        <span class="df16"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#df16')]"/></span>
+                    </xsl:if>-->
+                    <xsl:if test="app[2]/rdg[@wit/contains(., '#df6')]/text()">
+                        <span class="df6"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#df6')]"/></span>
                     </xsl:if>
                     <xsl:if test="app[2]/rdg[@wit/contains(., '#poems1')]/text()">
                         <span class="poems1"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#poems1')]"/></span>
@@ -279,9 +294,6 @@
                     <xsl:if test="app[2]/rdg[@wit/contains(., '#poems3')]/text()">
                         <span class="poems3"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#poems3')]"/></span>
                     </xsl:if>
-                    <xsl:if test="app[2]/rdg[@wit/contains(., '#fp')]/text()">
-                        <span class="fp"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#fp')]"/></span>
-                    </xsl:if>
                     <xsl:if test="app[2]/rdg[@wit/contains(., '#ce')]/text()">
                         <span class="ce"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#ce')]"/></span>
                     </xsl:if>
@@ -291,16 +303,22 @@
                     <xsl:if test="app[2]/rdg[@wit/contains(., '#bm')]/text()">
                         <span class="bm"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#bm')]"/></span>
                     </xsl:if>
-                    <xsl:if test="app[2]/rdg[@wit/contains(., '#am')]/text()">
-                        <span class="am"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#am')]"/></span>
-                    </xsl:if>
                     <xsl:if test="app[2]/rdg[@wit/contains(., '#lSD')]/text()">
                         <span class="lsd"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#lSD')]"/></span>
+                    </xsl:if>
+                    <xsl:if test="app[2]/rdg[@wit/contains(., '#LETTER')]/text()">
+                        <span class="LETTER"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#LETTER')]"/></span>
+                    </xsl:if>
+                    <xsl:if test="app[2]/rdg[@wit/contains(., '#D')]/text()">
+                        <span class="D"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#D')]"/></span>
+                    </xsl:if>
+                    <xsl:if test="app[2]/rdg[@wit/contains(., '#CP')]/text()">
+                        <span class="CP"><xsl:apply-templates select="app[2]/rdg[@wit/contains(., '#CP')]"/></span>
                     </xsl:if>
                     <xsl:if test="text()[3]">
                         <xsl:apply-templates select="text()[3]"/>
                     </xsl:if>
-                    <xsl:if test="app[3]/rdg[@wit/contains(., 'var0')]/text()">
+                    <!--<xsl:if test="app[3]/rdg[@wit/contains(., 'var0')]/text()">
                         <span class="var">VAR 1: </span><span class="df16"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., 'var0')]"/></span>
                     </xsl:if>
                     <xsl:if test="app[3]/rdg[@wit/contains(., 'var1')]/text()">
@@ -308,9 +326,9 @@
                     </xsl:if>
                     <xsl:if test="app[3]/rdg[@wit/contains(., 'var2')]/text()">
                         <span class="var">VAR 3: </span><span class="df16"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., 'var2')]"/></span>
-                    </xsl:if>
-                    <xsl:if test="app[3]/rdg[@wit/contains(., '#df16')]/text()">
-                        <span class="df16"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#df16')]"/></span>
+                    </xsl:if>-->
+                    <xsl:if test="app[3]/rdg[@wit/contains(., '#df6')]/text()">
+                        <span class="df6"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#df6')]"/></span>
                     </xsl:if>
                     <xsl:if test="app[3]/rdg[@wit/contains(., '#poems1')]/text()">
                         <span class="poems1"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#poems1')]"/></span>
@@ -321,9 +339,6 @@
                     <xsl:if test="app[3]/rdg[@wit/contains(., '#poems3')]/text()">
                         <span class="poems3"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#poems3')]"/></span>
                     </xsl:if>
-                    <xsl:if test="app[3]/rdg[@wit/contains(., '#fp')]/text()">
-                        <span class="fp"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#fp')]"/></span>
-                    </xsl:if>
                     <xsl:if test="app[3]/rdg[@wit/contains(., '#ce')]/text()">
                         <span class="ce"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#ce')]"/></span>
                     </xsl:if>
@@ -333,11 +348,17 @@
                     <xsl:if test="app[3]/rdg[@wit/contains(., '#bm')]/text()">
                         <span class="bm"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#bm')]"/></span>
                     </xsl:if>
-                    <xsl:if test="app[3]/rdg[@wit/contains(., '#am')]/text()">
-                        <span class="am"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#am')]"/></span>
-                    </xsl:if>
                     <xsl:if test="app[3]/rdg[@wit/contains(., '#lSD')]/text()">
                         <span class="lsd"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#lSD')]"/></span>
+                    </xsl:if>
+                    <xsl:if test="app[3]/rdg[@wit/contains(., '#LETTER')]/text()">
+                        <span class="LETTER"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#LETTER')]"/></span>
+                    </xsl:if>
+                    <xsl:if test="app[3]/rdg[@wit/contains(., '#D')]/text()">
+                        <span class="D"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#D')]"/></span>
+                    </xsl:if>
+                    <xsl:if test="app[3]/rdg[@wit/contains(., '#CP')]/text()">
+                        <span class="CP"><xsl:apply-templates select="app[3]/rdg[@wit/contains(., '#CP')]"/></span>
                     </xsl:if>
                     <xsl:if test="text()[4]">
                         <xsl:apply-templates select="text()[4]"/>
