@@ -13,14 +13,14 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="css/styles.css"/>
-                <script type="text/javascript" src="scripts/dickinson.js"></script>
-                <title>Emily Dickinson: Fascicle 16 | <xsl:value-of select="//idno"/></title>
+                <link rel="stylesheet" type="text/css" href="../../Web-Files/css/styles.css"/>
+                <script type="text/javascript" src="../../Web-Files/scripts/dickinson.js"></script>
+                <title>Emily Dickinson: Fascicle 6 | <xsl:value-of select="//idno"/></title>
             </head>
             <body>
                 <div class="main">
                     <div class="header">
-                        <h1 class="title"><a class="noShowLink" href="index.html"><span class="nameTitle">Emily Dickinson</span> <span class="siteTitle">: Fascicle 16</span></a></h1>
+                        <h1 class="title"><a class="noShowLink" href="../../Web-Files/index.html"><span class="nameTitle">Emily Dickinson</span></a> <a class="noShowLink" href="6home.html"><span class="siteTitle">: Fascicle 6</span></a></h1>
                         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img class="cclic" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
                     </div>
                     <div class="mwrapper">
