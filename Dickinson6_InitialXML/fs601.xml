@@ -28,8 +28,11 @@
                 <listRef>
                     <ptr target="xml/601.xml"/>
                     <ptr target="img/601/fs601.jpg"/>
+                    <ptr target="img/601/fs601-Map.jpg"/>
                     <ptr target="img/601/601CP.jpg"/>
+                    <ptr target="img/601/601CP-Map.jpg"/>
                     <ptr target="img/601/601ce.jpg"/>
+                    <ptr target="img/601/601ce-Map.jpg"/>
                 </listRef>
             </div>
             <div type="witness">

@@ -27,11 +27,15 @@
                 <listRef>
                     <ptr target="xml/617.xml"/>
                     <ptr target="img/617/fs617.jpg"/>
+                    <ptr target="img/617/fs617-Map.jpg"/>
                     <ptr target="img/617/617cea.jpg"/>
                     <ptr target="img/617/617ceb.jpg"/>
+                    <ptr target="img/617/617ce-Map.jpg"/>
                     <ptr target="img/617/617CPa.jpg"/>
                     <ptr target="img/617/617CPb.jpg"/>
+                    <ptr target="img/617/617CP-Map.jpg"/>
                     <ptr target="img/617/617D.jpg"/>
+                    <ptr target="img/617/617D-Map.jpg"/>
                 </listRef>
             </div>
             <div type="witness">

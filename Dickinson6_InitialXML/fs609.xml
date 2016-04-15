@@ -28,9 +28,13 @@
                 <listRef>
                     <ptr target="xml/609.xml"/>
                     <ptr target="img/609/fs609.jpg"/>
+                    <ptr target="img/609/fs609-Map.jpg"/>
                     <ptr target="img/609/609ce.jpg"/>
+                    <ptr target="img/609/609ce-Map.jpg"/>
                     <ptr target="img/609/609CP.jpg"/>
+                    <ptr target="img/609/609CP-Map.jpg"/>
                     <ptr target="img/609/609poems2.jpg"/>
+                    <ptr target="img/609/609poems2-Map.jpg"/>
                 </listRef>
             </div>
             <div type="witness">

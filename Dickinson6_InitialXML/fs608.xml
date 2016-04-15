@@ -28,12 +28,17 @@
                 <listRef>
                     <ptr target="xml/608.xml"/>
                     <ptr target="img/608/fs608.jpg"/>
+                    <ptr target="img/608/fs608-Map.jpg"/>
                     <ptr target="img/608/608ce.jpg"/>
+                    <ptr target="img/608/608ce-Map.jpg"/>
                     <ptr target="img/608/608CPa.jpg"/>
                     <ptr target="img/608/608CPb.jpg"/>
+                    <ptr target="img/608/608CP-Map.jpg"/>
                     <ptr target="img/608/608fha.jpg"/>
                     <ptr target="img/608/608fhb.jpg"/>
+                    <ptr target="img/608/608fh-Map.jpg"/>
                     <ptr target="img/608/608poems1.jpg"/>
+                    <ptr target="img/608/608poems1-Map.jpg"/>
                 </listRef>
             </div>
             <div type="witness">

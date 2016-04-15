@@ -27,11 +27,16 @@
                 <listRef>
                     <ptr target="xml/613.xml"/>
                     <ptr target="img/613/fs613.jpg"/>
+                    <ptr target="img/613/fs613-Map.jpg"/>
                     <ptr target="img/613/613cea.jpg"/>
                     <ptr target="img/613/613ceb.jpg"/>
+                    <ptr target="img/613/613ce-Map.jpg"/>
                     <ptr target="img/613/613CP.jpg"/>
+                    <ptr target="img/613/613CP-Map.jpg"/>
                     <ptr target="img/613/613lSD.jpg"/>
+                    <ptr target="img/613/613lSD-Map.jpg"/>
                     <ptr target="img/613/613poems2.jpg"/>
+                    <ptr target="img/613/613poems2-Map.jpg"/>
                 </listRef>
             </div>
             <div type="witness">
