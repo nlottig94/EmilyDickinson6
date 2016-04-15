@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- POEM 1 -->
+
+<!-- fs -->
+<img src="url/to/your/image.jpg" alt="Image Map for Original Poem 1" usemap="#fs601map" />
+<map name="fs601map" id="fs601map">
+    <area alt="A Coronet to find!" title="A Coronet to find!" href="#fs601map" shape="rect" coords="181,100,466,171" />
+    <area alt="A Coronet to find!" title="A Coronet to find!" href="#" shape="rect" coords="770,105,815,165" />
+    <area alt="Who never thirsted" title="Who never thirsted" href="#fs601map" shape="rect" coords="719,172,752,232" />
+    <area alt="Flagons, and Cooling Tamarind!" title="Flagons, and Cooling Tamarind!" href="#fs601map" shape="rect" coords="65,241,1106,320" />
+    <area alt="Who never Climbed the weary league&#8212;" title="Who never Climbed the weary league&#8212;" href="#fs601map" shape="rect" coords="431,390,710,454" />
+    <area alt="Can such a foot Explore" title="Can such a foot Explore" href="#fs601map" shape="rect" coords="694,459,906,523" />
+    <area alt="The Purple territories" title="The Purple territories" href="#fs601map" shape="rect" coords="193,533,418,600" />
+    <area alt="How many Legions overcome&#8212;" title="How many Legions overcome&#8212;" href="#fs601map" shape="rect" coords="420,751,624,824" />
+    <area alt="How many Legions overcome&#8212;" title="How many Legions overcome&#8212;" href="#fs601map" shape="rect" coords="962,770,1015,807" />
+    <area alt="The Emperor will say?" title="The Emperor will say?" href="#fs601map" shape="rect" coords="214,826,441,893" />
+    <area alt="The Emperor will say?" title="The Emperor will say?" href="#fs601map" shape="rect" coords="816,824,865,882" />
+    <area alt="How many Colors taken" title="How many Colors taken" href="#fs601map" shape="rect" coords="405,895,600,975" />
+    <area alt="How many Bullets bearest?" title="How many Bullets bearest?" href="#fs601map" shape="rect" coords="446,1101,710,1198" />
+    <area alt="Hast Thou the Royal scar?" title="Hast Thou the Royal scar?" href="#fs601map" shape="rect" coords="36,1193,1008,1253" />
+    <area alt="Angels! Write 'Promoted'" title="Angels! Write 'Promoted'" href="#fs601map" shape="rect" coords="289,1258,336,1310" />
+    <area alt="On this Soldier's brow!" title="On this Soldier's brow!" href="#fs601map" shape="rect" coords="359,1324,615,1396" />
+</map>
+
+<!-- ce -->
+<img src="url/to/your/image.jpg" alt="Image Map for Centenary Edition Poem 1" usemap="#fs601ceMap" />
+<map name="fs601ceMap" id="fs601ceMap">
+    <area alt="A Coronet to find!" title="A Coronet to find!" href="#fs601ceMap" shape="rect" coords="207,200,345,240" />
+    <area alt="A Coronet to find!" title="A Coronet to find!" href="#fs601ceMap" shape="rect" coords="466,201,492,246" />
+    <area alt="Who never thirsted" title="Who never thirsted" href="#fs601ceMap" shape="rect" coords="517,242,678,292" />
+    <area alt="Flagons, and Cooling Tamarind!" title="Flagons, and Cooling Tamarind!" href="#fs601ceMap" shape="rect" coords="160,298,576,345" />
+    <area alt="Who never Climbed the weary league&#8212;" title="Who never Climbed the weary league&#8212;" href="#fs601ceMap" shape="rect" coords="376,381,524,428" />
+    <area alt="Can such a foot Explore" title="Can such a foot Explore" href="#fs601ceMap" shape="rect" coords="450,436,592,481" />
+    <area alt="The Purple territories" title="The Purple territories" href="#fs601ceMap" shape="rect" coords="247,484,374,537" />
+    <area alt="How many Legions overcome&#8212;" title="How many Legions overcome&#8212;" href="#fs601ceMap" shape="rect" coords="374,617,506,671" />
+    <area alt="How many Legions overcome&#8212;" title="How many Legions overcome&#8212;" href="#fs601ceMap" shape="rect" coords="674,617,715,663" />
+    <area alt="The Emperor will say?" title="The Emperor will say?" href="#fs601ceMap" shape="rect" coords="258,677,415,726" />
+    <area alt="The Emperor will say?" title="The Emperor will say?" href="#fs601ceMap" shape="rect" coords="559,689,576,718" />
+    <area alt="How many Colors taken" title="How many Colors taken" href="#fs601ceMap" shape="rect" coords="490,724,381,768" />
+    <area alt="How many Bullets bearest?" title="How many Bullets bearest?" href="#fs601ceMap" shape="rect" coords="372,852,501,904" />
+    <area alt="Hast Thou the Royal scar?" title="Hast Thou the Royal scar?" href="#fs601ceMap" shape="rect" coords="169,911,644,954" />
+    <area alt="Angels! Write 'Promoted'" title="Angels! Write 'Promoted'" href="#fs601ceMap" shape="rect" coords="295,985,322,1013" />
+    <area alt="On this Soldier's brow!" title="On this Soldier's brow!" href="#fs601ceMap" shape="rect" coords="467,1009,320,1062" />
+</map>
+
+<!-- CP -->
+<img src="url/to/your/image.jpg" alt="Image Map for Complete Poems" usemap="#fs601CPMap" />
+<map name="fs601CPMap" id="fs601CPMap">
+    <area alt="A Coronet to find!" title="A Coronet to find!" href="#fs601CPMap" shape="rect" coords="342,189,501,244" />
+    <area alt="A Coronet to find!" title="A Coronet to find!" href="#fs601CPMap" shape="rect" coords="616,190,644,244" />
+    <area alt="Who never thirsted" title="Who never thirsted" href="#fs601CPMap" shape="rect" coords="669,249,715,287" />
+    <area alt="Flagons, and Cooling Tamarind!" title="Flagons, and Cooling Tamarind!" href="#fs601CPMap" shape="rect" coords="299,301,917,358" />
+    <area alt="Who never Climbed the weary league&#8212;" title="Who never Climbed the weary league&#8212;" href="#fs601CPMap" shape="rect" coords="526,384,690,440" />
+    <area alt="Can such a foot Explore" title="Can such a foot Explore" href="#fs601CPMap" shape="rect" coords="598,456,745,503" />
+    <area alt="The Purple territories" title="The Purple territories" href="#fs601CPMap" shape="rect" coords="386,503,520,561" />
+    <area alt="How many Legions overcome&#8212;" title="How many Legions overcome&#8212;" href="#fs601CPMap" shape="rect" coords="515,648,673,706" />
+    <area alt="How many Legions overcome&#8212;" title="How many Legions overcome&#8212;" href="#fs601CPMap" shape="rect" coords="853,660,894,695" />
+    <area alt="The Emperor will say?" title="The Emperor will say?" href="#fs601CPMap" shape="rect" coords="387,700,565,759" />
+    <area alt="The Emperor will say?" title="The Emperor will say?" href="#fs601CPMap" shape="rect" coords="699,701,730,753" />
+    <area alt="How many Colors taken" title="How many Colors taken" href="#fs601CPMap" shape="rect" coords="648,760,519,808" />
+    <area alt="How many Bullets bearest?" title="How many Bullets bearest?" href="#fs601CPMap" shape="rect" coords="523,902,659,954" />
+    <area alt="Hast Thou the Royal scar?" title="Hast Thou the Royal scar?" href="#fs601CPMap" shape="rect" coords="300,957,814,1013" />
+    <area alt="Angels! Write 'Promoted'" title="Angels! Write 'Promoted'" href="#fs601CPMap" shape="rect" coords="429,1015,463,1062" />
+    <area alt="On this Soldier's brow!" title="On this Soldier's brow!" href="#fs601CPMap" shape="rect" coords="625,1063,458,1119" />
+</map>
+
+
+<!-- POEM 2 -->
+
+<!-- fs -->
+<img src="url/to/your/image.jpg" alt="" usemap="#fs602map" />
+<map name="fs602map" id="fs602map">
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602map" shape="rect" coords="149,77,293,173" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602map" shape="rect" coords="419,115,457,148" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602map" shape="rect" coords="477,82,674,151" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602map" shape="rect" coords="800,75,942,152" />
+    <area alt="Her annual secret keeps!" title="Her annual secret keeps!" href="#fs602map" shape="rect" coords="859,169,905,227" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602map" shape="rect" coords="142,219,291,314" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602map" shape="rect" coords="481,235,527,304" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602map" shape="rect" coords="881,296,1034,226" />
+    <area alt="In placid Lily sleeps!" title="In placid Lily sleeps!" href="#fs602map" shape="rect" coords="380,306,496,392" />
+    <area alt="The tidy Breezes, with their Brooms&#8212;" title="The tidy Breezes, with their Brooms&#8212;" href="#fs602map" shape="rect" coords="306,433,564,508" />
+    <area alt="The tidy Breezes, with their Brooms&#8212;" title="The tidy Breezes, with their Brooms&#8212;" href="#fs602map" shape="rect" coords="903,442,1077,515" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602map" shape="rect" coords="354,530,384,578" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602map" shape="rect" coords="404,520,550,577" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602map" shape="rect" coords="697,536,729,578" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602map" shape="rect" coords="739,522,882,573" />
+    <area alt="Prithee, My pretty Housewives!" title="Prithee, My pretty Housewives!" href="#fs602map" shape="rect" coords="242,584,347,667" />
+    <area alt="Prithee, My pretty Housewives!" title="Prithee, My pretty Housewives!" href="#fs602map" shape="rect" coords="599,581,904,649" />
+    <area alt="Who may Expected be?" title="Who may Expected be?" href="#fs602map" shape="rect" coords="383,658,634,726" />
+    <area alt="The neighbors do not yet suspect!" title="The neighbors do not yet suspect!" href="#fs602map" shape="rect" coords="164,792,426,867" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602map" shape="rect" coords="155,869,318,928" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602map" shape="rect" coords="647,867,370,939" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602map" shape="rect" coords="982,876,1036,925" />
+    <area alt="Orchard, and Buttercup, and Bird&#8212;" title="Orchard, and Buttercup, and Bird&#8212;" href="#fs602map" shape="rect" coords="512,941,773,1006" />
+    <area alt="Orchard, and Buttercup, and Bird&#8212;" title="Orchard, and Buttercup, and Bird&#8212;" href="#fs602map" shape="rect" coords="940,944,1057,1004" />
+    <area alt="In Such a little while!" title="In Such a little while!" href="#fs602map" shape="rect" coords="160,1023,310,1074" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602map" shape="rect" coords="318,1153,361,1219" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602map" shape="rect" coords="729,1151,961,1215" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602map" shape="rect" coords="1064,1176,1080,1216" />
+    <area alt="How nonchalant the Hedge!" title="How nonchalant the Hedge!" href="#fs602map" shape="rect" coords="728,1220,967,1287" />
+    <area alt="As if the 'Resurrection'" title="As if the 'Resurrection'" href="#fs602map" shape="rect" coords="352,1270,740,1357" />
+    <area alt="Were nothing very strange!" title="Were nothing very strange!" href="#fs602map" shape="rect" coords="697,1362,938,1438" />
+</map>
+
+<!-- ce -->
+<img src="url/to/your/image.jpg" alt="Image Map for Centenary Edition of Poem 2" usemap="#fs602ceMap" />
+<map name="fs602ceMap" id="fs602ceMap">
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602ceMap" shape="rect" coords="289,201,429,249" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602ceMap" shape="rect" coords="485,211,502,256" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602ceMap" shape="rect" coords="507,210,591,260" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602ceMap" shape="rect" coords="654,206,729,254" />
+    <area alt="Her annual secret keeps!" title="Her annual secret keeps!" href="#fs602ceMap" shape="rect" coords="682,264,710,312" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602ceMap" shape="rect" coords="253,303,346,359" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602ceMap" shape="rect" coords="436,309,469,357" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602ceMap" shape="rect" coords="646,309,731,361" />
+    <area alt="In placid Lily sleeps!" title="In placid Lily sleeps!" href="#fs602ceMap" shape="rect" coords="425,362,496,414" />
+    <area alt="The tidy Breezes, with their Brooms&#8212;" title="The tidy Breezes, with their Brooms&#8212;" href="#fs602ceMap" shape="rect" coords="369,464,513,516" />
+    <area alt="The tidy Breezes, with their Brooms&#8212;" title="The tidy Breezes, with their Brooms&#8212;" href="#fs602ceMap" shape="rect" coords="696,474,845,520" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602ceMap" shape="rect" coords="450,531,475,566" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602ceMap" shape="rect" coords="478,522,549,570" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602ceMap" shape="rect" coords="600,542,623,571" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602ceMap" shape="rect" coords="631,519,698,570" />
+    <area alt="Prithee, My pretty Housewives!" title="Prithee, My pretty Housewives!" href="#fs602ceMap" shape="rect" coords="360,579,429,625" />
+    <area alt="Prithee, My pretty Housewives!" title="Prithee, My pretty Housewives!" href="#fs602ceMap" shape="rect" coords="546,580,748,619" />
+    <area alt="Who may Expected be?" title="Who may Expected be?" href="#fs602ceMap" shape="rect" coords="442,626,604,671" />
+    <area alt="The neighbors do not yet suspect!" title="The neighbors do not yet suspect!" href="#fs602ceMap" shape="rect" coords="292,727,472,783" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602ceMap" shape="rect" coords="345,790,456,831" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602ceMap" shape="rect" coords="458,788,635,833" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602ceMap" shape="rect" coords="765,793,844,832" />
+    <area alt="Orchard, and Buttercup, and Bird&#8212;" title="Orchard, and Buttercup, and Bird&#8212;" href="#fs602ceMap" shape="rect" coords="453,838,633,890" />
+    <area alt="Orchard, and Buttercup, and Bird&#8212;" title="Orchard, and Buttercup, and Bird&#8212;" href="#fs602ceMap" shape="rect" coords="728,837,804,891" />
+    <area alt="In Such a little while!" title="In Such a little while!" href="#fs602ceMap" shape="rect" coords="304,888,397,939" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602ceMap" shape="rect" coords="352,1011,369,1054" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602ceMap" shape="rect" coords="587,1002,770,1060" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602ceMap" shape="rect" coords="879,1028,907,1061" />
+    <area alt="How nonchalant the Hedge!" title="How nonchalant the Hedge!" href="#fs602ceMap" shape="rect" coords="624,1064,746,1113" />
+    <area alt="As if the 'Resurrection'" title="As if the 'Resurrection'" href="#fs602ceMap" shape="rect" coords="378,1107,614,1151" />
+    <area alt="Were nothing very strange!" title="Were nothing very strange!" href="#fs602ceMap" shape="rect" coords="604,1161,667,1203" />
+</map>
+
+<!-- CP -->
+<img src="url/to/your/image.jpg" alt="Image Map for Complete Poems of Poem 2" usemap="#fs602CPMap" />
+<map name="fs602CPMap" id="fs602CPMap">
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602CPMap" shape="rect" coords="396,146,505,207" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602CPMap" shape="rect" coords="572,162,609,200" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602CPMap" shape="rect" coords="613,152,709,203" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602CPMap" shape="rect" coords="776,147,871,198" />
+    <area alt="Her annual secret keeps!" title="Her annual secret keeps!" href="#fs602CPMap" shape="rect" coords="797,204,817,253" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602CPMap" shape="rect" coords="401,260,506,320" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602CPMap" shape="rect" coords="613,266,639,309" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602CPMap" shape="rect" coords="830,254,944,307" />
+    <area alt="In placid Lily sleeps!" title="In placid Lily sleeps!" href="#fs602CPMap" shape="rect" coords="534,313,617,378" />
+    <area alt="The tidy Breezes, with their Brooms&#8212;" title="The tidy Breezes, with their Brooms&#8212;" href="#fs602CPMap" shape="rect" coords="488,654,655,711" />
+    <area alt="The tidy Breezes, with their Brooms&#8212;" title="The tidy Breezes, with their Brooms&#8212;" href="#fs602CPMap" shape="rect" coords="834,657,1022,710" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602CPMap" shape="rect" coords="533,721,574,760" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602CPMap" shape="rect" coords="580,720,650,763" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602CPMap" shape="rect" coords="720,720,756,759" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602CPMap" shape="rect" coords="762,720,839,760" />
+    <area alt="Prithee, My pretty Housewives!" title="Prithee, My pretty Housewives!" href="#fs602CPMap" shape="rect" coords="477,765,552,823" />
+    <area alt="Prithee, My pretty Housewives!" title="Prithee, My pretty Housewives!" href="#fs602CPMap" shape="rect" coords="673,766,899,821" />
+    <area alt="Who may Expected be?" title="Who may Expected be?" href="#fs602CPMap" shape="rect" coords="514,827,687,887" />
+    <area alt="The neighbors do not yet suspect!" title="The neighbors do not yet suspect!" href="#fs602CPMap" shape="rect" coords="414,920,608,970" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602CPMap" shape="rect" coords="405,976,543,1023" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602CPMap" shape="rect" coords="548,978,733,1026" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602CPMap" shape="rect" coords="854,976,881,1021" />
+    <area alt="Orchard, and Buttercup, and Bird&#8212;" title="Orchard, and Buttercup, and Bird&#8212;" href="#fs602CPMap" shape="rect" coords="575,1029,766,1089" />
+    <area alt="Orchard, and Buttercup, and Bird&#8212;" title="Orchard, and Buttercup, and Bird&#8212;" href="#fs602CPMap" shape="rect" coords="855,1029,945,1085" />
+    <area alt="In Such a little while!" title="In Such a little while!" href="#fs602CPMap" shape="rect" coords="373,1083,464,1133" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602CPMap" shape="rect" coords="465,1186,488,1233" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602CPMap" shape="rect" coords="717,1177,924,1235" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602CPMap" shape="rect" coords="1040,1175,1062,1238" />
+    <area alt="How nonchalant the Hedge!" title="How nonchalant the Hedge!" href="#fs602CPMap" shape="rect" coords="708,1232,861,1290" />
+    <area alt="As if the 'Resurrection'" title="As if the 'Resurrection'" href="#fs602CPMap" shape="rect" coords="481,1284,776,1343" />
+    <area alt="Were nothing very strange!" title="Were nothing very strange!" href="#fs602CPMap" shape="rect" coords="672,1347,810,1400" />
+</map>
+
+<!-- poems3 -->
+<img src="url/to/your/image.jpg" alt="Image Map for Poems, Third Edition of Poem 2" usemap="#fs602poems3Map" />
+<map name="fs602poems3Map" id="fs602poems3Map">
+    <area alt="Dickinson did not have a title for this poem." title="Dickinson did not have a title for this poem." href="#fs602poems3Map" shape="rect" coords="102,150,222,169" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602poems3Map" shape="rect" coords="112,173,141,187" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602poems3Map" shape="rect" coords="156,175,163,187" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602poems3Map" shape="rect" coords="166,175,188,189" />
+    <area alt="A Lady red&#8212;Amid the Hill" title="A Lady red&#8212;Amid the Hill" href="#fs602poems3Map" shape="rect" coords="201,173,220,188" />
+    <area alt="Her annual secret keeps!" title="Her annual secret keeps!" href="#fs602poems3Map" shape="rect" coords="222,190,227,200" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602poems3Map" shape="rect" coords="101,200,121,213" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602poems3Map" shape="rect" coords="143,202,150,211" />
+    <area alt="A Lady white, within the Field" title="A Lady white, within the Field" href="#fs602poems3Map" shape="rect" coords="193,200,210,210" />
+    <area alt="In placid Lily sleeps!" title="In placid Lily sleeps!" href="#fs602poems3Map" shape="rect" coords="142,215,157,225" />
+    <area alt="The tidy Breezes, with their Brooms&#8212;" title="The tidy Breezes, with their Brooms&#8212;" href="#fs602poems3Map" shape="rect" coords="132,234,163,243" />
+    <area alt="The tidy Breezes, with their Brooms&#8212;" title="The tidy Breezes, with their Brooms&#8212;" href="#fs602poems3Map" shape="rect" coords="208,233,241,245" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602poems3Map" shape="rect" coords="148,248,169,261" />
+    <area alt="Sweep vale&#8212;And hill&#8212;And tree!" title="Sweep vale&#8212;And hill&#8212;And tree!" href="#fs602poems3Map" shape="rect" coords="184,247,208,255" />
+    <area alt="Prithee, My pretty Housewives!" title="Prithee, My pretty Housewives!" href="#fs602poems3Map" shape="rect" coords="125,259,142,270" />
+    <area alt="Prithee, My pretty Housewives!" title="Prithee, My pretty Housewives!" href="#fs602poems3Map" shape="rect" coords="172,258,217,270" />
+    <area alt="Who may Expected be?" title="Who may Expected be?" href="#fs602poems3Map" shape="rect" coords="146,272,185,283" />
+    <area alt="The neighbors do not yet suspect!" title="The neighbors do not yet suspect!" href="#fs602poems3Map" shape="rect" coords="109,288,153,301" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602poems3Map" shape="rect" coords="121,305,149,314" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602poems3Map" shape="rect" coords="151,303,193,314" />
+    <area alt="The woods Exchange a smile!" title="The woods Exchange a smile!" href="#fs602poems3Map" shape="rect" coords="222,304,235,312" />
+    <area alt="Orchard, and Buttercup, and Bird&#8212;" title="Orchard, and Buttercup, and Bird&#8212;" href="#fs602poems3Map" shape="rect" coords="150,317,191,326" />
+    <area alt="Orchard, and Buttercup, and Bird&#8212;" title="Orchard, and Buttercup, and Bird&#8212;" href="#fs602poems3Map" shape="rect" coords="213,315,231,327" />
+    <area alt="In Such a little while!" title="In Such a little while!" href="#fs602poems3Map" shape="rect" coords="115,324,135,339" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602poems3Map" shape="rect" coords="124,348,128,357" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602poems3Map" shape="rect" coords="182,346,221,357" />
+    <area alt="And yet, how still the Landscape stands!" title="And yet, how still the Landscape stands!" href="#fs602poems3Map" shape="rect" coords="248,347,257,359" />
+    <area alt="How nonchalant the Hedge!" title="How nonchalant the Hedge!" href="#fs602poems3Map" shape="rect" coords="189,359,214,371" />
+    <area alt="As if the 'Resurrection'" title="As if the 'Resurrection'" href="#fs602poems3Map" shape="rect" coords="129,373,178,383" />
+    <area alt="Were nothing very strange!" title="Were nothing very strange!" href="#fs602poems3Map" shape="rect" coords="182,381,200,394" />
+</map>
