@@ -26,39 +26,46 @@
                     <div class="mwrapper">
                         <div class="menu">
                             <ul class="cfix">
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="about.html">About <span class="arrow">▼</span></a><ul class="sub">
-                                    <li><a href="members.html">Our Members</a></li>
-                                    <li><a href="methodology.html">Methodology</a></li>
+                                <li><a href="../Web-Files/index.html">Home</a></li>
+                                <li><a href="../Web-Files/about.html">About <span class="arrow">▼</span></a><ul class="sub">
+                                    <li><a href="../Web-Files/members.html">Our Members</a></li>
+                                    <li><a href="../Web-Files/methodology.html">Methodology</a></li>
                                 </ul>
                                 </li>
                                 <li><a href="poems.html">Poems <span class="arrow">▼</span></a><ul class="sub">
-                                    <li><a href="1601.html">1601</a></li>
-                                    <li><a href="1602.html">1602</a></li>
-                                    <li><a href="1603.html">1603</a></li>
-                                    <li><a href="1604.html">1604</a></li>
-                                    <li><a href="1605.html">1605</a></li>
-                                    <li><a href="1606.html">1606</a></li>
-                                    <li><a href="1607.html">1607</a></li>
-                                    <li><a href="1608.html">1608</a></li>
-                                    <li><a href="1609.html">1609</a></li>
-                                    <li><a href="1610.html">1610</a></li>
-                                    <li><a href="1611.html">1611</a></li>
+                                    <li><a href="601.html">601</a></li>
+                                    <li><a href="602.html">602</a></li>
+                                    <li><a href="603.html">603</a></li>
+                                    <li><a href="604.html">604</a></li>
+                                    <li><a href="605.html">605</a></li>
+                                    <li><a href="606.html">606</a></li>
+                                    <li><a href="607.html">607</a></li>
+                                    <li><a href="608.html">608</a></li>
+                                    <li><a href="609.html">609</a></li>
+                                    <li><a href="610.html">610</a></li>
+                                    <li><a href="611.html">611</a></li>
+                                    <li><a href="612-1.html">612-1</a></li>
+                                    <li><a href="612-2.html">612-2</a></li>
+                                    <li><a href="613.html">613</a></li>
+                                    <li><a href="614.html">614</a></li>
+                                    <li><a href="615.html">615</a></li>
+                                    <li><a href="616.html">616</a></li>
+                                    <li><a href="617.html">617</a></li>
                                 </ul>
                                 </li>
-                                <li><a href="analysis.html">Analysis <span class="arrow">▼</span></a><ul class="sub">
+                                <li><a href="../Web-Files/analysis.html">Analysis <span class="arrow">▼</span></a><ul class="sub">
                                     <li><a href="dash.html">Dash Usage Comparison</a></li>
                                     <li><a href="conclusion.html">Conclusion</a></li>
                                 </ul>
                                 </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="../Web-Files/contact.html">Contact</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="content">
                         <div class="side-nav">
                             <!-- Tests for existance of variants in the listWit element of each poem's XML-->
-                            <button class="df16Key" id="df16Button">Fascicle 16</button>
+                            <button class="df6Key" id="df6Button">Fascicle 6</button>
                             <xsl:if test="//front//witness[@xml:id/contains(., 'poems1')]">
                                 <button class="poems1Key" id="poems1Button">1890 Poems</button>
                             </xsl:if>
@@ -67,9 +74,6 @@
                             </xsl:if>
                             <xsl:if test="//front//witness[@xml:id/contains(., 'poems3')]">
                                 <button class="poems3Key" id="poems3Button">1896 Poems</button>
-                            </xsl:if>
-                            <xsl:if test="//front//witness[@xml:id/contains(., 'fp')]">
-                                <button class="fpKey" id="fpButton">Further Poems</button>
                             </xsl:if>
                             <xsl:if test="//front//witness[@xml:id/contains(., 'ce')]">
                                 <button class="ceKey" id="ceButton">Centenary Edition</button>
@@ -80,11 +84,17 @@
                             <xsl:if test="//front//witness[@xml:id/contains(., 'bm')]">
                                 <button class="bmKey" id="bmButton">Bolts of Melody</button>
                             </xsl:if>
-                            <xsl:if test="//front//witness[@xml:id/contains(., 'am')]">
-                                <button class="amKey" id="amButton">Atlantic Monthly</button>
-                            </xsl:if>
                             <xsl:if test="//front//witness[@xml:id/contains(., 'lSD')]">
-                                <button class="lSDKey" id="lSDButton">Susan Dickinson</button>
+                                <button class="lSDKey" id="lSDButton">Letter to Susan Dickinson</button>
+                            </xsl:if>
+                            <xsl:if test="//front//witness[@xml:id/contains(., 'LETTER')]">
+                                <button class="LETTERKey" id="LETTERButton">Letter from Emily Dickinson</button>
+                            </xsl:if>
+                            <xsl:if test="//front//witness[@xml:id/contains(., 'D')]">
+                                <button class="DKey" id="DButton">Dickinson</button>
+                            </xsl:if>
+                            <xsl:if test="//front//witness[@xml:id/contains(., 'CP')]">
+                                <button class="CPKey" id="CPButton">Complete Poems</button>
                             </xsl:if>
                             <a class="origXML" id="origXML" href="{//listRef/ptr/@target[contains(., 'xml')]}">View Original XML</a>
                             <button class="origImg" id="origImg">View Original Variant Images</button>
