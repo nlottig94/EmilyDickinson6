@@ -1,4 +1,5 @@
 var df16Items = document.getElementsByClassName("df16");
+var df6Items = document.getElementsByClassName("df6");
 var varItems = document.getElementsByClassName("var");
 var poems1Items = document.getElementsByClassName("poems1");
 var poems2Items = document.getElementsByClassName("poems2");
@@ -9,6 +10,9 @@ var fhItems = document.getElementsByClassName("fh");
 var bmItems = document.getElementsByClassName("bm");
 var amItems = document.getElementsByClassName("am");
 var lSDItems = document.getElementsByClassName("lsd");
+var LETTERItems = document.getElementsByClassName("LETTER");
+var DItems = document.getElementsByClassName("D");
+var CPItems = document.getElementsByClassName("CP");
 var imgModal = document.getElementById("imgModal");
 
 window.addEventListener('DOMContentLoaded',buttons,false);
@@ -17,6 +21,10 @@ function buttons() {
     if (document.getElementById("df16Button") != null){
         var df16Button = document.getElementById("df16Button");
         df16Button.onclick = df16Function;
+    }
+    if (document.getElementById("df6Button") != null){
+        var df6Button = document.getElementById("df6Button");
+        df6Button.onclick = df6Function;
     }
     if (document.getElementById("poems1Button") != null){
         var poems1Button = document.getElementById("poems1Button");
@@ -54,6 +62,18 @@ function buttons() {
         var lSDButton = document.getElementById("lSDButton");
         lSDButton.onclick = lSDFunction;
     }
+    if (document.getElementById("LETTERButton") != null){
+        var LETTERButton = document.getElementById("LETTERButton");
+        LETTERButton.onclick = LETTERFunction;
+    }
+    if (document.getElementById("DButton") != null){
+        var DButton = document.getElementById("DButton");
+        DButton.onclick = DFunction;
+    }
+    if (document.getElementById("CPButton") != null){
+        var CPButton = document.getElementById("CPButton");
+        CPButton.onclick = CPFunction;
+    }
     if (document.getElementById("origImg") != null){
         var modalBtn = document.getElementById("origImg");
         modalBtn.onclick = openFunc;
@@ -64,7 +84,7 @@ function buttons() {
     }
 }
 
-/*FASCICLE FUNCTION*/
+/*FASCICLE 16 FUNCTION*/
 
 function df16Function() {
     var df16Button = document.getElementById("df16Button");
@@ -87,6 +107,37 @@ function df16Function() {
 	   }
     }
     var df16img = document.getElementById("dfMap");
+    if (df16img.style.display != "none") {
+       df16img.style.display = "none";
+       }
+    else {
+        df16img.style.display = "block";
+    }
+}
+
+/*FASCICLE 6 FUNCTION*/
+
+function df6Function() {
+    var df6Button = document.getElementById("df6Button");
+    for (var i = 0; i < df6Items.length; i++) {
+       if (df6Items[i].style.display != "none") {
+       df6Items[i].style.display = "none";
+       df6Button.className += " df6KeyON";
+	   }
+	   else {
+	   df6Items[i].style.display = "inline";
+	   df6Button.className = df6Button.className.replace( /(?:^|\s)df6KeyON(?!\S)/g , '' );
+	   }
+    }
+    for (var j = 0; j < varItems.length; j++) {
+       if (varItems[j].style.display != "none") {
+       varItems[j].style.display = "none";
+	   }
+	   else {
+	   varItems[j].style.display = "inline";
+	   }
+    }
+    var df6img = document.getElementById("dfMap");
     if (df16img.style.display != "none") {
        df16img.style.display = "none";
        }
