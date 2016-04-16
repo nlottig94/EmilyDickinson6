@@ -137,12 +137,12 @@ function df6Function() {
 	   varItems[j].style.display = "inline";
 	   }
     }
-    var df6img = document.getElementById("dfMap");
-    if (df16img.style.display != "none") {
-       df16img.style.display = "none";
+    var df6img = document.getElementById("df6Map");
+    if (df6img.style.display != "none") {
+       df6img.style.display = "none";
        }
     else {
-        df16img.style.display = "block";
+        df6img.style.display = "block";
     }
 }
 
@@ -350,6 +350,75 @@ function lSDFunction() {
        }
     else {
         lsdimg.style.display = "none";
+    }
+}
+
+/*LETTER FROM EMILY DICKINSON FUNCTION*/
+
+function LETTERFunction() {
+    var LETTERButton = document.getElementById("LETTERButton");
+    for (var i = 0; i < LETTERItems.length; i++) {
+       if (LETTERItems[i].style.display != "inline") {
+       LETTERItems[i].style.display = "inline";
+       LETTERButton.className += " LETTERKeyON"
+	   }
+	   else {
+	   LETTERItems[i].style.display = "none";
+	   LETTERButton.className = LETTERButton.className.replace( /(?:^|\s)LETTERKeyON(?!\S)/g , '' )
+	   }
+   }
+   var LETTERimg = document.getElementById("LETTERMap");
+    if (LETTERimg.style.display != "block") {
+       LETTERimg.style.display = "block";
+       }
+    else {
+        LETTERimg.style.display = "none";
+    }
+}
+
+/*DICKINSON FUNCTION*/
+
+function DFunction() {
+    var DButton = document.getElementById("DButton");
+    for (var i = 0; i < DItems.length; i++) {
+       if (DItems[i].style.display != "inline") {
+       DItems[i].style.display = "inline";
+       DButton.className += " DKeyON"
+	   }
+	   else {
+	   DItems[i].style.display = "none";
+	   DButton.className = DButton.className.replace( /(?:^|\s)DKeyON(?!\S)/g , '' )
+	   }
+   }
+   var Dimg = document.getElementById("DMap");
+    if (Dimg.style.display != "block") {
+       Dimg.style.display = "block";
+       }
+    else {
+        Dimg.style.display = "none";
+    }
+}
+
+/*COMPLETE POEMS FUNCTION*/
+
+function CPFunction() {
+    var CPButton = document.getElementById("CPButton");
+    for (var i = 0; i < CPItems.length; i++) {
+       if (CPItems[i].style.display != "inline") {
+       CPItems[i].style.display = "inline";
+       CPButton.className += " CPKeyON"
+	   }
+	   else {
+	   CPItems[i].style.display = "none";
+	   CPButton.className = CPButton.className.replace( /(?:^|\s)CPKeyON(?!\S)/g , '' )
+	   }
+   }
+   var CPimg = document.getElementById("CPMap");
+    if (CPimg.style.display != "block") {
+       CPimg.style.display = "block";
+       }
+    else {
+        CPimg.style.display = "none";
     }
 }
 
