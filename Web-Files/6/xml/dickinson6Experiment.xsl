@@ -13,7 +13,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="../../Web-files/css/styles.css"/>
+                <link rel="stylesheet" type="text/css" href="../../Web-Files/css/styles.css"/>
                 <script type="text/javascript" src="../../Web-Files/scripts/dickinson.js"></script>
                 <title>Emily Dickinson: Fascicle 16 | <xsl:value-of select="//idno"/></title>
             </head>
