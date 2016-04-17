@@ -214,7 +214,7 @@
 <!-- POEM 3 -->
 
 <!-- fs -->
-<img src="../Web-Files/6/img/603/fs603-Map.jpg" alt="" usemap="#fs603-Map" />
+<img src="../Web-Files/6/img/603/fs603-Map.jpg" alt="Image Map for Original Poem 3" usemap="#fs603-Map" />
 <map name="fs603-Map" id="fs603-Map">
     <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#fs603-Map" shape="rect" coords="506,97,539,166" />
     <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#fs603-Map" shape="rect" coords="954,110,1008,160" />
@@ -235,9 +235,147 @@
     <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#fs603-Map" shape="rect" coords="334,896,393,940" />
     <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#fs603-Map" shape="rect" coords="504,871,761,942" />
     <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#fs603-Map" shape="rect" coords="873,899,912,929" />
-    <area alt="Rank after Rank, with Even&#8212;" title="Rank after Rank, with Even&#8212;" href="#fs603-Map" shape="rect" coords="439,934,626,1004" />
-    <area alt="Rank after Rank, with Even&#8212;" title="Rank after Rank, with Even&#8212;" href="#fs603-Map" shape="rect" coords="816,947,927,999" />
-    <area alt="Rank after Rank, with Even&#8212;" title="Rank after Rank, with Even&#8212;" href="#fs603-Map" shape="rect" coords="1020,984,1042,1012" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#fs603-Map" shape="rect" coords="439,934,626,1004" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#fs603-Map" shape="rect" coords="816,947,927,999" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#fs603-Map" shape="rect" coords="1020,984,1042,1012" />
     <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#fs603-Map" shape="rect" coords="205,1015,473,1088" />
     <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#fs603-Map" shape="rect" coords="645,1019,817,1087" />
+</map>
+
+<!-- ce -->
+<img src="../Web-Files/6/img/603/603ce-Map.jpg" alt="Image Map for Centenary Edition of Poem 3" usemap="#603ce-Map" />
+<map name="603ce-Map" id="603ce-Map">
+    <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603ce-Map" shape="rect" coords="458,156,481,201" />
+    <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603ce-Map" shape="rect" coords="698,159,724,204" />
+    <area alt="But gallanter, I know" title="But gallanter, I know" href="#603ce-Map" shape="rect" coords="245,204,413,256" />
+    <area alt="But gallanter, I know" title="But gallanter, I know" href="#603ce-Map" shape="rect" coords="557,225,583,256" />
+    <area alt="Who charge within the bosom" title="Who charge within the bosom" href="#603ce-Map" shape="rect" coords="703,277,725,301" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603ce-Map" shape="rect" coords="250,307,389,354" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603ce-Map" shape="rect" coords="442,313,542,351" />
+    <area alt="Who win, and nations do not see&#8212;" title="Who win, and nations do not see&#8212;" href="#603ce-Map" shape="rect" coords="746,411,766,435" />
+    <area alt="Who fall&#8212; and none observe&#8212;" title="Who fall&#8212; and none observe&#8212;" href="#603ce-Map" shape="rect" coords="329,451,350,490" />
+    <area alt="Who fall&#8212; and none observe&#8212;" title="Who fall&#8212; and none observe&#8212;" href="#603ce-Map" shape="rect" coords="652,459,674,487" />
+    <area alt="Whose dying Eyes, no Country" title="Whose dying Eyes, no Country" href="#603ce-Map" shape="rect" coords="416,492,500,538" />
+    <area alt="Whose dying Eyes, no Country" title="Whose dying Eyes, no Country" href="#603ce-Map" shape="rect" coords="556,495,709,540" />
+    <area alt="Regards with patriot love&#8212;" title="Regards with patriot love&#8212;" href="#603ce-Map" shape="rect" coords="619,559,637,585" />
+    <area alt="We trust, in plumed procession" title="We trust, in plumed procession" href="#603ce-Map" shape="rect" coords="689,799,712,826" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603ce-Map" shape="rect" coords="308,834,328,871" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603ce-Map" shape="rect" coords="385,828,505,879" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603ce-Map" shape="rect" coords="551,850,572,873" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603ce-Map" shape="rect" coords="356,880,455,922" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603ce-Map" shape="rect" coords="553,879,650,919" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603ce-Map" shape="rect" coords="721,880,751,916" />
+    <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603ce-Map" shape="rect" coords="241,928,413,972" />
+    <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603ce-Map" shape="rect" coords="464,933,562,971" />
+</map>
+
+<!-- CP -->
+<img src="../Web-Files/6/img/603/603CP-Map.jpg" alt="Image Map for Complete Poems of Poem 3" usemap="#603CP-Map" />
+<map name="603CP-Map" id="603CP-Map">
+    <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603CP-Map" shape="rect" coords="615,133,641,167" />
+    <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603CP-Map" shape="rect" coords="863,131,919,155" />
+    <area alt="But gallanter, I know" title="But gallanter, I know" href="#603CP-Map" shape="rect" coords="431,169,605,221" />
+    <area alt="But gallanter, I know" title="But gallanter, I know" href="#603CP-Map" shape="rect" coords="759,173,793,217" />
+    <area alt="Who charge within the bosom" title="Who charge within the bosom" href="#603CP-Map" shape="rect" coords="917,229,945,275" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603CP-Map" shape="rect" coords="439,273,597,335" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603CP-Map" shape="rect" coords="639,275,739,333" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603CP-Map" shape="rect" coords="741,279,779,333" />
+    <area alt="Who win, and nations do not see&#8212;" title="Who win, and nations do not see&#8212;" href="#603CP-Map" shape="rect" coords="955,369,999,405" />
+    <area alt="Who fall&#8212; and none observe&#8212;" title="Who fall&#8212; and none observe&#8212;" href="#603CP-Map" shape="rect" coords="527,417,563,461" />
+    <area alt="Who fall&#8212; and none observe&#8212;" title="Who fall&#8212; and none observe&#8212;" href="#603CP-Map" shape="rect" coords="883,429,929,461" />
+    <area alt="Whose dying Eyes, no Country" title="Whose dying Eyes, no Country" href="#603CP-Map" shape="rect" coords="613,467,703,525" />
+    <area alt="Whose dying Eyes, no Country" title="Whose dying Eyes, no Country" href="#603CP-Map" shape="rect" coords="759,461,929,525" />
+    <area alt="Regards with patriot love&#8212;" title="Regards with patriot love&#8212;" href="#603CP-Map" shape="rect" coords="807,533,855,567" />
+    <area alt="We trust, in plumed procession" title="We trust, in plumed procession" href="#603CP-Map" shape="rect" coords="927,607,969,655" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603CP-Map" shape="rect" coords="509,679,545,711" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603CP-Map" shape="rect" coords="593,653,743,711" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603CP-Map" shape="rect" coords="791,675,835,705" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603CP-Map" shape="rect" coords="549,707,661,761" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603CP-Map" shape="rect" coords="765,715,865,763" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603CP-Map" shape="rect" coords="943,717,983,759" />
+    <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603CP-Map" shape="rect" coords="439,759,629,819" />
+    <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603CP-Map" shape="rect" coords="673,767,791,823" />
+</map>
+
+<!-- D -->
+<img src="../Web-Files/6/img/603/603D-Map.jpg" alt="Image Map for Dickinson Poem 3" usemap="#603D-Map" />
+<map name="603CP-Map" id="603CP-Map">
+    <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603CP-Map" shape="rect" coords="469,145,485,179" />
+    <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603CP-Map" shape="rect" coords="707,141,741,169" />
+    <area alt="But gallanter, I know" title="But gallanter, I know" href="#603CP-Map" shape="rect" coords="287,185,455,243" />
+    <area alt="But gallanter, I know" title="But gallanter, I know" href="#603CP-Map" shape="rect" coords="597,189,629,231" />
+    <area alt="Who charge within the bosom" title="Who charge within the bosom" href="#603CP-Map" shape="rect" coords="769,259,795,295" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603CP-Map" shape="rect" coords="289,303,445,369" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603CP-Map" shape="rect" coords="493,311,561,359" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603CP-Map" shape="rect" coords="565,315,595,361" />
+    <area alt="Who win, and nations do not see&#8212;" title="Who win, and nations do not see&#8212;" href="#603CP-Map" shape="rect" coords="805,421,839,447" />
+    <area alt="Who fall&#8212; and none observe&#8212;" title="Who fall&#8212; and none observe&#8212;" href="#603CP-Map" shape="rect" coords="375,483,409,511" />
+    <area alt="Who fall&#8212; and none observe&#8212;" title="Who fall&#8212; and none observe&#8212;" href="#603CP-Map" shape="rect" coords="725,485,763,513" />
+    <area alt="Whose dying Eyes, no Country" title="Whose dying Eyes, no Country" href="#603CP-Map" shape="rect" coords="459,531,559,581" />
+    <area alt="Whose dying Eyes, no Country" title="Whose dying Eyes, no Country" href="#603CP-Map" shape="rect" coords="615,529,781,587" />
+    <area alt="Regards with patriot love&#8212;" title="Regards with patriot love&#8212;" href="#603CP-Map" shape="rect" coords="661,607,715,637" />
+    <area alt="We trust, in plumed procession" title="We trust, in plumed procession" href="#603CP-Map" shape="rect" coords="781,693,821,741" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603CP-Map" shape="rect" coords="363,767,401,807" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603CP-Map" shape="rect" coords="449,749,589,801" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603CP-Map" shape="rect" coords="633,765,665,793" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603CP-Map" shape="rect" coords="411,807,521,863" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603CP-Map" shape="rect" coords="623,819,711,865" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603CP-Map" shape="rect" coords="793,825,817,861" />
+    <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603CP-Map" shape="rect" coords="307,879,495,933" />
+    <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603CP-Map" shape="rect" coords="545,885,641,923" />
+</map>
+
+<!-- fh -->
+<img src="../Web-Files/6/img/603/603fh-Map.jpg" alt="Image Map for Final Harvest: Emily Dickinson's Poems of Poem 3" usemap="#603fh-Map" />
+<map name="603fh-Map" id="603fh-Map">
+    <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603fh-Map" shape="rect" coords="643,180,667,212" />
+    <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603fh-Map" shape="rect" coords="898,168,937,207" />
+    <area alt="But gallanter, I know" title="But gallanter, I know" href="#603fh-Map" shape="rect" coords="458,216,626,267" />
+    <area alt="But gallanter, I know" title="But gallanter, I know" href="#603fh-Map" shape="rect" coords="781,218,815,260" />
+    <area alt="Who charge within the bosom" title="Who charge within the bosom" href="#603fh-Map" shape="rect" coords="944,269,988,319" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603fh-Map" shape="rect" coords="469,319,628,377" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603fh-Map" shape="rect" coords="676,325,767,368" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603fh-Map" shape="rect" coords="773,324,814,372" />
+    <area alt="Who win, and nations do not see&#8212;" title="Who win, and nations do not see&#8212;" href="#603fh-Map" shape="rect" coords="988,410,1027,450" />
+    <area alt="Who fall&#8212; and none observe&#8212;" title="Who fall&#8212; and none observe&#8212;" href="#603fh-Map" shape="rect" coords="554,464,598,503" />
+    <area alt="Who fall&#8212; and none observe&#8212;" title="Who fall&#8212; and none observe&#8212;" href="#603fh-Map" shape="rect" coords="920,465,958,504" />
+    <area alt="Whose dying Eyes, no Country" title="Whose dying Eyes, no Country" href="#603fh-Map" shape="rect" coords="637,513,733,567" />
+    <area alt="Whose dying Eyes, no Country" title="Whose dying Eyes, no Country" href="#603fh-Map" shape="rect" coords="781,504,956,564" />
+    <area alt="Regards with patriot love&#8212;" title="Regards with patriot love&#8212;" href="#603fh-Map" shape="rect" coords="847,579,890,609" />
+    <area alt="We trust, in plumed procession" title="We trust, in plumed procession" href="#603fh-Map" shape="rect" coords="965,650,1006,696" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603fh-Map" shape="rect" coords="541,714,584,759" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603fh-Map" shape="rect" coords="644,705,775,756" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603fh-Map" shape="rect" coords="830,714,863,750" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603fh-Map" shape="rect" coords="592,762,701,809" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603fh-Map" shape="rect" coords="806,764,899,809" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603fh-Map" shape="rect" coords="976,762,1019,807" />
+    <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603fh-Map" shape="rect" coords="476,809,673,869" />
+    <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603fh-Map" shape="rect" coords="712,809,829,864" />
+</map>
+
+<!-- fh -->
+<img src="../Web-Files/6/img/603/603poems1-Map.jpg" alt="Image Map for Poems, Third Series of Poem 3" usemap="#603poems1-Map" />
+<map name="603poems1-Map" id="603poems1-Map">
+    <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603poems1-Map" shape="rect" coords="149,125,154,134" />
+    <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603poems1-Map" shape="rect" coords="209,129,217,135" />
+    <area alt="But gallanter, I know" title="But gallanter, I know" href="#603poems1-Map" shape="rect" coords="121,136,164,150" />
+    <area alt="But gallanter, I know" title="But gallanter, I know" href="#603poems1-Map" shape="rect" coords="199,143,206,151" />
+    <area alt="Who charge within the bosom" title="Who charge within the bosom" href="#603poems1-Map" shape="rect" coords="211,158,217,165" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603poems1-Map" shape="rect" coords="97,165,128,177" />
+    <area alt="The Cavalry of Wo&#8212;" title="The Cavalry of Wo&#8212;" href="#603poems1-Map" shape="rect" coo7rds="143,166,166,176" />
+    <area alt="Who win, and nations do not see&#8212;" title="Who win, and nations do not see&#8212;" href="#603poems1-Map" shape="rect" coords="223,198,232,205" />
+    <area alt="Who fall&#8212; and none observe&#8212;" title="Who fall&#8212; and none observe&#8212;" href="#603poems1-Map" shape="rect" coords="108,212,118,221" />
+    <area alt="Who fall&#8212; and none observe&#8212;" title="Who fall&#8212; and none observe&#8212;" href="#603poems1-Map" shape="rect" coords="19,211,206,219" />
+    <area alt="Whose dying Eyes, no Country" title="Whose dying Eyes, no Country" href="#603poems1-Map" shape="rect" coords="134,220,158,233" />
+    <area alt="Whose dying Eyes, no Country" title="Whose dying Eyes, no Country" href="#603poems1-Map" shape="rect" coords="172,221,212,233" />
+    <area alt="Regards with patriot love&#8212;" title="Regards with patriot love&#8212;" href="#603poems1-Map" shape="rect" coords="189,238,198,247" />
+    <area alt="We trust, in plumed procession" title="We trust, in plumed procession" href="#603poems1-Map" shape="rect" coords="212,265,223,274" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603poems1-Map" shape="rect" coords="109,274,120,288" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603poems1-Map" shape="rect" coords="135,275,166,287" />
+    <area alt="For such, the Angels go&#8212;" title="For such, the Angels go&#8212;" href="#603poems1-Map" shape="rect" coords="177,279,184,289" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603poems1-Map" shape="rect" coords="125,288,149,300" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603poems1-Map" shape="rect" coords="176,289,200,301" />
+    <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603poems1-Map" shape="rect" coords="223,288,232,300" />
+    <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603poems1-Map" shape="rect" coords="95,301,140,315" />
+    <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603poems1-Map" shape="rect" coords="152,301,178,315" />
 </map>
