@@ -353,8 +353,8 @@
     <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603fh-Map" shape="rect" coords="712,809,829,864" />
 </map>
 
-<!-- fh -->
-<img src="../Web-Files/6/img/603/603poems1-Map.jpg" alt="Image Map for Poems, Third Series of Poem 3" usemap="#603poems1-Map" />
+<!-- poems1 -->
+<img src="../Web-Files/6/img/603/603poems1-Map.jpg" alt="Image Map for Poems, First Series of Poem 3" usemap="#603poems1-Map" />
 <map name="603poems1-Map" id="603poems1-Map">
     <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603poems1-Map" shape="rect" coords="149,125,154,134" />
     <area alt="To fight aloud, is very brave&#8212;" title="To fight aloud, is very brave&#8212;" href="#603poems1-Map" shape="rect" coords="209,129,217,135" />
@@ -378,4 +378,76 @@
     <area alt="Rank after Rank, with Even feet&#8212;" title="Rank after Rank, with Even feet&#8212;" href="#603poems1-Map" shape="rect" coords="223,288,232,300" />
     <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603poems1-Map" shape="rect" coords="95,301,140,315" />
     <area alt="And Uniforms of snow" title="And Uniforms of snow" href="#603poems1-Map" shape="rect" coords="152,301,178,315" />
+</map>
+
+
+<!-- POEM 4 -->
+
+<!-- fs -->
+<img src="../Web-Files/6/img/604/fs604-Map.jpg" alt="Image Map for Original Poem 4" usemap="#fs604-Map" />
+<map name="fs604-Map" id="fs604-Map">
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#fs604-Map" shape="rect" coords="9,68,253,168" />
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#fs604-Map" shape="rect" coords="257,94,347,162" />
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#fs604-Map" shape="rect" coords="475,94,783,162" />
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#fs604-Map" shape="rect" coords="1003,110,1041,152" />
+    <area alt="'Mansions'! Mansions must be warm!" title="'Mansions'! Mansions must be warm!" href="#fs604-Map" shape="rect" coords="19,172,357,252" />
+    <area alt="'Mansions'! Mansions must be warm!" title="'Mansions'! Mansions must be warm!" href="#fs604-Map" shape="rect" coords="1093,190,1123,240" />
+    <area alt="Mansions must Exclude the storm!" title="Mansions must Exclude the storm!" href="#fs604-Map" shape="rect" coords="535,356,741,432" />
+    <area alt="Mansions must Exclude the storm!" title="Mansions must Exclude the storm!" href="#fs604-Map" shape="rect" coords="1045,356,1087,412" />
+    <area alt="'Many Mansions', by 'his Father'," title="'Many Mansions', by 'his Father'," href="#fs604-Map" shape="rect" coords="11,500,569,620" />
+    <area alt="'Many Mansions', by 'his Father'," title="'Many Mansions', by 'his Father'," href="#fs604-Map" shape="rect" coords="663,494,1111,604" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#fs604-Map" shape="rect" coords="49,622,123,686" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#fs604-Map" shape="rect" coords="137,624,301,694" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#fs604-Map" shape="rect" coords="657,628,697,700" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#fs604-Map" shape="rect" coords="1063,634,1095,700" />
+    <area alt="Could the children find the way there&#8212;" title="Could the children find the way there&#8212;" href="#fs604-Map" shape="rect" coords="367,702,641,776" />
+    <area alt="Could the children find the way there&#8212;" title="Could the children find the way there&#8212;" href="#fs604-Map" shape="rect" coords="1085,766,1117,798" />
+    <area alt="Some, would Even trudge tonight!" title="Some, would Even trudge tonight!" href="#fs604-Map" shape="rect" coords="179,836,211,870" />
+    <area alt="Some, would Even trudge tonight!" title="Some, would Even trudge tonight!" href="#fs604-Map" shape="rect" coords="453,806,581,862" />
+</map>
+
+<!-- bm -->
+<img src="../Web-Files/6/img/604/604bm-Map.jpg" alt="Image Map for Bolts of Melody: New Poems of Emily Dickinson, Poem 4" usemap="#604bm-Map" />
+<map name="604bm-Map" id="604bm-Map">
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#604bm-Map" shape="rect" coords="116,154,320,204" />
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#604bm-Map" shape="rect" coords="326,154,366,202" />
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#604bm-Map" shape="rect" coords="456,160,642,202" />
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#604bm-Map" shape="rect" coords="766,182,794,206" />
+    <area alt="'Mansions'! Mansions must be warm!" title="'Mansions'! Mansions must be warm!" href="#604bm-Map" shape="rect" coords="120,210,344,256" />
+    <area alt="'Mansions'! Mansions must be warm!" title="'Mansions'! Mansions must be warm!" href="#604bm-Map" shape="rect" coords="824,232,848,254" />
+    <area alt="Mansions must Exclude the storm!" title="Mansions must Exclude the storm!" href="#604bm-Map" shape="rect" coords="412,304,570,350" />
+    <area alt="Mansions must Exclude the storm!" title="Mansions must Exclude the storm!" href="#604bm-Map" shape="rect" coords="738,332,772,354" />
+    <area alt="'Many Mansions', by 'his Father'," title="'Many Mansions', by 'his Father'," href="#604bm-Map" shape="rect" coords="116,410,466,454" />
+    <area alt="'Many Mansions', by 'his Father'," title="'Many Mansions', by 'his Father'," href="#604bm-Map" shape="rect" coords="532,406,846,460" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#604bm-Map" shape="rect" coords="118,458,148,506" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#604bm-Map" shape="rect" coords="156,462,262,506" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#604bm-Map" shape="rect" coords="448,476,500,508" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#604bm-Map" shape="rect" coords="702,482,730,504" />
+    <area alt="Could the children find the way there&#8212;" title="Could the children find the way there&#8212;" href="#604bm-Map" shape="rect" coords="322,514,496,556" />
+    <area alt="Could the children find the way there&#8212;" title="Could the children find the way there&#8212;" href="#604bm-Map" shape="rect" coords="844,522,864,558" />
+    <area alt="Some, would Even trudge tonight!" title="Some, would Even trudge tonight!" href="#604bm-Map" shape="rect" coords="220,564,244,606" />
+    <area alt="Some, would Even trudge tonight!" title="Some, would Even trudge tonight!" href="#604bm-Map" shape="rect" coords="370,568,454,612" />
+</map>
+
+<!-- CP -->
+<img src="../Web-Files/6/img/604/604CP-Map.jpg" alt="Image Map for Complete Poems of Poem 4" usemap="#604CP-Map" />
+<map name="604CP-Map" id="604CP-Map">
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#604CP-Map" shape="rect" coords="333,156,549,206" />
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#604CP-Map" shape="rect" coords="559,158,595,214" />
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#604CP-Map" shape="rect" coords="661,152,869,208" />
+    <area alt="'Houses'&#8212; So the Wise Men tell me&#8212;" title="'Houses'&#8212; So the Wise Men tell me&#8212;" href="#604CP-Map" shape="rect" coords="995,170,1041,204" />
+    <area alt="'Mansions'! Mansions must be warm!" title="'Mansions'! Mansions must be warm!" href="#604CP-Map" shape="rect" coords="329,212,555,266" />
+    <area alt="'Mansions'! Mansions must be warm!" title="'Mansions'! Mansions must be warm!" href="#604CP-Map" shape="rect" coords="1013,214,1051,260" />
+    <area alt="Mansions must Exclude the storm!" title="Mansions must Exclude the storm!" href="#604CP-Map" shape="rect" coords="623,322,773,374" />
+    <area alt="Mansions must Exclude the storm!" title="Mansions must Exclude the storm!" href="#604CP-Map" shape="rect" coords="939,318,983,374" />
+    <area alt="'Many Mansions', by 'his Father'," title="'Many Mansions', by 'his Father'," href="#604CP-Map" shape="rect" coords="321,394,699,456" />
+    <area alt="'Many Mansions', by 'his Father'," title="'Many Mansions', by 'his Father'," href="#604CP-Map" shape="rect" coords="743,396,1015,460" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#604CP-Map" shape="rect" coords="331,460,371,510" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#604CP-Map" shape="rect" coords="375,458,477,512" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#604CP-Map" shape="rect" coords="653,472,677,510" />
+    <area alt="I dont know him; snugly built!" title="I dont know him; snugly built!" href="#604CP-Map" shape="rect" coords="893,462,919,506" />
+    <area alt="Could the children find the way there&#8212;" title="Could the children find the way there&#8212;" href="#604CP-Map" shape="rect" coords="527,514,707,560" />
+    <area alt="Could the children find the way there&#8212;" title="Could the children find the way there&#8212;" href="#604CP-Map" shape="rect" coords="1047,520,1089,552" />
+    <area alt="Some, would Even trudge tonight!" title="Some, would Even trudge tonight!" href="#604CP-Map" shape="rect" coords="439,596,471,624" />
+    <area alt="Some, would Even trudge tonight!" title="Some, would Even trudge tonight!" href="#604CP-Map" shape="rect" coords="587,576,691,620" />
 </map>
