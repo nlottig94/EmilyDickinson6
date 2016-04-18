@@ -25,21 +25,21 @@
                     <line x1="435" x2="435" y1="0" y2="-450" stroke="#EEEEEE" stroke-width="30"/>
                     <line x1="495" x2="495" y1="0" y2="-450" stroke="#EEEEEE" stroke-width="30"/>
                     <!-- title -->
-                    <text x="275" y="-485" text-anchor="middle" font-size="25px" font-family="'Open Sans', sans-serif">Percentage of Dash Reduction</text>
-                    <text x="275" y="-460" text-anchor="middle" font-size="25px" font-family="'Open Sans', sans-serif">in Published Versions Compared to Originals</text>
+                    <text x="255" y="-485" text-anchor="middle" font-size="25px" font-family="'Open Sans', sans-serif">Percentage of Dash Reduction</text>
+                    <text x="255" y="-460" text-anchor="middle" font-size="25px" font-family="'Open Sans', sans-serif">in Published Versions Compared to Originals</text>
                     <!-- y-Axis -->
                     <!--<line x1="0" x2="0" y1="0" y2="-450" stroke="black" stroke-width="1"/>-->
                     <!-- x-Axis -->
-                    <line x1="-1" x2="550" y1="0" y2="0" stroke="black" stroke-width="1"/>
+                    <line x1="-1" x2="525" y1="0" y2="0" stroke="black" stroke-width="1"/>
                     <!-- y-axis marks -->
                     <text x="-25" y="-100" text-anchor="middle" font-family="'Open Sans', sans-serif">25%</text>
-                    <line x1="-10" x2="550" y1="-100" y2="-100" style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
+                    <line x1="-10" x2="525" y1="-100" y2="-100" style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
                     <text x="-25" y="-200" text-anchor="middle" font-family="'Open Sans', sans-serif">50%</text>
-                    <line x1="-10" x2="550" y1="-200" y2="-200" style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
+                    <line x1="-10" x2="525" y1="-200" y2="-200" style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
                     <text x="-25" y="-300" text-anchor="middle" font-family="'Open Sans', sans-serif">75%</text>
-                    <line x1="-10" x2="550" y1="-300" y2="-300" style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
+                    <line x1="-10" x2="525" y1="-300" y2="-300" style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
                     <text x="-25" y="-400" text-anchor="middle" font-family="'Open Sans', sans-serif">100%</text>
-                    <line x1="-10" x2="550" y1="-400" y2="-400" style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
+                    <line x1="-10" x2="525" y1="-400" y2="-400" style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
                     <!-- y-axis label -->
                     <text x="210" y="-50" transform="rotate(-90)" text-anchor="middle" font-size="14px" font-family="'Open Sans', sans-serif">Percentage of Reduction</text>
                     <!-- x-axis marks -->
@@ -80,27 +80,27 @@
                     <line x1="510" x2="510" y1="10" y2="-450" stroke="black" stroke-width="1"/>
                 </g>
                 <g id="legend">
-                    <circle cx="25" cy="55" r="15" fill="#0099CC" />
-                    <text x="40" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black">&#10137;</text>
-                    <text x="52" y="47" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">The Poems of Emily</text>
-                    <text x="75" y="59" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">Dickinson,</text>
-                    <text x="55" y="71" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">Centenary Edition</text>
-                    <circle cx="25" cy="115" r="15" fill="#ec008c" />
-                    <text x="40" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black">&#10137;Letter to Susan Dickinson</text>
-                    <circle cx="25" cy="175" r="15" fill="#ff4dff" />
-                    <text x="40" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Atlantic Monthly</text>
-                    <circle cx="210" cy="55" r="15" fill="#8800CC" />
-                    <text x="225" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Bolts of Melody</text>
-                    <circle cx="210" cy="115" r="15" fill="#2200CC" />
-                    <text x="225" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10139;Final Harvest</text>
-                    <circle cx="210" cy="175" r="15" fill="#00CC00" />
-                    <text x="225" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Further Poems</text>
-                    <circle cx="400" cy="175" r="15" fill="#ACE500" />
-                    <text x="415" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems, Third Series</text>
-                    <circle cx="400" cy="115" r="15" fill="#FFFF00" />
-                    <text x="415" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems, Second Series</text>
-                    <circle cx="400" cy="55" r="15" fill="#FF9900" />
-                    <text x="415" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems</text>
+                    <circle cx="5" cy="55" r="15" fill="#0099CC" />
+                    <text x="20" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black">&#10137;</text>
+                    <text x="32" y="47" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">The Poems of Emily</text>
+                    <text x="55" y="59" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">Dickinson,</text>
+                    <text x="35" y="71" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">Centenary Edition</text>
+                    <circle cx="5" cy="115" r="15" fill="#ec008c" />
+                    <text x="20" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black">&#10137;Letter to Susan Dickinson</text>
+                    <circle cx="5" cy="175" r="15" fill="#ff4dff" />
+                    <!--<text x="40" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Atlantic Monthly</text> Another pub goes here-->
+                    <circle cx="190" cy="55" r="15" fill="#8800CC" />
+                    <text x="205" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Bolts of Melody</text>
+                    <circle cx="190" cy="115" r="15" fill="#2200CC" />
+                    <text x="205" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10139;Final Harvest</text>
+                    <circle cx="190" cy="175" r="15" fill="#00CC00" />
+                    <!--<text x="205" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Further Poems</text>  Another pub goes here-->
+                    <circle cx="380" cy="175" r="15" fill="#ACE500" />
+                    <text x="405" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems, Third Series</text>
+                    <circle cx="380" cy="115" r="15" fill="#FFFF00" />
+                    <text x="405" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems, Second Series</text>
+                    <circle cx="380" cy="55" r="15" fill="#FF9900" />
+                    <text x="405" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems</text>
                     
                 </g>
                 <g id="dots">
@@ -329,25 +329,25 @@
               <xsl:text> CE Dash Count: </xsl:text><xsl:value-of select="$dashCountCE"/></xsl:comment> 
                   
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#ce')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-12}" x2="{($poemNumber*$x-interval)-12}" y1="0" y2="-{$CER*$y-interval}" stroke="#0099CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-12}" cy="-{$CER*$y-interval}" r="1.5" fill="#0099CC" /></xsl:if>
-                  <!--
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#lSD')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-9}" x2="{($poemNumber*$x-interval)-9}" y1="0" y2="-{$lSD*$y-interval}" stroke="#ec008c" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-9}" cy="-{$lSD*$y-interval}" r="1.5" fill="#ec008c" /></xsl:if>
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#ce')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-27.2}" x2="{($poemNumber*$x-interval)-27.2}" y1="0" y2="-{$CER*$y-interval}" stroke="#0099CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-27.2}" cy="-{$CER*$y-interval}" r="1.5" fill="#0099CC" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#bm')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-6}" x2="{($poemNumber*$x-interval)-6}" y1="0" y2="-{$bm*$y-interval}" stroke="#8800CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-6}" cy="-{$bm*$y-interval}" r="1.5" fill="#8800CC" /></xsl:if>
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#lSD')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-24.4}" x2="{($poemNumber*$x-interval)-24.4}" y1="0" y2="-{$lSD*$y-interval}" stroke="#ec008c" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-24.4}" cy="-{$lSD*$y-interval}" r="1.5" fill="#ec008c" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#fh')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-3}" x2="{($poemNumber*$x-interval)-3}" y1="0" y2="-{$fh*$y-interval}" stroke="#2200CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-3}" cy="-{$fh*$y-interval}" r="1.5" fill="#2200CC" /></xsl:if>
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#bm')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-21.6}" x2="{($poemNumber*$x-interval)-21.6}" y1="0" y2="-{$bm*$y-interval}" stroke="#8800CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-21.6}" cy="-{$bm*$y-interval}" r="1.5" fill="#8800CC" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#poems3')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-0}" x2="{($poemNumber*$x-interval)-0}" y1="0" y2="-{$poems3*$y-interval}" stroke="#ACE500" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-0}" cy="-{$poems3*$y-interval}" r="1.5" fill="#ACE500" /></xsl:if>
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#fh')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-18.8}" x2="{($poemNumber*$x-interval)-18.8}" y1="0" y2="-{$fh*$y-interval}" stroke="#2200CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-18.8}" cy="-{$fh*$y-interval}" r="1.5" fill="#2200CC" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#poems2')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+3}" x2="{($poemNumber*$x-interval)+3}" y1="0" y2="-{$poems2*$y-interval}" stroke="#FFFF00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+3}" cy="-{$poems2*$y-interval}" r="1.5" fill="#FFFF00" /></xsl:if>
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#poems3')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-16}" x2="{($poemNumber*$x-interval)-16}" y1="0" y2="-{$poems3*$y-interval}" stroke="#ACE500" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-16}" cy="-{$poems3*$y-interval}" r="1.5" fill="#ACE500" /></xsl:if>
                   
-                  <xsl:if test="(count(//rdg[@wit[contains(., '#poems1')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+6}" x2="{($poemNumber*$x-interval)+6}" y1="0" y2="-{$poems1*$y-interval}" stroke="#FF9900" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+6}" cy="-{$poems1*$y-interval}" r="1.5" fill="#FF9900" /></xsl:if>
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#poems2')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-13.2}" x2="{($poemNumber*$x-interval)-13.2}" y1="0" y2="-{$poems2*$y-interval}" stroke="#FFFF00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-13.2}" cy="-{$poems2*$y-interval}" r="1.5" fill="#FFFF00" /></xsl:if>
                   
-                  <xsl:if test="(count(//rdg[@wit[contains(., '#LETTER')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+9}" x2="{($poemNumber*$x-interval)+9}" y1="0" y2="-{$LETTER*$y-interval}" stroke="#008080" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+9}" cy="-{$LETTER*$y-interval}" r="1.5" fill="#008080" /></xsl:if>
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#poems1')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-10.4}" x2="{($poemNumber*$x-interval)-10.4}" y1="0" y2="-{$poems1*$y-interval}" stroke="#FF9900" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-10.4}" cy="-{$poems1*$y-interval}" r="1.5" fill="#FF9900" /></xsl:if>
                   
-                  <xsl:if test="(count(//rdg[@wit[contains(., '#D')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+12}" x2="{($poemNumber*$x-interval)+12}" y1="0" y2="-{$D*$y-interval}" stroke="#006622" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+12}" cy="-{$D*$y-interval}" r="1.5" fill="#006622" /></xsl:if>
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#LETTER')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-7.6}" x2="{($poemNumber*$x-interval)-7.6}" y1="0" y2="-{$LETTER*$y-interval}" stroke="#008080" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-7.6}" cy="-{$LETTER*$y-interval}" r="1.5" fill="#008080" /></xsl:if>
                   
-                  <xsl:if test="(count(//rdg[@wit[contains(., '#CP')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+15}" x2="{($poemNumber*$x-interval)+15}" y1="0" y2="-{$CP*$y-interval}" stroke="#e64d00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+15}" cy="-{$CP*$y-interval}" r="1.5" fill="#e64d00" /></xsl:if>-->
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#D')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-4.8}" x2="{($poemNumber*$x-interval)-4.8}" y1="0" y2="-{$D*$y-interval}" stroke="#006622" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-4.8}" cy="-{$D*$y-interval}" r="1.5" fill="#006622" /></xsl:if>
+                  
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#CP')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-2}" x2="{($poemNumber*$x-interval)-2}" y1="0" y2="-{$CP*$y-interval}" stroke="#e64d00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-2}" cy="-{$CP*$y-interval}" r="1.5" fill="#e64d00" /></xsl:if>
                   </xsl:for-each>
                   </g>
             </g>
