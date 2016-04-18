@@ -80,27 +80,31 @@
                     <line x1="510" x2="510" y1="10" y2="-450" stroke="black" stroke-width="1"/>
                 </g>
                 <g id="legend">
-                    <circle cx="5" cy="55" r="15" fill="#0099CC" />
-                    <text x="20" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black">&#10137;</text>
-                    <text x="32" y="47" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">The Poems of Emily</text>
-                    <text x="55" y="59" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">Dickinson,</text>
-                    <text x="35" y="71" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">Centenary Edition</text>
-                    <circle cx="5" cy="115" r="15" fill="#ec008c" />
-                    <text x="20" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black">&#10137;Letter to Susan Dickinson</text>
-                    <circle cx="5" cy="175" r="15" fill="#ff4dff" />
-                    <!--<text x="40" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Atlantic Monthly</text> Another pub goes here-->
-                    <circle cx="190" cy="55" r="15" fill="#8800CC" />
-                    <text x="205" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Bolts of Melody</text>
-                    <circle cx="190" cy="115" r="15" fill="#2200CC" />
-                    <text x="205" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10139;Final Harvest</text>
-                    <circle cx="190" cy="175" r="15" fill="#00CC00" />
-                    <!--<text x="205" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Further Poems</text>  Another pub goes here-->
-                    <circle cx="380" cy="175" r="15" fill="#ACE500" />
-                    <text x="405" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems, Third Series</text>
-                    <circle cx="380" cy="115" r="15" fill="#FFFF00" />
-                    <text x="405" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems, Second Series</text>
-                    <circle cx="380" cy="55" r="15" fill="#FF9900" />
-                    <text x="405" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems</text>
+                    <circle cx="0" cy="55" r="15" fill="#0099CC" />
+                    <text x="15" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black">&#10137;</text>
+                    <text x="27" y="47" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">The Poems of Emily</text>
+                    <text x="50" y="59" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">Dickinson,</text>
+                    <text x="30" y="71" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">Centenary Edition</text>
+                    <circle cx="0" cy="115" r="15" fill="#ec008c" />
+                    <text x="15" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black">&#10137;Letter to Susan Dickinson</text>
+                    <circle cx="0" cy="175" r="15" fill="#008080" />
+                    <text x="30" y="172" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">Letter from Emily</text>
+                    <text x="15" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;</text>
+                    <text x="45" y="184" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">Dickinson</text>
+                    <circle cx="185" cy="55" r="15" fill="#8800CC" />
+                    <text x="200" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Bolts of Melody</text>
+                    <circle cx="185" cy="115" r="15" fill="#2200CC" />
+                    <text x="200" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10139;Final Harvest</text>
+                    <circle cx="185" cy="175" r="15" fill="#006622" />
+                    <text x="200" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Dickinson</text>
+                    <circle cx="185" cy="235" r="15" fill="#e64d00" />
+                    <text x="200" y="238" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Complete Poems</text>
+                    <circle cx="375" cy="175" r="15" fill="#ACE500" />
+                    <text x="390" y="178" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems, Third Series</text>
+                    <circle cx="375" cy="115" r="15" fill="#FFFF00" />
+                    <text x="390" y="118" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems, Second Series</text>
+                    <circle cx="375" cy="55" r="15" fill="#FF9900" />
+                    <text x="390" y="58" text-anchor="start" font-size="12px" font-family="'Open Sans', sans-serif" fill="black" font-style="italic">&#10137;Poems</text>
                     
                 </g>
                 <g id="dots">
