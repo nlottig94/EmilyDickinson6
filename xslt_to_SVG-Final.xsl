@@ -333,7 +333,7 @@
                   
                     <xsl:if test="(count(//rdg[@wit[contains(., '#ce')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-12}" x2="{($poemNumber*$x-interval)-12}" y1="0" y2="-{$CER*$y-interval}" stroke="#0099CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-12}" cy="-{$CER*$y-interval}" r="1.5" fill="#0099CC" /></xsl:if>
                   
-                    <!--<xsl:if test="(count(//rdg[@wit[contains(., '#lSD')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-9}" x2="{($poemNumber*$x-interval)-9}" y1="0" y2="-{$lSD*$y-interval}" stroke="#ec008c" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-9}" cy="-{$lSD*$y-interval}" r="1.5" fill="#ec008c" /></xsl:if>
+                    <xsl:if test="(count(//rdg[@wit[contains(., '#lSD')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-9}" x2="{($poemNumber*$x-interval)-9}" y1="0" y2="-{$lSD*$y-interval}" stroke="#ec008c" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-9}" cy="-{$lSD*$y-interval}" r="1.5" fill="#ec008c" /></xsl:if>
                   
                     <xsl:if test="(count(//rdg[@wit[contains(., '#bm')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-6}" x2="{($poemNumber*$x-interval)-6}" y1="0" y2="-{$bm*$y-interval}" stroke="#8800CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-6}" cy="-{$bm*$y-interval}" r="1.5" fill="#8800CC" /></xsl:if>
                   
@@ -349,7 +349,7 @@
                   
                   <xsl:if test="(count(//rdg[@wit[contains(., '#D')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+12}" x2="{($poemNumber*$x-interval)+12}" y1="0" y2="-{$D*$y-interval}" stroke="#006622" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+12}" cy="-{$D*$y-interval}" r="1.5" fill="#006622" /></xsl:if>
                   
-                  <xsl:if test="(count(//rdg[@wit[contains(., '#CP')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+15}" x2="{($poemNumber*$x-interval)+15}" y1="0" y2="-{$CP*$y-interval}" stroke="#e64d00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+15}" cy="-{$CP*$y-interval}" r="1.5" fill="#e64d00" /></xsl:if>-->
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#CP')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+15}" x2="{($poemNumber*$x-interval)+15}" y1="0" y2="-{$CP*$y-interval}" stroke="#e64d00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+15}" cy="-{$CP*$y-interval}" r="1.5" fill="#e64d00" /></xsl:if>
                   </xsl:for-each>
                   </g>
             </g>
