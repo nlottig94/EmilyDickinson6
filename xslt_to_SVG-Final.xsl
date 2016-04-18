@@ -6,7 +6,7 @@
     xmlns="http://www.w3.org/2000/svg">
     <xsl:output method="xml" indent="yes"/>
     
-    <xsl:variable name="DickinsonColl" select="collection('xml')"/>
+    <xsl:variable name="DickinsonColl" select="collection('Dickinson6_InitialXML')"/>
     <xsl:variable name="y-interval" select="4"/>
     <xsl:variable name="x-interval" select="30"/>
    
