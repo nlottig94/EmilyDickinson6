@@ -115,7 +115,7 @@
        
         -->        
               <xsl:for-each select="$DickinsonColl//TEI">
-                  <xsl:variable name="poemNumber" select="number(substring-after(.//idno, '16'))"/>
+                  <xsl:variable name="poemNumber" select="number(substring-after(.//idno, '6'))"/>
                   
                  <!--ebb: Here's one way to calculate the dashes, using analyze-string within an inner for-each loop.
                  We need a for-each because we have to look inside each element that contains a dash (within each poem). Then
@@ -137,7 +137,7 @@
                   </xsl:variable>
                   
                   <xsl:variable name="dashX">
-                      <xsl:for-each select=".//body//rdg[@wit[contains(., '#df16') or contains(., 'var')]][contains(., '&#8212;')]">
+                      <xsl:for-each select=".//body//rdg[@wit[contains(., '#df6') or contains(., 'var')]][contains(., '&#8212;')]">
                           <xsl:analyze-string select="./text()[contains(., '&#8212;')]" regex="&#8212;">
                        <xsl:matching-substring>
                            <xsl:text>X</xsl:text>
@@ -330,25 +330,26 @@
               <xsl:text> CE % Reduction: </xsl:text><xsl:value-of select="$CER"/>
               <xsl:text> CE Dash Count: </xsl:text><xsl:value-of select="$dashCountCE"/></xsl:comment> 
                   
-                  <xsl:if test="(count(//rdg[@wit[contains(., '#LETTER')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-5}" x2="{($poemNumber*$x-interval)-5}" y1="0" y2="-{$LETTER*$y-interval}" stroke="#008080" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-5}" cy="-{$LETTER*$y-interval}" r="1.5" fill="#008080" /></xsl:if>
-                    
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#D')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-5}" x2="{($poemNumber*$x-interval)-5}" y1="0" y2="-{$D*$y-interval}" stroke="#006622" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-5}" cy="-{$D*$y-interval}" r="1.5" fill="#006622" /></xsl:if>
-                    
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#CP')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-5}" x2="{($poemNumber*$x-interval)-5}" y1="0" y2="-{$CP*$y-interval}" stroke="#e64d00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-5}" cy="-{$CP*$y-interval}" r="1.5" fill="#e64d00" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#ce')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-45}" x2="{($poemNumber*$x-interval)-45}" y1="0" y2="-{$CER*$y-interval}" stroke="#0099CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-45}" cy="-{$CER*$y-interval}" r="1.5" fill="#0099CC" /></xsl:if>
+                    <xsl:if test="(count(//rdg[@wit[contains(., '#ce')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-12}" x2="{($poemNumber*$x-interval)-12}" y1="0" y2="-{$CER*$y-interval}" stroke="#0099CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-12}" cy="-{$CER*$y-interval}" r="1.5" fill="#0099CC" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#lSD')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-40}" x2="{($poemNumber*$x-interval)-40}" y1="0" y2="-{$lSD*$y-interval}" stroke="#ec008c" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-40}" cy="-{$lSD*$y-interval}" r="1.5" fill="#ec008c" /></xsl:if>
+                    <!--<xsl:if test="(count(//rdg[@wit[contains(., '#lSD')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-9}" x2="{($poemNumber*$x-interval)-9}" y1="0" y2="-{$lSD*$y-interval}" stroke="#ec008c" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-9}" cy="-{$lSD*$y-interval}" r="1.5" fill="#ec008c" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#bm')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-30}" x2="{($poemNumber*$x-interval)-30}" y1="0" y2="-{$bm*$y-interval}" stroke="#8800CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-30}" cy="-{$bm*$y-interval}" r="1.5" fill="#8800CC" /></xsl:if>
+                    <xsl:if test="(count(//rdg[@wit[contains(., '#bm')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-6}" x2="{($poemNumber*$x-interval)-6}" y1="0" y2="-{$bm*$y-interval}" stroke="#8800CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-6}" cy="-{$bm*$y-interval}" r="1.5" fill="#8800CC" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#fh')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-25}" x2="{($poemNumber*$x-interval)-25}" y1="0" y2="-{$fh*$y-interval}" stroke="#2200CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-25}" cy="-{$fh*$y-interval}" r="1.5" fill="#2200CC" /></xsl:if>
+                    <xsl:if test="(count(//rdg[@wit[contains(., '#fh')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-3}" x2="{($poemNumber*$x-interval)-3}" y1="0" y2="-{$fh*$y-interval}" stroke="#2200CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-3}" cy="-{$fh*$y-interval}" r="1.5" fill="#2200CC" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#poems3')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-15}" x2="{($poemNumber*$x-interval)-15}" y1="0" y2="-{$poems3*$y-interval}" stroke="#ACE500" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-15}" cy="-{$poems3*$y-interval}" r="1.5" fill="#ACE500" /></xsl:if>
+                    <xsl:if test="(count(//rdg[@wit[contains(., '#poems3')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-0}" x2="{($poemNumber*$x-interval)-0}" y1="0" y2="-{$poems3*$y-interval}" stroke="#ACE500" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-0}" cy="-{$poems3*$y-interval}" r="1.5" fill="#ACE500" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#poems2')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-10}" x2="{($poemNumber*$x-interval)-10}" y1="0" y2="-{$poems2*$y-interval}" stroke="#FFFF00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-10}" cy="-{$poems2*$y-interval}" r="1.5" fill="#FFFF00" /></xsl:if>
+                    <xsl:if test="(count(//rdg[@wit[contains(., '#poems2')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+3}" x2="{($poemNumber*$x-interval)+3}" y1="0" y2="-{$poems2*$y-interval}" stroke="#FFFF00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+3}" cy="-{$poems2*$y-interval}" r="1.5" fill="#FFFF00" /></xsl:if>
                   
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#poems1')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-5}" x2="{($poemNumber*$x-interval)-5}" y1="0" y2="-{$poems1*$y-interval}" stroke="#FF9900" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-5}" cy="-{$poems1*$y-interval}" r="1.5" fill="#FF9900" /></xsl:if>
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#poems1')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+6}" x2="{($poemNumber*$x-interval)+6}" y1="0" y2="-{$poems1*$y-interval}" stroke="#FF9900" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+6}" cy="-{$poems1*$y-interval}" r="1.5" fill="#FF9900" /></xsl:if>
+                  
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#LETTER')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+9}" x2="{($poemNumber*$x-interval)+9}" y1="0" y2="-{$LETTER*$y-interval}" stroke="#008080" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+9}" cy="-{$LETTER*$y-interval}" r="1.5" fill="#008080" /></xsl:if>
+                  
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#D')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+12}" x2="{($poemNumber*$x-interval)+12}" y1="0" y2="-{$D*$y-interval}" stroke="#006622" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+12}" cy="-{$D*$y-interval}" r="1.5" fill="#006622" /></xsl:if>
+                  
+                  <xsl:if test="(count(//rdg[@wit[contains(., '#CP')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)+15}" x2="{($poemNumber*$x-interval)+15}" y1="0" y2="-{$CP*$y-interval}" stroke="#e64d00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)+15}" cy="-{$CP*$y-interval}" r="1.5" fill="#e64d00" /></xsl:if>-->
                   </xsl:for-each>
                   </g>
             </g>

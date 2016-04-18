@@ -412,3 +412,136 @@
                fill="black"
                font-style="italic">➙Poems</text>
       </g>
+      <g id="dots"><!--Poem number: 1. Dash Count: 2 CE % Reduction: 50 CE Dash Count: 1-->
+         <line x1="18"
+               x2="18"
+               y1="0"
+               y2="-200"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="18" cy="-200" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 2. Dash Count: 5 CE % Reduction: 60 CE Dash Count: 2-->
+         <line x1="48"
+               x2="48"
+               y1="0"
+               y2="-240"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="48" cy="-240" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 3. Dash Count: 8 CE % Reduction: 100 CE Dash Count: 0-->
+         <line x1="78"
+               x2="78"
+               y1="0"
+               y2="-400"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="78" cy="-400" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 4. Dash Count: 3 CE % Reduction: 100 CE Dash Count: 0-->
+         <!--Poem number: 5. Dash Count: 4 CE % Reduction: 75 CE Dash Count: 1-->
+         <line x1="138"
+               x2="138"
+               y1="0"
+               y2="-300"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="138" cy="-300" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 6. Dash Count: 1 CE % Reduction: 100 CE Dash Count: 0-->
+         <line x1="168"
+               x2="168"
+               y1="0"
+               y2="-400"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="168" cy="-400" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 7. Dash Count: 0 CE % Reduction: NaN CE Dash Count: 0-->
+         <!--Poem number: 8. Dash Count: 4 CE % Reduction: 75 CE Dash Count: 1-->
+         <line x1="228"
+               x2="228"
+               y1="0"
+               y2="-300"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="228" cy="-300" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 9. Dash Count: 1 CE % Reduction: 0 CE Dash Count: 1-->
+         <line x1="258"
+               x2="258"
+               y1="0"
+               y2="-0"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="258" cy="-0" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 10. Dash Count: 6 CE % Reduction: 83.33333333333334 CE Dash Count: 1-->
+         <line x1="288"
+               x2="288"
+               y1="0"
+               y2="-333.33333333333337"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="288" cy="-333.33333333333337" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 11. Dash Count: 9 CE % Reduction: 88.88888888888889 CE Dash Count: 1-->
+         <line x1="318"
+               x2="318"
+               y1="0"
+               y2="-355.55555555555554"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="318" cy="-355.55555555555554" r="1.5" fill="#0099CC"/>
+         <!--Poem number: NaN. Dash Count: 5 CE % Reduction: 80 CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="-320"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="-320" r="1.5" fill="#0099CC"/>
+         <!--Poem number: NaN. Dash Count: 17 CE % Reduction: 94.11764705882352 CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="-376.4705882352941"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="-376.4705882352941" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 13. Dash Count: 14 CE % Reduction: 85.71428571428571 CE Dash Count: 2-->
+         <line x1="378"
+               x2="378"
+               y1="0"
+               y2="-342.85714285714283"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="378" cy="-342.85714285714283" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 14. Dash Count: 5 CE % Reduction: 80 CE Dash Count: 1-->
+         <line x1="408"
+               x2="408"
+               y1="0"
+               y2="-320"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="408" cy="-320" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 15. Dash Count: 3 CE % Reduction: 100 CE Dash Count: 0-->
+         <line x1="438"
+               x2="438"
+               y1="0"
+               y2="-400"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="438" cy="-400" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 16. Dash Count: 5 CE % Reduction: 60 CE Dash Count: 2-->
+         <line x1="468"
+               x2="468"
+               y1="0"
+               y2="-240"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="468" cy="-240" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 17. Dash Count: 4 CE % Reduction: 75 CE Dash Count: 1-->
+         <line x1="498"
+               x2="498"
+               y1="0"
+               y2="-300"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="498" cy="-300" r="1.5" fill="#0099CC"/>
+      </g>
+   </g>
+</svg>
