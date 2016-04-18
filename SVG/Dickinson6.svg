@@ -475,6 +475,14 @@
                stroke="#0099CC"
                stroke-width="1.5"/>
          <circle cx="318" cy="-355.55555555555554" r="1.5" fill="#0099CC"/>
+         <!--Poem number: 12. Dash Count: 5 CE % Reduction: 80 CE Dash Count: 1-->
+         <line x1="348"
+               x2="348"
+               y1="0"
+               y2="-320"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="348" cy="-320" r="1.5" fill="#0099CC"/>
          <!--Poem number: NaN. Dash Count: 5 CE % Reduction: 80 CE Dash Count: 1-->
          <line x1="NaN"
                x2="NaN"
