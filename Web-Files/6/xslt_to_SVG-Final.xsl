@@ -6,7 +6,7 @@
     xmlns="http://www.w3.org/2000/svg">
     <xsl:output method="xml" indent="yes"/>
     
-    <xsl:variable name="DickinsonColl" select="collection('Dickinson6_InitialXML')"/>
+    <xsl:variable name="DickinsonColl" select="collection('xml')"/>
     <xsl:variable name="y-interval" select="4"/>
     <xsl:variable name="x-interval" select="30"/>
    
@@ -21,6 +21,9 @@
                     <line x1="195" x2="195" y1="0" y2="-450" stroke="#EEEEEE" stroke-width="30"/>
                     <line x1="255" x2="255" y1="0" y2="-450" stroke="#EEEEEE" stroke-width="30"/>
                     <line x1="315" x2="315" y1="0" y2="-450" stroke="#EEEEEE" stroke-width="30"/>
+                    <line x1="375" x2="375" y1="0" y2="-450" stroke="#EEEEEE" stroke-width="30"/>
+                    <line x1="435" x2="435" y1="0" y2="-450" stroke="#EEEEEE" stroke-width="30"/>
+                    <line x1="495" x2="495" y1="0" y2="-450" stroke="#EEEEEE" stroke-width="30"/>
                     <!-- title -->
                     <text x="275" y="-485" text-anchor="middle" font-size="25px" font-family="'Open Sans', sans-serif">Percentage of Dash Reduction</text>
                     <text x="275" y="-460" text-anchor="middle" font-size="25px" font-family="'Open Sans', sans-serif">in Published Versions Compared to Originals</text>
@@ -41,41 +44,41 @@
                     <text x="210" y="-50" transform="rotate(-90)" text-anchor="middle" font-size="14px" font-family="'Open Sans', sans-serif">Percentage of Reduction</text>
                     <!-- x-axis marks -->
                     <line x1="0" x2="0" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="15" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 1</text>
+                    <text x="15" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 1</text>
                     <line x1="30" x2="30" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="45" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 2</text>
+                    <text x="45" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 2</text>
                     <line x1="60" x2="60" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="75" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 3</text>
+                    <text x="75" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 3</text>
                     <line x1="90" x2="90" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="105" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 4</text>
+                    <text x="105" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 4</text>
                     <line x1="120" x2="120" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="135" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 5</text>
+                    <text x="135" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 5</text>
                     <line x1="150" x2="150" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="165" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 6</text>
+                    <text x="165" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 6</text>
                     <line x1="180" x2="180" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="195" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 7</text>
+                    <text x="195" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 7</text>
                     <line x1="210" x2="210" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="225" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 8</text>
+                    <text x="225" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 8</text>
                     <line x1="240" x2="240" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="255" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 9</text>
+                    <text x="255" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 9</text>
                     <line x1="270" x2="270" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="285" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 10</text>
+                    <text x="285" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 10</text>
                     <line x1="300" x2="300" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="315" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 11</text>
+                    <text x="315" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 11</text>
                     <line x1="330" x2="330" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="345" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 12.1</text>
+                    <text x="345" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 12.1</text>
                     <line x1="360" x2="360" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="375" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 12.2</text>
+                    <text x="375" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 12.2</text>
                     <line x1="390" x2="390" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="405" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 13</text>
+                    <text x="405" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 13</text>
                     <line x1="420" x2="420" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="435" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 14</text>
+                    <text x="435" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 14</text>
                     <line x1="450" x2="450" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="465" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 15</text>
+                    <text x="465" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 15</text>
                     <line x1="480" x2="480" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="495" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 16</text>
+                    <text x="495" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 16</text>
                     <line x1="510" x2="510" y1="10" y2="-450" stroke="black" stroke-width="1"/>
-                    <text x="525" y="25" text-anchor="middle" font-size="8px" font-family="'Open Sans', sans-serif">Poem 17</text>
+                    <text x="525" y="25" text-anchor="middle" font-size="7px" font-family="'Open Sans', sans-serif">Poem 17</text>
                     <line x1="540" x2="540" y1="10" y2="-450" stroke="black" stroke-width="1"/>
                 </g>
                 <g id="legend">
@@ -328,13 +331,10 @@
               <xsl:text> CE Dash Count: </xsl:text><xsl:value-of select="$dashCountCE"/></xsl:comment> 
                   
                   <xsl:if test="(count(//rdg[@wit[contains(., '#LETTER')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-5}" x2="{($poemNumber*$x-interval)-5}" y1="0" y2="-{$LETTER*$y-interval}" stroke="#008080" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-5}" cy="-{$LETTER*$y-interval}" r="1.5" fill="#008080" /></xsl:if>
-              </xsl:for-each>
                     
-                    <xsl:if test="(count(//rdg[@wit[contains(., '#D')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-5}" x2="{($poemNumber*$x-interval)-5}" y1="0" y2="-{$D1*$y-interval}" stroke="#006622" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-5}" cy="-{$D*$y-interval}" r="1.5" fill="#006622" /></xsl:if>
-              </xsl:for-each>
+                    <xsl:if test="(count(//rdg[@wit[contains(., '#D')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-5}" x2="{($poemNumber*$x-interval)-5}" y1="0" y2="-{$D*$y-interval}" stroke="#006622" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-5}" cy="-{$D*$y-interval}" r="1.5" fill="#006622" /></xsl:if>
                     
                     <xsl:if test="(count(//rdg[@wit[contains(., '#CP')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-5}" x2="{($poemNumber*$x-interval)-5}" y1="0" y2="-{$CP*$y-interval}" stroke="#e64d00" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-5}" cy="-{$CP*$y-interval}" r="1.5" fill="#e64d00" /></xsl:if>
-              </xsl:for-each>
                   
                     <xsl:if test="(count(//rdg[@wit[contains(., '#ce')]])) &gt; 0"><line x1="{($poemNumber*$x-interval)-45}" x2="{($poemNumber*$x-interval)-45}" y1="0" y2="-{$CER*$y-interval}" stroke="#0099CC" stroke-width="1.5"/><circle cx="{($poemNumber*$x-interval)-45}" cy="-{$CER*$y-interval}" r="1.5" fill="#0099CC" /></xsl:if>
                   

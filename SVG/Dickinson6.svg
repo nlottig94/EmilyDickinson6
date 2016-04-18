@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="125%">
+   <g transform="translate(100, 550)">
+      <g id="baseStuff">
+         <line x1="15"
+               x2="15"
+               y1="0"
+               y2="-450"
+               stroke="#EEEEEE"
+               stroke-width="30"/>
+         <line x1="75"
+               x2="75"
+               y1="0"
+               y2="-450"
+               stroke="#EEEEEE"
+               stroke-width="30"/>
+         <line x1="135"
+               x2="135"
+               y1="0"
+               y2="-450"
+               stroke="#EEEEEE"
+               stroke-width="30"/>
+         <line x1="195"
+               x2="195"
+               y1="0"
+               y2="-450"
+               stroke="#EEEEEE"
+               stroke-width="30"/>
+         <line x1="255"
+               x2="255"
+               y1="0"
+               y2="-450"
+               stroke="#EEEEEE"
+               stroke-width="30"/>
+         <line x1="315"
+               x2="315"
+               y1="0"
+               y2="-450"
+               stroke="#EEEEEE"
+               stroke-width="30"/>
+         <text x="275"
+               y="-485"
+               text-anchor="middle"
+               font-size="25px"
+               font-family="'Open Sans', sans-serif">Percentage of Dash Reduction</text>
+         <text x="275"
+               y="-460"
+               text-anchor="middle"
+               font-size="25px"
+               font-family="'Open Sans', sans-serif">in Published Versions Compared to Originals</text>
+         <line x1="-1"
+               x2="550"
+               y1="0"
+               y2="0"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="-25"
+               y="-100"
+               text-anchor="middle"
+               font-family="'Open Sans', sans-serif">25%</text>
+         <line x1="-10"
+               x2="550"
+               y1="-100"
+               y2="-100"
+               style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
+         <text x="-25"
+               y="-200"
+               text-anchor="middle"
+               font-family="'Open Sans', sans-serif">50%</text>
+         <line x1="-10"
+               x2="550"
+               y1="-200"
+               y2="-200"
+               style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
+         <text x="-25"
+               y="-300"
+               text-anchor="middle"
+               font-family="'Open Sans', sans-serif">75%</text>
+         <line x1="-10"
+               x2="550"
+               y1="-300"
+               y2="-300"
+               style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
+         <text x="-25"
+               y="-400"
+               text-anchor="middle"
+               font-family="'Open Sans', sans-serif">100%</text>
+         <line x1="-10"
+               x2="550"
+               y1="-400"
+               y2="-400"
+               style="stroke: black; fill:none; stroke-width: 1px; stroke-dasharray: 10 5"/>
+         <text x="210"
+               y="-50"
+               transform="rotate(-90)"
+               text-anchor="middle"
+               font-size="14px"
+               font-family="'Open Sans', sans-serif">Percentage of Reduction</text>
+         <line x1="0"
+               x2="0"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="15"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 1</text>
+         <line x1="30"
+               x2="30"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="45"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 2</text>
+         <line x1="60"
+               x2="60"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="75"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 3</text>
+         <line x1="90"
+               x2="90"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="105"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 4</text>
+         <line x1="120"
+               x2="120"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="135"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 5</text>
+         <line x1="150"
+               x2="150"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="165"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 6</text>
+         <line x1="180"
+               x2="180"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="195"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 7</text>
+         <line x1="210"
+               x2="210"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="225"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 8</text>
+         <line x1="240"
+               x2="240"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="255"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 9</text>
+         <line x1="270"
+               x2="270"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="285"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 10</text>
+         <line x1="300"
+               x2="300"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="315"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 11</text>
+         <line x1="330"
+               x2="330"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="345"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 12.1</text>
+         <line x1="360"
+               x2="360"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="375"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 12.2</text>
+         <line x1="390"
+               x2="390"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="405"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 13</text>
+         <line x1="420"
+               x2="420"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="435"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 14</text>
+         <line x1="450"
+               x2="450"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="465"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 15</text>
+         <line x1="480"
+               x2="480"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="495"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 16</text>
+         <line x1="510"
+               x2="510"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+         <text x="525"
+               y="25"
+               text-anchor="middle"
+               font-size="8px"
+               font-family="'Open Sans', sans-serif">Poem 17</text>
+         <line x1="540"
+               x2="540"
+               y1="10"
+               y2="-450"
+               stroke="black"
+               stroke-width="1"/>
+      </g>
+      <g id="legend">
+         <circle cx="25" cy="55" r="15" fill="#0099CC"/>
+         <text x="40"
+               y="58"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black">➙</text>
+         <text x="52"
+               y="47"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black"
+               font-style="italic">The Poems of Emily</text>
+         <text x="75"
+               y="59"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black"
+               font-style="italic">Dickinson,</text>
+         <text x="55"
+               y="71"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black"
+               font-style="italic">Centenary Edition</text>
+         <circle cx="25" cy="115" r="15" fill="#ec008c"/>
+         <text x="40"
+               y="118"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black">➙Letter to Susan Dickinson</text>
+         <circle cx="25" cy="175" r="15" fill="#ff4dff"/>
+         <text x="40"
+               y="178"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black"
+               font-style="italic">➙Atlantic Monthly</text>
+         <circle cx="210" cy="55" r="15" fill="#8800CC"/>
+         <text x="225"
+               y="58"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black"
+               font-style="italic">➙Bolts of Melody</text>
+         <circle cx="210" cy="115" r="15" fill="#2200CC"/>
+         <text x="225"
+               y="118"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black"
+               font-style="italic">➛Final Harvest</text>
+         <circle cx="210" cy="175" r="15" fill="#00CC00"/>
+         <text x="225"
+               y="178"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black"
+               font-style="italic">➙Further Poems</text>
+         <circle cx="400" cy="175" r="15" fill="#ACE500"/>
+         <text x="415"
+               y="178"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black"
+               font-style="italic">➙Poems, Third Series</text>
+         <circle cx="400" cy="115" r="15" fill="#FFFF00"/>
+         <text x="415"
+               y="118"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black"
+               font-style="italic">➙Poems, Second Series</text>
+         <circle cx="400" cy="55" r="15" fill="#FF9900"/>
+         <text x="415"
+               y="58"
+               text-anchor="start"
+               font-size="12px"
+               font-family="'Open Sans', sans-serif"
+               fill="black"
+               font-style="italic">➙Poems</text>
+      </g>
+      <g id="dots"><!--Poem number: NaN. Dash Count: 1 CE % Reduction: 0 CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--400"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--400" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="-0"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="-0" r="1.5" fill="#0099CC"/>
+         <!--Poem number: NaN. Dash Count: 1 CE % Reduction: -100 CE Dash Count: 2-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--1600"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--1600" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--400"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--400" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--400"
+               stroke="#ACE500"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--400" r="1.5" fill="#ACE500"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: NaN CE Dash Count: 0-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#006622"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#006622"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="-NaN"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="-NaN" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#2200CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#2200CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="-NaN"
+               stroke="#FF9900"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="-NaN" r="1.5" fill="#FF9900"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: NaN CE Dash Count: 0-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#8800CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#8800CC"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#2200CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#2200CC"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: NaN CE Dash Count: 0-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="-NaN"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="-NaN" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#2200CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#2200CC"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: NaN CE Dash Count: 0-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="-NaN"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="-NaN" r="1.5" fill="#e64d00"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#2200CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#2200CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#FF9900"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#FF9900"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="-NaN"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="-NaN" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#FFFF00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#FFFF00"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#006622"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#006622"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#2200CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#2200CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#FF9900"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#FF9900"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#008080"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#008080"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#2200CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#2200CC"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#2200CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#2200CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#FF9900"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#FF9900"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#006622"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#006622"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#ec008c"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#ec008c"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#2200CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#2200CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#FF9900"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#FF9900"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 2-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#ec008c"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#ec008c"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#FFFF00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#FFFF00"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#FFFF00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#FFFF00"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: NaN CE Dash Count: 0-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="-NaN"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="-NaN" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="-NaN"
+               stroke="#FF9900"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="-NaN" r="1.5" fill="#FF9900"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 2-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#FFFF00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#FFFF00"/>
+         <!--Poem number: NaN. Dash Count: 0 CE % Reduction: -INF CE Dash Count: 1-->
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#006622"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#006622"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#e64d00"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#e64d00"/>
+         <line x1="NaN"
+               x2="NaN"
+               y1="0"
+               y2="--INF"
+               stroke="#0099CC"
+               stroke-width="1.5"/>
+         <circle cx="NaN" cy="--INF" r="1.5" fill="#0099CC"/>
+      </g>
+   </g>
+</svg>
