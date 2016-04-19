@@ -710,7 +710,7 @@
 </map>
 
 <!-- poems2 -->
-<img src="../Web-Files/6/img/609/609poems2-Map.jpg" alt="" usemap="#fs609poems2-Map" />
+<img src="../Web-Files/6/img/609/609poems2-Map.jpg" alt="Image Map for Poems, Second Series of Poem 9" usemap="#fs609poems2-Map" />
 <map name="fs609poems2-Map" id="fs609poems2-Map">
     <area alt="Poem 9" title="Poem 9" href="#fs609poems2-Map" shape="rect" coords="99,117,151,133" />
     <area alt="I never hear the word 'Escape'" title="I never hear the word 'Escape'" href="#fs609poems2-Map" shape="rect" coords="170,145,213,158" />
@@ -718,4 +718,185 @@
     <area alt="A flying attitude!" title="A flying attitude!" href="#fs609poems2-Map" shape="rect" coords="118,187,125,194" />
     <area alt="But I tug childish at my bar&#8212;" title="But I tug childish at my bar&#8212;" href="#fs609poems2-Map" shape="rect" coords="162,233,202,244" />
 </map>
-    
+
+
+<!-- POEM 10 -->
+
+<!-- fs -->
+<img src="../Web-Files/6/img/610/fs610-Map.jpg" alt="Image Map for Original Poem 10" usemap="#fs610-Map" />
+<map name="fs610-Map" id="fs610-Map">
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610-Map" shape="rect" coords="680,19,794,69" />
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610-Map" shape="rect" coords="1040,60,1076,84" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610-Map" shape="rect" coords="350,118,398,142" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610-Map" shape="rect" coords="526,80,634,143" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610-Map" shape="rect" coords="871,129,901,162" />
+    <area alt="These are the days when skies resume" title="These are the days when skies resume" href="#fs610-Map" shape="rect" coords="920,305,1082,361" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610-Map" shape="rect" coords="290,406,329,436" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610-Map" shape="rect" coords="1033,416,1069,443" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610-Map" shape="rect" coords="143,592,158,653" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610-Map" shape="rect" coords="1022,584,1102,653" />
+    <area alt="Induces my belief," title="Induces my belief," href="#fs610-Map" shape="rect" coords="628,759,656,791" />
+    <area alt="Till ranks of seeds their witness bear." title="Till ranks of seeds their witness bear." href="#fs610-Map" shape="rect" coords="1066,917,1091,935" />
+    <area alt="And softly thro' the altered air" title="And softly thro' the altered air" href="#fs610-Map" shape="rect" coords="394,943,524,1000" />
+    <area alt="Hurries a timid leaf." title="Hurries a timid leaf." href="#fs610-Map" shape="rect" coords="784,1039,817,1070" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610-Map" shape="rect" coords="142,1147,163,1223" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610-Map" shape="rect" coords="173,1150,473,1223" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610-Map" shape="rect" coords="166,1226,607,1291" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610-Map" shape="rect" coords="907,1228,1018,1279" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610-Map" shape="rect" coords="1021,1264,1043,1288" />
+    <area alt="Permit a child to join," title="Permit a child to join," href="#fs610-Map" shape="rect" coords="844,1333,880,1363" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610-Map" shape="rect" coords="353,1436,586,1495" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610-Map" shape="rect" coords="919,1484,949,1507" />
+    <area alt="Thy consecrated bread to take" title="Thy consecrated bread to take" href="#fs610-Map" shape="rect" coords="842,1510,997,1573" />
+    <area alt="Thy consecrated bread to take" title="Thy consecrated bread to take" href="#fs610-Map" shape="rect" coords="1018,1507,1039,1579" />
+    <area alt="And thine immortal wine!" title="And thine immortal wine!" href="#fs610-Map" shape="rect" coords="32,1580,206,1639" />
+</map>
+
+<!-- ce -->
+<img src="../Web-Files/6/img/610/610ce-Map.jpg" alt="Image Map for Centenary Edition of Poem 10" usemap="#fs610ce-Map" />
+<map name="fs610ce-Map" id="fs610ce-Map">
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610ce-Map" shape="rect" coords="613,89,717,141" />
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610ce-Map" shape="rect" coords="893,115,921,145" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610ce-Map" shape="rect" coords="293,165,323,191" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610ce-Map" shape="rect" coords="343,143,425,187" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610ce-Map" shape="rect" coords="537,161,561,191" />
+    <area alt="These are the days when skies resume" title="These are the days when skies resume" href="#fs610ce-Map" shape="rect" coords="635,277,765,331" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610ce-Map" shape="rect" coords="229,351,259,381" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610ce-Map" shape="rect" coords="661,341,745,383" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610ce-Map" shape="rect" coords="147,485,181,521" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610ce-Map" shape="rect" coords="655,461,743,523" />
+    <area alt="Induces my belief," title="Induces my belief," href="#fs610ce-Map" shape="rect" coords="405,589,435,625" />
+    <area alt="Till ranks of seeds their witness bear." title="Till ranks of seeds their witness bear." href="#fs610ce-Map" shape="rect" coords="747,885,769,911" />
+    <area alt="And softly thro' the altered air" title="And softly thro' the altered air" href="#fs610ce-Map" shape="rect" coords="289,903,453,961" />
+    <area alt="Hurries a timid leaf." title="Hurries a timid leaf." href="#fs610ce-Map" shape="rect" coords="449,963,477,1011" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610ce-Map" shape="rect" coords="143,1073,165,1105" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610ce-Map" shape="rect" coords="167,1057,353,1109" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610ce-Map" shape="rect" coords="147,1125,169,1161" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610ce-Map" shape="rect" coords="167,1111,451,1157" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610ce-Map" shape="rect" coords="561,1115,665,1171" />
+    <area alt="Permit a child to join," title="Permit a child to join," href="#fs610ce-Map" shape="rect" coords="467,1185,497,1217" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610ce-Map" shape="rect" coords="301,1257,463,1309" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610ce-Map" shape="rect" coords="645,1277,667,1315" />
+    <area alt="Thy consecrated bread to take" title="Thy consecrated bread to take" href="#fs610ce-Map" shape="rect" coords="545,1309,673,1361" />
+    <area alt="And thine immortal wine!" title="And thine immortal wine!" href="#fs610ce-Map" shape="rect" coords="87,1355,197,1411" />
+</map>
+
+<!-- CP -->
+<img src="../Web-Files/6/img/610/610CP-Map.jpg" alt="Image Map for Complete Poems of Poem 10" usemap="#fs610CP-Map" />
+<map name="fs610CP-Map" id="fs610CP-Map">
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610CP-Map" shape="rect" coords="787,116,903,182" />
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610CP-Map" shape="rect" coords="1091,144,1137,174" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610CP-Map" shape="rect" coords="543,202,585,226" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610CP-Map" shape="rect" coords="613,180,701,236" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610CP-Map" shape="rect" coords="811,206,861,228" />
+    <area alt="These are the days when skies resume" title="These are the days when skies resume" href="#fs610CP-Map" shape="rect" coords="883,326,1047,378" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610CP-Map" shape="rect" coords="493,386,529,426" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610CP-Map" shape="rect" coords="927,394,975,418" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610CP-Map" shape="rect" coords="399,524,413,572" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610CP-Map" shape="rect" coords="903,510,1025,570" />
+    <area alt="Induces my belief," title="Induces my belief," href="#fs610CP-Map" shape="rect" coords="653,648,693,680" />
+    <area alt="Till ranks of seeds their witness bear." title="Till ranks of seeds their witness bear." href="#fs610CP-Map" shape="rect" coords="995,714,1055,754" />
+    <area alt="And softly thro' the altered air" title="And softly thro' the altered air" href="#fs610CP-Map" shape="rect" coords="535,760,639,824" />
+    <area alt="Hurries a timid leaf." title="Hurries a timid leaf." href="#fs610CP-Map" shape="rect" coords="693,840,719,870" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610CP-Map" shape="rect" coords="395,898,411,952" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610CP-Map" shape="rect" coords="415,902,615,956" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610CP-Map" shape="rect" coords="401,960,415,1008" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610CP-Map" shape="rect" coords="417,960,735,1008" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610CP-Map" shape="rect" coords="843,952,995,1006" />
+    <area alt="Permit a child to join," title="Permit a child to join," href="#fs610CP-Map" shape="rect" coords="723,1036,745,1060" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610CP-Map" shape="rect" coords="543,1082,725,1144" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610CP-Map" shape="rect" coords="903,1108,957,1138" />
+    <area alt="Thy consecrated bread to take" title="Thy consecrated bread to take" href="#fs610CP-Map" shape="rect" coords="803,1144,901,1198" />
+    <area alt="Thy consecrated bread to take" title="Thy consecrated bread to take" href="#fs610CP-Map" shape="rect" coords="915,1150,953,1204" />
+    <area alt="And thine immortal wine!" title="And thine immortal wine!" href="#fs610CP-Map" shape="rect" coords="335,1188,429,1264" />
+</map>
+
+<!-- D -->
+<img src="../Web-Files/6/img/610/610D-Map.jpg" alt="Image Map for Dickinson Poem 10" usemap="#fs610D-Map" />
+<map name="fs610D-Map" id="fs610D-Map">
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610D-Map" shape="rect" coords="848,240,960,292" />
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610D-Map" shape="rect" coords="1148,244,1178,286" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610D-Map" shape="rect" coords="598,317,634,357" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610D-Map" shape="rect" coords="658,301,750,365" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610D-Map" shape="rect" coords="860,317,902,349" />
+    <area alt="These are the days when skies resume" title="These are the days when skies resume" href="#fs610D-Map" shape="rect" coords="934,463,1084,509" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610D-Map" shape="rect" coords="552,541,594,567" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610D-Map" shape="rect" coords="982,539,1018,571" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610D-Map" shape="rect" coords="464,685,488,737" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610D-Map" shape="rect" coords="972,677,1070,735" />
+    <area alt="Induces my belief," title="Induces my belief," href="#fs610D-Map" shape="rect" coords="724,829,750,861" />
+    <area alt="Till ranks of seeds their witness bear." title="Till ranks of seeds their witness bear." href="#fs610D-Map" shape="rect" coords="1066,917,1104,941" />
+    <area alt="And softly thro' the altered air" title="And softly thro' the altered air" href="#fs610D-Map" shape="rect" coords="608,959,710,1017" />
+    <area alt="Hurries a timid leaf." title="Hurries a timid leaf." href="#fs610D-Map" shape="rect" coords="766,1047,786,1081" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610D-Map" shape="rect" coords="470,1125,490,1165" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610D-Map" shape="rect" coords="490,1121,682,1171" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610D-Map" shape="rect" coords="476,1187,490,1229" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610D-Map" shape="rect" coords="494,1179,820,1235" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610D-Map" shape="rect" coords="930,1181,1060,1231" />
+    <area alt="Permit a child to join," title="Permit a child to join," href="#fs610D-Map" shape="rect" coords="802,1259,834,1279" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610D-Map" shape="rect" coords="628,1341,798,1385" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610D-Map" shape="rect" coords="976,1351,1018,1381" />
+    <area alt="Thy consecrated bread to take" title="Thy consecrated bread to take" href="#fs610D-Map" shape="rect" coords="878,1403,976,1449" />
+    <area alt="Thy consecrated bread to take" title="Thy consecrated bread to take" href="#fs610D-Map" shape="rect" coords="1006,1407,1024,1451" />
+    <area alt="And thine immortal wine!" title="And thine immortal wine!" href="#fs610D-Map" shape="rect" coords="412,1469,508,1515" />
+</map>
+
+<!-- fh -->
+<img src="../Web-Files/6/img/610/610fh-Map.jpg" alt="Image Map for Final Harvest: Emily Dickinson's Poems of Poem 10" usemap="#fs610fh-Map" />
+<map name="fs610fh-Map" id="fs610fh-Map">
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610fh-Map" shape="rect" coords="761,117,865,177" />
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610fh-Map" shape="rect" coords="1065,133,1101,169" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610fh-Map" shape="rect" coords="501,188,549,228" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610fh-Map" shape="rect" coords="577,172,667,228" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610fh-Map" shape="rect" coords="793,192,825,222" />
+    <area alt="These are the days when skies resume" title="These are the days when skies resume" href="#fs610fh-Map" shape="rect" coords="859,308,999,360" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610fh-Map" shape="rect" coords="455,376,499,408" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610fh-Map" shape="rect" coords="899,380,941,408" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610fh-Map" shape="rect" coords="363,498,383,550" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610fh-Map" shape="rect" coords="875,500,997,550" />
+    <area alt="Induces my belief," title="Induces my belief," href="#fs610fh-Map" shape="rect" coords="629,635,657,657" />
+    <area alt="Till ranks of seeds their witness bear." title="Till ranks of seeds their witness bear." href="#fs610fh-Map" shape="rect" coords="947,967,1009,997" />
+    <area alt="And softly thro' the altered air" title="And softly thro' the altered air" href="#fs610fh-Map" shape="rect" coords="493,999,589,1055" />
+    <area alt="Hurries a timid leaf." title="Hurries a timid leaf." href="#fs610fh-Map" shape="rect" coords="639,1085,683,1115" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610fh-Map" shape="rect" coords="359,1135,367,1185" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610fh-Map" shape="rect" coords="361,1135,567,1191" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610fh-Map" shape="rect" coords="341,1195,371,1241" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610fh-Map" shape="rect" coords="379,1199,689,1245" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610fh-Map" shape="rect" coords="811,1185,947,1241" />
+    <area alt="Permit a child to join," title="Permit a child to join," href="#fs610fh-Map" shape="rect" coords="673,1273,703,1299" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610fh-Map" shape="rect" coords="505,1335,675,1381" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610fh-Map" shape="rect" coords="859,1345,907,1371" />
+    <area alt="Thy consecrated bread to take" title="Thy consecrated bread to take" href="#fs610fh-Map" shape="rect" coords="757,1391,849,1431" />
+    <area alt="Thy consecrated bread to take" title="Thy consecrated bread to take" href="#fs610fh-Map" shape="rect" coords="867,1397,903,1435" />
+    <area alt="And thine immortal wine!" title="And thine immortal wine!" href="#fs610fh-Map" shape="rect" coords="279,1441,391,1497" />
+</map>
+
+<!-- poems1 -->
+<img src="../Web-Files/6/img/610/610poems1-Map.jpg" alt="Image Map for Poems, First Series of Poem 10" usemap="#fs610poems1-Map" />
+<map name="fs610poems1-Map" id="fs610poems1-Map">
+    <area alt="Poem 10" title="Poem 10" href="#fs610poems1-Map" shape="rect" coords="97,131,208,145" />
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610poems1-Map" shape="rect" coords="185,158,210,174" />
+    <area alt="These are the days when Birds come back&#8212;" title="These are the days when Birds come back&#8212;" href="#fs610poems1-Map" shape="rect" coords="258,165,269,175" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610poems1-Map" shape="rect" coords="124,180,132,188" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610poems1-Map" shape="rect" coords="141,170,163,188" />
+    <area alt="A very few&#8212; a Bird or two&#8212;" title="A very few&#8212; a Bird or two&#8212;" href="#fs610poems1-Map" shape="rect" coords="193,180,201,185" />
+    <area alt="These are the days when skies resume" title="These are the days when skies resume" href="#fs610poems1-Map" shape="rect" coords="186,214,225,229" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610poems1-Map" shape="rect" coords="85,235,89,242" />
+    <area alt="The old. old sophistries of June&#8212;" title="The old. old sophistries of June&#8212;" href="#fs610poems1-Map" shape="rect" coords="191,231,215,242" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610poems1-Map" shape="rect" coords="62,276,70,284" />
+    <area alt="Oh fraud that cannnot cheat the Bee." title="Oh fraud that cannnot cheat the Bee." href="#fs610poems1-Map" shape="rect" coords="197,268,221,284" />
+    <area alt="Induces my belief," title="Induces my belief," href="#fs610poems1-Map" shape="rect" coords="127,301,138,311" />
+    <area alt="Till ranks of seeds their witness bear." title="Till ranks of seeds their witness bear." href="#fs610poems1-Map" shape="rect" coords="213,331,224,337" />
+    <area alt="And softly thro' the altered air" title="And softly thro' the altered air" href="#fs610poems1-Map" shape="rect" coords="100,335,137,352" />
+    <area alt="Hurries a timid leaf." title="Hurries a timid leaf." href="#fs610poems1-Map" shape="rect" coords="140,351,148,365" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610poems1-Map" shape="rect" coords="63,409,71,420" />
+    <area alt="Oh sacrament of summer days," title="Oh sacrament of summer days," href="#fs610poems1-Map" shape="rect" coords="68,403,116,415" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610poems1-Map" shape="rect" coords="62,422,72,429" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610poems1-Map" shape="rect" coords="76,416,142,431" />
+    <area alt="Oh Last Communion in the Haze&#8212;" title="Oh Last Communion in the Haze&#8212;" href="#fs610poems1-Map" shape="rect" coords="177,416,200,431" />
+    <area alt="Permit a child to join," title="Permit a child to join," href="#fs610poems1-Map" shape="rect" coords="143,436,154,445" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610poems1-Map" shape="rect" coords="102,454,145,472" />
+    <area alt="Thy sacred Emblems to partake&#8212;" title="Thy sacred Emblems to partake&#8212;" href="#fs610poems1-Map" shape="rect" coords="195,465,202,470" />
+    <area alt="Thy consecrated bread to take" title="Thy consecrated bread to take" href="#fs610poems1-Map" shape="rect" coords="169,471,201,487" />
+    <area alt="And thine immortal wine!" title="And thine immortal wine!" href="#fs610poems1-Map" shape="rect" coords="48,484,77,499" />
+</map>
