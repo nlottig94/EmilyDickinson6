@@ -582,3 +582,85 @@
     <area alt="Yesterday, and Today," title="Yesterday, and Today," href="#fs606CP-Map" shape="rect" coords="657,522,801,578" />
     <area alt="Her vestments as the silver fleece&#8212;" title="Her vestments as the silver fleece&#8212;" href="#fs606CP-Map" shape="rect" coords="983,590,1031,620" />
 </map>
+
+<!-- fh -->
+<img src="../Web-Files/6/img/606/606fh-Map.jpg" alt="Image Map for Final Harvest: Emily Dickinson's Poems of Poem 6" usemap="#fs606fh-Map" />
+<map name="fs606fh-Map" id="fs606fh-Map">
+    <area alt="Upon a Couch of flowers." title="Upon a Couch of flowers." href="#fs606fh-Map" shape="rect" coords="586,370,724,418" />
+    <area alt="Yesterday, and Today," title="Yesterday, and Today," href="#fs606fh-Map" shape="rect" coords="612,530,644,556" />
+    <area alt="Yesterday, and Today," title="Yesterday, and Today," href="#fs606fh-Map" shape="rect" coords="716,504,852,562" />
+    <area alt="Her vestments as the silver fleece&#8212;" title="Her vestments as the silver fleece&#8212;" href="#fs606fh-Map" shape="rect" coords="1044,572,1084,606" />
+</map>
+
+
+<!-- POEM 7 -->
+
+<!-- fs -->
+<img src="../Web-Files/6/img/607/fs607-Map.jpg" alt="Image Map for Original Poem 7" usemap="#fs607-Map" />
+<map name="fs607-Map" id="fs607-Map">
+    <area alt="Your secret, perched in estasy" title="" href="#fs607-Map" shape="rect" coords="905,330,1099,418" />
+</map>
+
+<!-- CP -->
+<img src="../Web-Files/6/img/607/607CP-Map.jpg" alt="Image Map for Complete Poems of Poem 7" usemap="#fs607CP-Map" />
+<map name="fs607CP-Map" id="fs607CP-Map">
+    <area alt="Your secret, perched in estasy" title="Your secret, perched in estasy" href="#607CP-Map" shape="rect" coords="892,412,1036,470" />
+</map>
+
+
+<!-- POEM 8 -->
+
+<!-- fs -->
+<img src="../Web-Files/6/img/608/fs608-Map.jpg" alt="Image Map for Original Poem 8" usemap="#fs608-Map" />
+<map name="fs608-Map" id="fs608-Map">
+    <area alt="Of an inland soul to sea&#8212;" title="Of an inland soul to sea&#8212;" href="#fs608-Map" shape="rect" coords="1019,130,1083,172" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fs608-Map" shape="rect" coords="451,180,679,246" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fs608-Map" shape="rect" coords="683,208,723,240" />
+    <area alt="Past the Headlands&#8212;" title="Past the Headlands&#8212;" href="#fs608-Map" shape="rect" coords="61,244,869,318" />
+    <area alt="Into deep Eternity&#8212;" title="Into deep Eternity&#8212;" href="#fs608-Map" shape="rect" coords="485,322,813,418" />
+    <area alt="Into deep Eternity&#8212;" title="Into deep Eternity&#8212;" href="#fs608-Map" shape="rect" coords="815,344,849,368" />
+    <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fs608-Map" shape="rect" coords="539,450,799,528" />
+    <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fs608-Map" shape="rect" coords="1097,506,1115,514" />
+    <area alt="Of the first league out from Land" title="Of the first league out from Land" href="#fs608-Map" shape="rect" coords="1011,650,1107,718" />
+    <area alt="Of the first league out from Land" title="Of the first league out from Land" href="#fs608-Map" shape="rect" coords="1089,720,1113,746" />
+</map>
+
+<!-- ce -->
+<img src="../Web-Files/6/img/608/608ce-Map.jpg" alt="Image Map for Centenary Edition of Poem 8" usemap="#fs608ce" />
+<map name="fs608ce" id="fs608ce">
+    <area alt="Of an inland soul to sea&#8212;" title="Of an inland soul to sea&#8212;" href="#fs608ce" shape="rect" coords="695,260,783,298" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fs608ce" shape="rect" coords="427,296,571,344" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fs608ce" shape="rect" coords="577,298,949,354" />
+    <area alt="Into deep Eternity&#8212;" title="Into deep Eternity&#8212;" href="#fs608ce" shape="rect" coords="581,356,617,390" />
+    <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fs608ce" shape="rect" coords="483,456,615,500" />
+    <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fs608ce" shape="rect" coords="869,472,891,500" />
+    <area alt="Of the first league out from Land" title="Of the first league out from Land" href="#fs608ce" shape="rect" coords="767,594,881,652" />
+</map>
+
+<!-- CP -->
+<img src="../Web-Files/6/img/608/608CP-Map.jpg" alt="Image Map for Complete Poems of Poem 8" usemap="#fs608CP-Map" />
+<map name="fs608CP-Map" id="fs608CP-Map">
+    <area alt="Of an inland soul to sea&#8212;" title="Of an inland soul to sea&#8212;" href="#fs608CP-Map" shape="rect" coords="841,202,861,230" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fs608CP-Map" shape="rect" coords="567,230,691,280" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fs608CP-Map" shape="rect" coords="699,238,731,288" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fs608CP-Map" shape="rect" coords="741,234,1127,286" />
+    <area alt="Into deep Eternity&#8212;" title="Into deep Eternity&#8212;" href="#fs608CP-Map" shape="rect" coords="595,282,753,344" />
+    <area alt="Into deep Eternity&#8212;" title="Into deep Eternity&#8212;" href="#fs608CP-Map" shape="rect" coords="759,288,797,344" />
+    <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fs608CP-Map" shape="rect" coords="621,394,759,448" />
+    <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fs608CP-Map" shape="rect" coords="1019,414,1041,446" />
+    <area alt="Of the first league out from Land" title="Of the first league out from Land" href="#fs608CP-Map" shape="rect" coords="905,834,1021,890" />
+</map>
+
+<!-- fh -->
+<img src="../Web-Files/6/img/608/608fh-Map.jpg" alt="Image Map for Final Harvest: Emily Dickinson's Poems of Poem 8" usemap="#fh608fh-Map" />
+<map name="fh608fh-Map" id="fh608fh-Map">
+    <area alt="Of an inland soul to sea&#8212;" title="Of an inland soul to sea&#8212;" href="#fh608fh-Map" shape="rect" coords="805,230,833,258" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fh608fh-Map" shape="rect" coords="491,526,625,582" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fh608fh-Map" shape="rect" coords="629,532,663,576" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fh608fh-Map" shape="rect" coords="667,530,1043,584" />
+    <area alt="Into deep Eternity&#8212;" title="Into deep Eternity&#8212;" href="#fh608fh-Map" shape="rect" coords="521,584,683,650" />
+    <area alt="Into deep Eternity&#8212;" title="Into deep Eternity&#8212;" href="#fh608fh-Map" shape="rect" coords="695,586,723,646" />
+    <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fh608fh-Map" shape="rect" coords="555,668,689,722" />
+    <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fh608fh-Map" shape="rect" coords="945,694,973,724" />
+    <area alt="Of the first league out from Land" title="Of the first league out from Land" href="#fh608fh-Map" shape="rect" coords="837,816,963,886" />
+</map>
