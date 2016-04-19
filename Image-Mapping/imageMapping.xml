@@ -664,3 +664,58 @@
     <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fh608fh-Map" shape="rect" coords="945,694,973,724" />
     <area alt="Of the first league out from Land" title="Of the first league out from Land" href="#fh608fh-Map" shape="rect" coords="837,816,963,886" />
 </map>
+
+<!-- poems1 -->
+<img src="../Web-Files/6/img/608/608poems1-Map.jpg" alt="Image Map for Poems, First Series of Poem 8" usemap="#fs608poems1-Map" />
+<map name="fs608poems1-Map" id="fs608poems1-Map">
+    <area alt="Poem 8" title="Poem 8" href="#fs608poems1-Map" shape="rect" coords="124,139,216,155" />
+    <area alt="Of an inland soul to sea&#8212;" title="Of an inland soul to sea&#8212;" href="#fs608poems1-Map" shape="rect" coords="229,181,252,194" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fs608poems1-Map" shape="rect" coords="130,193,166,209" />
+    <area alt="Past the Houses&#8212;" title="Past the Houses&#8212;" href="#fs608poems1-Map" shape="rect" coords="169,196,262,207" />
+    <area alt="Into deep Eternity&#8212;" title="Into deep Eternity&#8212;" href="#fs608poems1-Map" shape="rect" coords="142,210,175,220" />
+    <area alt="Into deep Eternity&#8212;" title="Into deep Eternity&#8212;" href="#fs608poems1-Map" shape="rect" coords="178,210,186,220" />
+    <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fs608poems1-Map" shape="rect" coords="146,234,182,249" />
+    <area alt="Bred as we, Among the mountains" title="Bred as we, Among the mountains" href="#fs608poems1-Map" shape="rect" coords="246,239,253,246" />
+    <area alt="Of the first league out from Land" title="Of the first league out from Land" href="#fs608poems1-Map" shape="rect" coords="220,272,251,286" />
+</map>
+
+
+<!-- POEM 9 -->
+
+<!-- fs -->
+<img src="../Web-Files/6/img/609/fs609-Map.jpg" alt="Image Map for Original Poem 9" usemap="#fs609-Map" />
+<map name="fs609-Map" id="fs609-Map">
+    <area alt="I never hear the word 'Escape'" title="I never hear the word 'Escape'" href="#fs609-Map" shape="rect" coords="903,28,1117,130" />
+    <area alt="A sudden Expectation," title="A sudden Expectation," href="#fs609-Map" shape="rect" coords="501,192,869,252" />
+    <area alt="A flying attitude!" title="A flying attitude!" href="#fs609-Map" shape="rect" coords="793,266,849,322" />
+    <area alt="But I tug childish at my bar&#8212;" title="But I tug childish at my bar&#8212;" href="#fs609-Map" shape="rect" coords="1031,538,1129,596" />
+</map>
+
+<!-- ce -->
+<img src="../Web-Files/6/img/609/609ce-Map.jpg" alt="Image Map for Centenary Edition of Poem 9" usemap="#fs609ce-Map" />
+<map name="fs609ce-Map" id="fs609ce-Map">
+    <area alt="I never hear the word 'Escape'" title="I never hear the word 'Escape'" href="#fs609ce-Map" shape="rect" coords="605,118,779,182" />
+    <area alt="A sudden Expectation," title="A sudden Expectation," href="#fs609ce-Map" shape="rect" coords="313,222,529,278" />
+    <area alt="A flying attitude!" title="A flying attitude!" href="#fs609ce-Map" shape="rect" coords="427,300,449,322" />
+    <area alt="But I tug childish at my bar&#8212;" title="But I tug childish at my bar&#8212;" href="#fs609ce-Map" shape="rect" coords="565,450,723,510" />
+</map>
+
+<!-- CP -->
+<img src="../Web-Files/6/img/609/609CP-Map.jpg" alt="Image Map for Complete Poems of Poem 8" usemap="#fs609CP-Map" />
+<map name="fs609CP-Map" id="fs609CP-Map">
+    <area alt="I never hear the word 'Escape'" title="I never hear the word 'Escape'" href="#fs609CP-Map" shape="rect" coords="857,158,1017,226" />
+    <area alt="A sudden Expectation," title="A sudden Expectation," href="#fs609CP-Map" shape="rect" coords="641,282,865,338" />
+    <area alt="A flying attitude!" title="A flying attitude!" href="#fs609CP-Map" shape="rect" coords="755,342,785,384" />
+    <area alt="But I tug childish at my bar&#8212;" title="But I tug childish at my bar&#8212;" href="#fs609CP-Map" shape="rect" coords="895,514,993,580" />
+</map>
+
+<!-- poems2 -->
+<img src="../Web-Files/6/img/609/609poems2-Map.jpg" alt="" usemap="#fs609poems2-Map" />
+<map name="fs609poems2-Map" id="fs609poems2-Map">
+    <area alt="Poem 9" title="Poem 9" href="#fs609poems2-Map" shape="rect" coords="99,117,151,133" />
+    <area alt="I never hear the word 'Escape'" title="I never hear the word 'Escape'" href="#fs609poems2-Map" shape="rect" coords="170,145,213,158" />
+    <area alt="A sudden Expectation," title="A sudden Expectation," href="#fs609poems2-Map" shape="rect" coords="91,170,151,182" />
+    <area alt="A flying attitude!" title="A flying attitude!" href="#fs609poems2-Map" shape="rect" coords="118,187,125,194" />
+    <area alt="But I tug childish at my bar&#8212;" title="But I tug childish at my bar&#8212;" href="#fs609poems2-Map" shape="rect" coords="162,233,202,244" />
+</map>
+    
