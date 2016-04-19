@@ -929,8 +929,8 @@
     <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611-Map" shape="rect" coords="135,945,257,1025" />
     <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611-Map" shape="rect" coords="643,941,779,1013" />
     <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611-Map" shape="rect" coords="787,975,845,1009" />
-    <area alt="Perhaps a squirrel may reamain&#8212;" title="Perhaps a squirrel may reamain&#8212;" href="#fs611-Map" shape="rect" coords="449,1097,657,1161" />
-    <area alt="Perhaps a squirrel may reamain&#8212;" title="Perhaps a squirrel may reamain&#8212;" href="#fs611-Map" shape="rect" coords="1037,1153,1075,1173" />
+    <area alt="Perhaps a squirrel may remain&#8212;" title="Perhaps a squirrel may remain&#8212;" href="#fs611-Map" shape="rect" coords="449,1097,657,1161" />
+    <area alt="Perhaps a squirrel may remain&#8212;" title="Perhaps a squirrel may remain&#8212;" href="#fs611-Map" shape="rect" coords="1037,1153,1075,1173" />
     <area alt="My sentiments to share&#8212;" title="My sentiments to share&#8212;" href="#fs611-Map" shape="rect" coords="829,1211,853,1239" />
     <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611-Map" shape="rect" coords="321,1279,341,1309" />
     <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611-Map" shape="rect" coords="401,1241,493,1295" />
@@ -960,8 +960,8 @@
     <area alt="Sealed are the spicy valves&#8212;" title="Sealed are the spicy valves&#8212;" href="#fs611ce-Map" shape="rect" coords="660,646,680,694" />
     <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611ce-Map" shape="rect" coords="268,738,354,790" />
     <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611ce-Map" shape="rect" coords="510,742,634,788" />
-    <area alt="Perhaps a squirrel may reamain&#8212;" title="Perhaps a squirrel may reamain&#8212;" href="#fs611ce-Map" shape="rect" coords="380,824,524,878" />
-    <area alt="Perhaps a squirrel may reamain&#8212;" title="Perhaps a squirrel may reamain&#8212;" href="#fs611ce-Map" shape="rect" coords="740,850,762,876" />
+    <area alt="Perhaps a squirrel may remain&#8212;" title="Perhaps a squirrel may remain&#8212;" href="#fs611ce-Map" shape="rect" coords="380,824,524,878" />
+    <area alt="Perhaps a squirrel may remain&#8212;" title="Perhaps a squirrel may remain&#8212;" href="#fs611ce-Map" shape="rect" coords="740,850,762,876" />
     <area alt="My sentiments to share&#8212;" title="My sentiments to share&#8212;" href="#fs611ce-Map" shape="rect" coords="602,902,624,920" />
     <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611ce-Map" shape="rect" coords="350,936,422,970" />
     <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611ce-Map" shape="rect" coords="508,952,538,976" />
@@ -971,30 +971,95 @@
 <!-- CP -->
 <img src="../Web-Files/6/img/611/611CP-Map.jpg" alt="Image Map for Complete Poems of Poem 11" usemap="#fs611CP-Map" />
 <map name="fs611CP-Map" id="fs611CP-Map">
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="581,80,747,126" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="943,90,961,132" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="743,248,885,294" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="737,242,889,294" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="639,320,867,370" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="493,376,635,426" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="635,372,775,428" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="479,450,513,482" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="579,462,597,482" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="593,436,757,484" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="763,436,1067,484" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="515,510,541,538" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="549,484,749,540" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="757,486,949,538" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="449,596,471,628" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="801,564,981,622" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="501,632,513,682" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="853,638,909,668" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="465,730,559,792" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="711,730,863,792" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="559,1094,703,1156" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="927,1114,961,1142" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="781,1168,841,1192" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="541,1202,621,1262" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="713,1228,745,1264" />
-    <area alt="" title="" href="#fs611CP-Map" shape="rect" coords="999,1212,1051,1252" />
+    <area alt="Besides the Autumn poets sing" title="Besides the Autumn poets sing" href="#fs611CP-Map" shape="rect" coords="579,76,747,134" />
+    <area alt="Besides the Autumn poets sing" title="Besides the Autumn poets sing" href="#fs611CP-Map" shape="rect" coords="943,92,965,134" />
+    <area alt="And that side of the Haze&#8212;" title="And that side of the Haze&#8212;" href="#fs611CP-Map" shape="rect" coords="739,242,889,300" />
+    <area alt="A few incisive mornings&#8212;" title="A few incisive mornings&#8212;" href="#fs611CP-Map" shape="rect" coords="637,318,871,372" />
+    <area alt="A few Ascetic Eves&#8212;" title="A few Ascetic Eves&#8212;" href="#fs611CP-Map" shape="rect" coords="493,374,631,430" />
+    <area alt="A few Ascetic Eves&#8212;" title="A few Ascetic Eves&#8212;" href="#fs611CP-Map" shape="rect" coords="639,374,779,428" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611CP-Map" shape="rect" coords="485,450,515,480" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611CP-Map" shape="rect" coords="577,464,593,474" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611CP-Map" shape="rect" coords="597,434,753,486" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611CP-Map" shape="rect" coords="761,436,1063,486" />
+    <area alt="And Mr Thomsons' 'sheaves.'" title="And Mr Thomsons' 'sheaves.'" href="#fs611CP-Map" shape="rect" coords="517,518,543,544" />
+    <area alt="And Mr Thomsons' 'sheaves.'" title="And Mr Thomsons' 'sheaves.'" href="#fs611CP-Map" shape="rect" coords="545,480,753,538" />
+    <area alt="And Mr Thomsons' 'sheaves.'" title="And Mr Thomsons' 'sheaves.'" href="#fs611CP-Map" shape="rect" coords="759,486,947,538" />
+    <area alt="Still, is the bustle in the Brook&#8212;" title="Still, is the bustle in the Brook&#8212;" href="#fs611CP-Map" shape="rect" coords="469,628,467,624" />
+    <area alt="Still, is the bustle in the Brook&#8212;" title="Still, is the bustle in the Brook&#8212;" href="#fs611CP-Map" shape="rect" coords="803,568,979,620" />
+    <area alt="Sealed are the spicy valves&#8212;" title="Sealed are the spicy valves&#8212;" href="#fs611CP-Map" shape="rect" coords="503,634,513,680" />
+    <area alt="Sealed are the spicy valves&#8212;" title="Sealed are the spicy valves&#8212;" href="#fs611CP-Map" shape="rect" coords="855,636,911,668" />
+    <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611CP-Map" shape="rect" coords="463,732,557,794" />
+    <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611CP-Map" shape="rect" coords="713,728,865,790" />
+    <area alt="Perhaps a squirrel may remain&#8212;" title="Perhaps a squirrel may remain&#8212;" href="#fs611CP-Map" shape="rect" coords="561,1098,703,1160" />
+    <area alt="Perhaps a squirrel may remain&#8212;" title="Perhaps a squirrel may remain&#8212;" href="#fs611CP-Map" shape="rect" coords="931,1112,959,1142" />
+    <area alt="My sentiments to share&#8212;" title="My sentiments to share&#8212;" href="#fs611CP-Map" shape="rect" coords="787,1170,843,1192" />
+    <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611CP-Map" shape="rect" coords="543,1200,631,1268" />
+    <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611CP-Map" shape="rect" coords="713,1228,749,1262" />
+    <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611CP-Map" shape="rect" coords="995,1208,1049,1252" />
+</map>
+
+<!-- fh -->
+<img src="../Web-Files/6/img/611/611fh-Map.jpg" alt="Image Map for Final Harvest: Emily Dickinson's Poems of Poem 11" usemap="#fs611fh-Map" />
+<map name="fs611fh-Map" id="fs611fh-Map">
+    <area alt="Besides the Autumn poets sing" title="Besides the Autumn poets sing" href="#fs611fh-Map" shape="rect" coords="606,208,768,268" />
+    <area alt="Besides the Autumn poets sing" title="Besides the Autumn poets sing" href="#fs611fh-Map" shape="rect" coords="966,212,982,262" />
+    <area alt="And that side of the Haze&#8212;" title="And that side of the Haze&#8212;" href="#fs611fh-Map" shape="rect" coords="756,370,904,434" />
+    <area alt="A few incisive mornings&#8212;" title="A few incisive mornings&#8212;" href="#fs611fh-Map" shape="rect" coords="654,444,886,504" />
+    <area alt="A few Ascetic Eves&#8212;" title="A few Ascetic Eves&#8212;" href="#fs611fh-Map" shape="rect" coords="516,506,652,562" />
+    <area alt="A few Ascetic Eves&#8212;" title="A few Ascetic Eves&#8212;" href="#fs611fh-Map" shape="rect" coords="796,556,658,514" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611fh-Map" shape="rect" coords="498,584,536,614" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611fh-Map" shape="rect" coords="596,592,616,610" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611fh-Map" shape="rect" coords="616,566,774,608" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611fh-Map" shape="rect" coords="778,564,1082,610" />
+    <area alt="And Mr Thomsons' 'sheaves.'" title="And Mr Thomsons' 'sheaves.'" href="#fs611fh-Map" shape="rect" coords="540,642,566,668" />
+    <area alt="And Mr Thomsons' 'sheaves.'" title="And Mr Thomsons' 'sheaves.'" href="#fs611fh-Map" shape="rect" coords="568,618,770,670" />
+    <area alt="And Mr Thomsons' 'sheaves.'" title="And Mr Thomsons' 'sheaves.'" href="#fs611fh-Map" shape="rect" coords="774,618,968,668" />
+    <area alt="Still, is the bustle in the Brook&#8212;" title="Still, is the bustle in the Brook&#8212;" href="#fs611fh-Map" shape="rect" coords="470,722,492,750" />
+    <area alt="Still, is the bustle in the Brook&#8212;" title="Still, is the bustle in the Brook&#8212;" href="#fs611fh-Map" shape="rect" coords="830,696,990,752" />
+    <area alt="Sealed are the spicy valves&#8212;" title="Sealed are the spicy valves&#8212;" href="#fs611fh-Map" shape="rect" coords="518,758,530,804" />
+    <area alt="Sealed are the spicy valves&#8212;" title="Sealed are the spicy valves&#8212;" href="#fs611fh-Map" shape="rect" coords="882,766,910,800" />
+    <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611fh-Map" shape="rect" coords="476,860,582,912" />
+    <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611fh-Map" shape="rect" coords="732,850,890,912" />
+    <area alt="Perhaps a squirrel may remain&#8212;" title="Perhaps a squirrel may remain&#8212;" href="#fs611fh-Map" shape="rect" coords="582,938,740,992" />
+    <area alt="Perhaps a squirrel may remain&#8212;" title="Perhaps a squirrel may remain&#8212;" href="#fs611fh-Map" shape="rect" coords="950,942,992,986" />
+    <area alt="My sentiments to share&#8212;" title="My sentiments to share&#8212;" href="#fs611fh-Map" shape="rect" coords="826,1012,864,1044" />
+    <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611fh-Map" shape="rect" coords="560,1044,658,1108" />
+    <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611fh-Map" shape="rect" coords="748,1070,772,1106" />
+    <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611fh-Map" shape="rect" coords="1024,1050,1064,1102" />
+</map>
+
+<!-- LETTER -->
+<img src="../Web-Files/6/img/611/611LETTER-Map.jpg" alt="Image Map of Emily Dickinson's letter, containing Poem 11" usemap="#fs611LETTER-Map" />
+<map name="fs611LETTER-Map" id="fs611LETTER-Map">
+    <area alt="Besides the Autumn poets sing" title="Besides the Autumn poets sing" href="#fs611LETTER-Map" shape="rect" coords="487,44,723,114" />
+    <area alt="Besides the Autumn poets sing" title="Besides the Autumn poets sing" href="#fs611LETTER-Map" shape="rect" coords="1033,48,1057,110" />
+    <area alt="And that side of the Haze&#8212;" title="And that side of the Haze&#8212;" href="#fs611LETTER-Map" shape="rect" coords="749,236,911,308" />
+    <area alt="And that side of the Haze&#8212;" title="And that side of the Haze&#8212;" href="#fs611LETTER-Map" shape="rect" coords="913,246,951,306" />
+    <area alt="A few incisive mornings&#8212;" title="A few incisive mornings&#8212;" href="#fs611LETTER-Map" shape="rect" coords="595,322,891,370" />
+    <area alt="A few incisive mornings&#8212;" title="A few incisive mornings&#8212;" href="#fs611LETTER-Map" shape="rect" coords="893,354,919,396" />
+    <area alt="A few Ascetic Eves&#8212;" title="A few Ascetic Eves&#8212;" href="#fs611LETTER-Map" shape="rect" coords="369,380,579,436" />
+    <area alt="A few Ascetic Eves&#8212;" title="A few Ascetic Eves&#8212;" href="#fs611LETTER-Map" shape="rect" coords="649,382,787,430" />
+    <area alt="A few Ascetic Eves&#8212;" title="A few Ascetic Eves&#8212;" href="#fs611LETTER-Map" shape="rect" coords="799,394,821,434" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611LETTER-Map" shape="rect" coords="213,482,249,512" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611LETTER-Map" shape="rect" coords="367,510,349,476" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611LETTER-Map" shape="rect" coords="379,444,611,508" />
+    <area alt="Gone. Mr Bryants' 'Golden Rod'&#8212;" title="Gone. Mr Bryants' 'Golden Rod'&#8212;" href="#fs611LETTER-Map" shape="rect" coords="617,442,1051,502" />
+    <area alt="And Mr Thomsons' 'sheaves.'" title="And Mr Thomsons' 'sheaves.'" href="#fs611LETTER-Map" shape="rect" coords="349,544,367,570" />
+    <area alt="And Mr Thomsons' 'sheaves.'" title="And Mr Thomsons' 'sheaves.'" href="#fs611LETTER-Map" shape="rect" coords="417,510,713,572" />
+    <area alt="And Mr Thomsons' 'sheaves.'" title="And Mr Thomsons' 'sheaves.'" href="#fs611LETTER-Map" shape="rect" coords="715,512,991,572" />
+    <area alt="Still, is the bustle in the Brook&#8212;" title="Still, is the bustle in the Brook&#8212;" href="#fs611LETTER-Map" shape="rect" coords="177,618,207,658" />
+    <area alt="Still, is the bustle in the Brook&#8212;" title="Still, is the bustle in the Brook&#8212;" href="#fs611LETTER-Map" shape="rect" coords="869,580,1049,638" />
+    <area alt="Still, is the bustle in the Brook&#8212;" title="Still, is the bustle in the Brook&#8212;" href="#fs611LETTER-Map" shape="rect" coords="1067,662,1055,624" />
+    <area alt="Sealed are the spicy valves&#8212;" title="Sealed are the spicy valves&#8212;" href="#fs611LETTER-Map" shape="rect" coords="219,694,243,724" />
+    <area alt="Sealed are the spicy valves&#8212;" title="Sealed are the spicy valves&#8212;" href="#fs611LETTER-Map" shape="rect" coords="923,672,971,706" />
+    <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611LETTER-Map" shape="rect" coords="219,778,345,854" />
+    <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611LETTER-Map" shape="rect" coords="749,772,893,850" />
+    <area alt="The Eyes of many Elves&#8212;" title="The Eyes of many Elves&#8212;" href="#fs611LETTER-Map" shape="rect" coords="897,800,947,834" />
+    <area alt="Perhaps a squirrel may remain&#8212;" title="Perhaps a squirrel may remain&#8212;" href="#fs611LETTER-Map" shape="rect" coords="421,906,653,998" />
+    <area alt="Perhaps a squirrel may remain&#8212;" title="Perhaps a squirrel may remain&#8212;" href="#fs611LETTER-Map" shape="rect" coords="1073,916,1085,974" />
+    <area alt="My sentiments to share&#8212;" title="My sentiments to share&#8212;" href="#fs611LETTER-Map" shape="rect" coords="999,1050,969,1012" />
+    <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611LETTER-Map" shape="rect" coords="445,1078,463,1112" />
+    <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611LETTER-Map" shape="rect" coords="503,1036,645,1112" />
+    <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611LETTER-Map" shape="rect" coords="895,1088,923,1120" />
+    <area alt="Grant me, Oh Lord, a sunny mind&#8212;" title="Grant me, Oh Lord, a sunny mind&#8212;" href="#fs611LETTER-Map" shape="rect" coords="579,1158,661,1202" />
 </map>
