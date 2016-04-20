@@ -208,6 +208,13 @@ h2 {
     border-bottom: 1px dashed #AAAAAA;
     
 }
+
+
+/*q{
+    quotes:'&#8220;' '&#8221;' '&#8216;' '&#8217;';
+}*/
+q.single {quotes: '&#8216;' '&#8217;';}
+q.double {quotes: '&#8220;' '&#8221;';}
 .copy {
     float: left;
     width: 720px;
