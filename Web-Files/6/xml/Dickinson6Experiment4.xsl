@@ -2,62 +2,124 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"
-    xmlns:math="http://www.w3.org/2005/xpath-functions/math"
-    exclude-result-prefixes="xs math"
-    xmlns="http://www.w3.org/1999/xhtml"
-    version="3.0">
-    
+    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="xs math"
+    xmlns="http://www.w3.org/1999/xhtml" version="3.0">
+
     <xsl:output method="xhtml" encoding="utf-8" indent="yes" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
-    
+    <xsl:variable name="witness"
+        select="//front/descendant::witness/@xml:id"/>
     <xsl:template match="/">
         <html>
             <head>
                 <link rel="stylesheet" type="text/css" href="../css/styles.css"/>
-                <script type="text/javascript" src="../scripts/dickinson.js"></script>
+                <script type="text/javascript" src="../scripts/dickinson.js"/>
                 <title>Emily Dickinson: Fascicle 6 | <xsl:value-of select="//idno"/></title>
             </head>
             <body>
                 <div class="main">
                     <div class="header">
-                        <h1 class="title"><a class="noShowLink" href="../index.html"><span class="nameTitle">Emily Dickinson</span></a> <a class="noShowLink" href="6home.html"><span class="siteTitle">: Fascicle 6</span></a></h1>
-                        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img class="cclic" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+                        <h1 class="title">
+                            <a class="noShowLink" href="../index.html">
+                                <span class="nameTitle">Emily Dickinson</span>
+                            </a>
+                            <a class="noShowLink" href="6home.html">
+                                <span class="siteTitle">: Fascicle 6</span>
+                            </a>
+                        </h1>
+                        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+                            <img class="cclic" alt="Creative Commons License" style="border-width:0"
+                                src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
+                        </a>
                     </div>
                     <div class="mwrapper">
                         <div class="menu">
                             <ul class="cfix">
-                                <li><a href="../index.html">Home</a></li>
-                                <li><a href="../about.html">About <span class="arrow">▼</span></a><ul class="sub">
-                                    <li><a href="../members.html">Our Members</a></li>
-                                    <li><a href="../methodology.html">Methodology</a></li>
-                                </ul>
+                                <li>
+                                    <a href="../index.html">Home</a>
                                 </li>
-                                <li><a href="poems.html">Poems <span class="arrow">▼</span></a><ul class="sub">
-                                    <li><a href="601.html">601</a></li>
-                                    <li><a href="602.html">602</a></li>
-                                    <li><a href="603.html">603</a></li>
-                                    <li><a href="604.html">604</a></li>
-                                    <li><a href="605.html">605</a></li>
-                                    <li><a href="606.html">606</a></li>
-                                    <li><a href="607.html">607</a></li>
-                                    <li><a href="608.html">608</a></li>
-                                    <li><a href="609.html">609</a></li>
-                                    <li><a href="610.html">610</a></li>
-                                    <li><a href="611.html">611</a></li>
-                                    <li><a href="612.html">612</a></li>
-                                    <li><a href="613.html">613</a></li>
-                                    <li><a href="614.html">614</a></li>
-                                    <li><a href="615.html">615</a></li>
-                                    <li><a href="616.html">616</a></li>
-                                    <li><a href="617.html">617</a></li>
-                                </ul>
+                                <li>
+                                    <a href="../about.html">About <span class="arrow">▼</span></a>
+                                    <ul class="sub">
+                                        <li>
+                                            <a href="../members.html">Our Members</a>
+                                        </li>
+                                        <li>
+                                            <a href="../methodology.html">Methodology</a>
+                                        </li>
+                                    </ul>
                                 </li>
-                                <li><a href="../analysis.html">Analysis <span class="arrow">▼</span></a><ul class="sub">
-                                    <li><a href="dash.html">Dash Usage Comparison</a></li>
-                                    <li><a href="conclusion.html">Conclusion</a></li>
-                                </ul>
+                                <li>
+                                    <a href="poems.html">Poems <span class="arrow">▼</span></a>
+                                    <ul class="sub">
+                                        <li>
+                                            <a href="601.html">601</a>
+                                        </li>
+                                        <li>
+                                            <a href="602.html">602</a>
+                                        </li>
+                                        <li>
+                                            <a href="603.html">603</a>
+                                        </li>
+                                        <li>
+                                            <a href="604.html">604</a>
+                                        </li>
+                                        <li>
+                                            <a href="605.html">605</a>
+                                        </li>
+                                        <li>
+                                            <a href="606.html">606</a>
+                                        </li>
+                                        <li>
+                                            <a href="607.html">607</a>
+                                        </li>
+                                        <li>
+                                            <a href="608.html">608</a>
+                                        </li>
+                                        <li>
+                                            <a href="609.html">609</a>
+                                        </li>
+                                        <li>
+                                            <a href="610.html">610</a>
+                                        </li>
+                                        <li>
+                                            <a href="611.html">611</a>
+                                        </li>
+                                        <li>
+                                            <a href="612.html">612</a>
+                                        </li>
+                                        <li>
+                                            <a href="613.html">613</a>
+                                        </li>
+                                        <li>
+                                            <a href="614.html">614</a>
+                                        </li>
+                                        <li>
+                                            <a href="615.html">615</a>
+                                        </li>
+                                        <li>
+                                            <a href="616.html">616</a>
+                                        </li>
+                                        <li>
+                                            <a href="617.html">617</a>
+                                        </li>
+                                    </ul>
                                 </li>
-                                <li><a href="../contact.html">Contact</a></li>
+                                <li>
+                                    <a href="../analysis.html">Analysis <span class="arrow"
+                                        >▼</span></a>
+                                    <ul class="sub">
+                                        <li>
+                                            <a href="dash.html">Dash Usage Comparison</a>
+                                        </li>
+                                        <li>
+                                            <a href="conclusion.html">Conclusion</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="../contact.html">Contact</a>
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -84,10 +146,12 @@
                                 <button class="bmKey" id="bmButton">Bolts of Melody</button>
                             </xsl:if>
                             <xsl:if test="//front//witness[@xml:id/contains(., 'lSD')]">
-                                <button class="lSDKey" id="lSDButton">Letter to Susan Dickinson</button>
+                                <button class="lSDKey" id="lSDButton">Letter to Susan
+                                    Dickinson</button>
                             </xsl:if>
                             <xsl:if test="//front//witness[@xml:id/contains(., 'LETTER')]">
-                                <button class="LETTERKey" id="LETTERButton">Letter from Emily Dickinson</button>
+                                <button class="LETTERKey" id="LETTERButton">Letter from Emily
+                                    Dickinson</button>
                             </xsl:if>
                             <xsl:if test="//front//witness[@xml:id/contains(., 'D')]">
                                 <button class="DKey" id="DButton">Dickinson</button>
@@ -95,23 +159,24 @@
                             <xsl:if test="//front//witness[@xml:id/contains(., 'CP')]">
                                 <button class="CPKey" id="CPButton">Complete Poems</button>
                             </xsl:if>
-                            <a class="origXML" id="origXML" href="{//listRef/ptr/@target[contains(., 'xml')]}">View Original XML</a>
-                            <button class="origImg" id="origImg">View Original Variant Images</button>
-                            <p class="instruct"><strong>Instructions:</strong> You can turn the variations of the poem on and off at the same time. The button will
-                                show as depressed, and the poems will load side by side. The images for the corresponding poem will stack on top of each other
-                                if multiple variants are turned on at once.</p>
-                            
+                            <a class="origXML" id="origXML"
+                                href="{//listRef/ptr/@target[contains(., 'xml')]}">View Original
+                                XML</a>
+                            <button class="origImg" id="origImg">View Original Variant
+                                Images</button>
+                            <p class="instruct"><strong>Instructions:</strong> You can turn the
+                                variations of the poem on and off at the same time. The button will
+                                show as depressed, and the poems will load side by side. The images
+                                for the corresponding poem will stack on top of each other if
+                                multiple variants are turned on at once.</p>
+
                         </div>
                         <div class="poem">
                             <xsl:apply-templates select="//body"/>
                         </div>
-                        <div class="poemImg">
-                            
-                        </div>
+                        <div class="poemImg"> </div>
                     </div>
-                    <div class="footer">
-                        
-                    </div>
+                    <div class="footer"> </div>
                     <div id="imgModal" class="modal">
                         <div class="modal-content">
                             <div class="modal-header">
@@ -119,23 +184,28 @@
                                 <h2>Variant Poem Images</h2>
                             </div>
                             <div class="modal-body">
-                                <xsl:for-each select="//listRef/ptr/@target[contains(., '.jpg') and not(contains(., 'Map'))]">
+                                <xsl:for-each
+                                    select="//listRef/ptr/@target[contains(., '.jpg') and not(contains(., 'Map'))]">
                                     <div class="modalImgCont">
                                         <a target="_blank" href="{.}">
                                             <img src="{.}" alt="Poem {//idno} Variant Image"/>
                                         </a>
                                         <!-- Tests for existance of variant image files in the listRef element of each poem's XML-->
                                         <xsl:choose>
-                                            <xsl:when test=".[contains(., 'fs') and not(contains(., 'a.') or contains(., 'b.') or contains(., 'c.'))]">
+                                            <xsl:when
+                                                test=".[contains(., 'fs') and not(contains(., 'a.') or contains(., 'b.') or contains(., 'c.'))]">
                                                 <div class="modalDesc">Fascicle 6</div>
                                             </xsl:when>
-                                            <xsl:when test=".[contains(., 'fs') and contains(., 'a.')]">
+                                            <xsl:when
+                                                test=".[contains(., 'fs') and contains(., 'a.')]">
                                                 <div class="modalDesc">Fascicle 6 'A'</div>
                                             </xsl:when>
-                                            <xsl:when test=".[contains(., 'fs') and contains(., 'b.')]">
+                                            <xsl:when
+                                                test=".[contains(., 'fs') and contains(., 'b.')]">
                                                 <div class="modalDesc">Fascicle 6 'B'</div>
                                             </xsl:when>
-                                            <xsl:when test=".[contains(., 'fs') and contains(., 'c.')]">
+                                            <xsl:when
+                                                test=".[contains(., 'fs') and contains(., 'c.')]">
                                                 <div class="modalDesc">Fascicle 6 'C'</div>
                                             </xsl:when>
                                             <xsl:when test=".[contains(., 'poems1.')]">
@@ -172,13 +242,16 @@
                                                 <div class="modalDesc">Susan Dickinson Letter</div>
                                             </xsl:when>
                                             <xsl:when test=".[contains(., 'lSDa.')]">
-                                                <div class="modalDesc">Susan Dickinson Letter 'A'</div>
+                                                <div class="modalDesc">Susan Dickinson Letter
+                                                  'A'</div>
                                             </xsl:when>
                                             <xsl:when test=".[contains(., 'lSDb.')]">
-                                                <div class="modalDesc">Susan Dickinson Letter 'B'</div>
+                                                <div class="modalDesc">Susan Dickinson Letter
+                                                  'B'</div>
                                             </xsl:when>
                                             <xsl:when test=".[contains(., 'LETTER.')]">
-                                                <div class="modalDesc">Letter from Emily Dickinson</div>
+                                                <div class="modalDesc">Letter from Emily
+                                                  Dickinson</div>
                                             </xsl:when>
                                             <xsl:when test=".[contains(., 'D.')]">
                                                 <div class="modalDesc">Dickinson</div>
@@ -199,19 +272,27 @@
                         </div>
                     </div>
                 </div>
-                
+
             </body>
         </html>
     </xsl:template>
-    
+
     <xsl:template match="q[@rend]">
         <xsl:choose>
-            <xsl:when test="@rend='single'"><q class="single"><xsl:apply-templates/></q></xsl:when>
-            <xsl:otherwise><q class="double"><xsl:apply-templates/></q></xsl:otherwise>
+            <xsl:when test="@rend = 'single'">
+                <q class="single">
+                    <xsl:apply-templates/>
+                </q>
+            </xsl:when>
+            <xsl:otherwise>
+                <q class="double">
+                    <xsl:apply-templates/>
+                </q>
+            </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
 
-    
+
     <xsl:template match="head">
         <h2>
             <span id="poem{//idno}">
@@ -219,45 +300,35 @@
             </span>
         </h2>
     </xsl:template>
-    
+
     <xsl:template match="lg">
-        <div class="para"><xsl:apply-templates/></div>
+        <div class="para">
+            <xsl:apply-templates/>
+        </div>
     </xsl:template>
-    
+
     <xsl:template match="l">
-    <table>
-      
-        <xsl:for-each-group select="." group-by="app/rdg">
-            <xsl:for-each select=".">
-    
-                 <tr>
-                        
-                        <xsl:for-each select="./node()">
-                            <td><xsl:apply-templates select="."/></td>
-                           </xsl:for-each>
-                    
-                    </tr>
-              
-                
+        <xsl:variable name="current">
+            <xsl:sequence select="current()"/>
+        </xsl:variable>       
+           <table>
+               <xsl:for-each select="$witness">
+                <tr>
+                    <td><xsl:value-of select="current()"/></td>                    
+                    <xsl:apply-templates select="$current" mode="row">
+                        <xsl:with-param name="wit" select="current()" as="xs:string" tunnel="yes"/>
+                    </xsl:apply-templates>
+                </tr>
             </xsl:for-each>
-            
-        </xsl:for-each-group>
-        
-    </table>
+           </table>
     </xsl:template>
- 
-  <xsl:template match="rdg">
-  <xsl:variable name="tokenWit" select="tokenize(@wit, ' ')"/>
-        <xsl:for-each-group select="." group-by="$tokenWit">
-           <xsl:for-each select="current-group()"> 
-          <span class="{substring-after(current-grouping-key(), '#')}">
-                
-                <xsl:apply-templates/>
-          </span>
-           </xsl:for-each>
-        </xsl:for-each-group>
-            
+    <xsl:template match="l" mode="row">
+        <xsl:for-each select="node()">
+            <td><xsl:apply-templates select="."/></td>
+        </xsl:for-each>
     </xsl:template>
-    
-    
+    <xsl:template match="app">
+        <xsl:param name="wit" tunnel="yes"/>
+        <xsl:apply-templates select="rdg[contains(@wit, $wit)]"/>
+    </xsl:template>
 </xsl:stylesheet>
