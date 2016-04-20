@@ -234,12 +234,13 @@
                             
              <!--     <xsl:if test="not(node()[1] = app)"> 
                       <xsl:apply-templates select="node()[1]"/></xsl:if>-->
-            <xsl:choose>
+            
+                        <xsl:choose>
                 <xsl:when test="l[app/rdg]">
                   
 
              
-                   <xsl:for-each select="l[.//rdg]">
+                   <xsl:for-each select=".//rdg">
                     
                         <xsl:apply-templates select="."/>
                         
@@ -250,7 +251,8 @@
                 <xsl:otherwise>
                     <xsl:apply-templates/>
                 </xsl:otherwise>
-            </xsl:choose>                                  
+            </xsl:choose>
+                    
                                
             
                     
