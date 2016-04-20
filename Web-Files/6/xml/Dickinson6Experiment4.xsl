@@ -311,16 +311,16 @@
         <xsl:variable name="current">
             <xsl:sequence select="current()"/>
         </xsl:variable>       
-           <table>
-               <xsl:for-each select="$witness">
+           
+               <xsl:for-each select="$witness"><div class="{current()}"><table>
                 <tr>
-                    <td><xsl:value-of select="current()"/></td>                    
+                    <!--<xsl:value-of select="current()"/> -->                 
                     <xsl:apply-templates select="$current" mode="row">
                         <xsl:with-param name="wit" select="current()" as="xs:string" tunnel="yes"/>
                     </xsl:apply-templates>
-                </tr>
+                </tr></table></div>
             </xsl:for-each>
-           </table>
+           
     </xsl:template>
     <xsl:template match="l" mode="row">
         <xsl:for-each select="node()">
