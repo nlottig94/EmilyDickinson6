@@ -241,10 +241,7 @@
              
                    <xsl:for-each select="l[.//rdg]">
                     
-                        <table border="1">
-                          <tr><td> <xsl:apply-templates select="."/></td></tr>
-                        
-                        </table>
+                        <xsl:apply-templates select="."/>
                         
                          
                      
@@ -264,19 +261,19 @@
             </div>
         
     </xsl:template>
- <xsl:template match="app">
+<!-- <xsl:template match="app">
         <table>
             <xsl:apply-templates/>
         </table>
-    </xsl:template>
+    </xsl:template>-->
     <xsl:template match="rdg">
     <xsl:variable name="tokenWit" select="tokenize(@wit, ' ')"/>
         <xsl:for-each-group select="." group-by="$tokenWit">
            <xsl:for-each select="current-group()"> 
-              <tr> <td class="{substring-after(current-grouping-key(), '#')}"><!--<span class="{substring-after(current-grouping-key(), '#')}">-->
+              <span class="{substring-after(current-grouping-key(), '#')}">
                 
                 <xsl:apply-templates/>
-           <!-- </span>--></td></tr>
+            </span>
            
            </xsl:for-each>
         </xsl:for-each-group>
