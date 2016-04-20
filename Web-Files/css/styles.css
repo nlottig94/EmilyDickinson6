@@ -215,7 +215,7 @@ h2 {
 }*/
 q.single {quotes:'‘' '’'; 
 }
-q.double {quotes:'“' '”; 
+q.double {quotes:'“' '”'; 
 }
 .copy {
     float: left;
