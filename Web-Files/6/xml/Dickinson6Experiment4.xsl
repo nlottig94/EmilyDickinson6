@@ -316,22 +316,19 @@
                 <tr>
                     <td><xsl:value-of select="current()"/></td>                    
                     <xsl:apply-templates select="$current" mode="row">
-                        <xsl:with-param name="wit" select="current()" as="xs:string"/>
+                        <xsl:with-param name="wit" select="current()" as="xs:string" tunnel="yes"/>
                     </xsl:apply-templates>
                 </tr>
             </xsl:for-each>
            </table>
     </xsl:template>
     <xsl:template match="l" mode="row">
-      <xsl:param name="wit"/>
         <xsl:for-each select="node()">
-            <td><xsl:apply-templates select=".">
-                <xsl:with-param name="wit" select="$wit" as="xs:string"/>
-            </xsl:apply-templates></td>
+            <td><xsl:apply-templates select="."/></td>
         </xsl:for-each>
     </xsl:template>
     <xsl:template match="app">
-        <xsl:param name="wit"/>
+        <xsl:param name="wit" tunnel="yes"/>
         <xsl:apply-templates select="rdg[contains(@wit, $wit)]"/>
     </xsl:template>
 </xsl:stylesheet>
