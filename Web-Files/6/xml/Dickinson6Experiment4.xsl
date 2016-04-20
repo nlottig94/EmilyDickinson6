@@ -308,19 +308,23 @@
     </xsl:template>
 
     <xsl:template match="l">
+        <div class="line">
+            <span class="lineNum"><xsl:value-of select="count(preceding::l) + 1"/><xsl:text>: </xsl:text></span>
+            <div class="lineContent">
         <xsl:variable name="current">
             <xsl:sequence select="current()"/>
         </xsl:variable>       
            
-               <xsl:for-each select="$witness"><div class="{current()}"><table>
+        <xsl:for-each select="$witness"><table class="{current()}">
                 <tr>
                     <!--<xsl:value-of select="current()"/> -->                 
                     <xsl:apply-templates select="$current" mode="row">
                         <xsl:with-param name="wit" select="current()" as="xs:string" tunnel="yes"/>
                     </xsl:apply-templates>
-                </tr></table></div>
+                </tr></table>
             </xsl:for-each>
-           
+            </div>
+        </div>
     </xsl:template>
     <xsl:template match="l" mode="row">
         <xsl:for-each select="node()">
