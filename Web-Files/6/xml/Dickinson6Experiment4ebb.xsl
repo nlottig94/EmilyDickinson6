@@ -339,9 +339,9 @@
                 </td></xsl:when>
             
             <xsl:otherwise>
-                <td>
+                
                     <xsl:apply-templates select="."/>
-                </td>
+                
                 
             </xsl:otherwise>
             </xsl:choose>

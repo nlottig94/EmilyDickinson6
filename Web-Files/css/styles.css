@@ -282,60 +282,138 @@ q.double {quotes:'“' '”';
     background-color: #FF0000;
     color: #FFFFFF;
 }
+.df16text {
+    display: inline;
+}
 .df6 {
     display: inline;
     background-color: #FF0000;
     color: #FFFFFF;
 }
-.poems1 {
+.df6text {
+    display: inline;
+}
+.poems1Toggle {
     display: none;
+}
+.poems1 {
+    display: inline;
     background-color: #FF9900;
 }
-.poems2 {
+.poems1text {
+    display: inline;
+}
+.poems2Toggle {
     display: none;
+}
+.poems2 {
+    display: inline;
     background-color: #FFFF00;
 }
-.poems3 {
+.poems2text {
+    display: inline;
+}
+.poems3Toggle {
     display: none;
+}
+.poems3 {
+    display: inline;
     background-color: #ACE500;
 }
-.fp {
+.poems3text {
+    display: inline;
+}
+.fpToggle {
     display: none;
+}
+.fp {
+    display: inline;
     background-color: #00CC00;
 }
-.ce {
+.fptext {
+    display: inline;
+}
+.ceToggle {
     display: none;
+}
+.ce {
+    display: inline;
     background-color: #0099CC;
 }
-.fh {
+.cetext {
+    display: inline;
+}
+.fhToggle {
     display: none;
+}
+.fh {
+    display: inline;
     background-color: #2200CC;
     color: #FFFFFF;
 }
-.bm {
+.fhtext {
+    display: inline;
+}
+.bmToggle {
     display: none;
+}
+.bm {
+    display: inline;
     background-color: #8800CC;
     color: #FFFFFF;
 }
-.am {
+.bmtext {
+    display: inline;
+}
+.amToggle {
     display: none;
+}
+.am {
+    display: inline;
     background-color: #ff4dff;
 }
-.lsd {
+.amtext {
+    display: inline;
+}
+.lSDToggle {
     display: none;
+}
+.lSD {
+    display: inline;
     background-color: #EC008C;
 }
-.LETTER {
+.lSDtext {
+    display: inline;
+}
+.LETTERToggle {
     display: none;
+}
+.LETTER {
+    display: inline;
     background-color: #008080;
 }
-.D {
+.LETTERtext {
+    display: inline;
+}
+.DToggle {
     display: none;
+}
+.D {
+    display: inline;
     background-color: #006622;
 }
-.CP {
+.Dtext {
+    display: inline;
+}
+.CPToggle {
     display: none;
+}
+.CP {
+    display: inline;
     background-color: #e64d00;
+}
+.CPtext {
+    display: inline;
 }
 #df16Map {
     display: block;
