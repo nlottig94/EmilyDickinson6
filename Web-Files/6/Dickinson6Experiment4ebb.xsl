@@ -317,7 +317,8 @@
        <!--2016-04-20 ebb: It doesn't seem to be necessary to declare this variable a sequence because of course current() is going to be a new
            value each time the template match on `<l>` fires.-->
          
-                <xsl:for-each select="$witness"><table class="{current()}" border="1">
+                <xsl:for-each select="$witness"><table border="1">
+                    <!-- ebb: removed @class="current()" from table element to output variants only inside cells.-->
             <tr>
                    <!--<xsl:value-of select="current()"/>-->                 
                     <xsl:apply-templates select="$current" mode="row">
@@ -329,8 +330,21 @@
         </div>
     </xsl:template>
     <xsl:template match="l" mode="row">
+        <xsl:param name="wit" tunnel="yes"/>
+        
         <xsl:for-each select="node()">
-            <td><xsl:apply-templates select="."/></td>
+                        <xsl:choose>
+                            <xsl:when test="current()/rdg[contains(@wit, $wit)]">
+                <td class="{$wit}"><xsl:apply-templates select="."/>
+                </td></xsl:when>
+            
+            <xsl:otherwise>
+                <td>
+                    <xsl:apply-templates select="."/>
+                </td>
+                
+            </xsl:otherwise>
+            </xsl:choose>
         </xsl:for-each>
     </xsl:template>
     <xsl:template match="app">
