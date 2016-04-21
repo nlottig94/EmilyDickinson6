@@ -292,6 +292,20 @@
         </xsl:choose>
     </xsl:template>
 
+    <xsl:template match="emph[@rend]">
+        <xsl:choose>
+            <xsl:when test="@rend = 'underline'">
+                <span class="underline">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <span class="italic">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
 
     <xsl:template match="head">
         <h2>

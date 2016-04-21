@@ -208,14 +208,17 @@ h2 {
     border-bottom: 1px dashed #AAAAAA;
     
 }
-
-
-/*q{
-    quotes:'&#8220;' '&#8221;' '&#8216;' '&#8217;';
-}*/
-q.single {quotes:'‘' '’'; 
+span.underline {
+    text-decoration: underline;
 }
-q.double {quotes:'“' '”'; 
+span.italic {
+    font-style: italic;
+}
+q.single {
+    quotes:'‘' '’'; 
+}
+q.double {
+    quotes:'“' '”'; 
 }
 .copy {
     float: left;
