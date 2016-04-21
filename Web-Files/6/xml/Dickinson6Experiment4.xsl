@@ -315,7 +315,7 @@
             <xsl:sequence select="current()"/>
         </xsl:variable>       
            
-        <xsl:for-each select="$witness"><table class="{current()}">
+        <xsl:for-each select="$witness"><table class="{current()}" border="1">
                 <tr>
                     <!--<xsl:value-of select="current()"/> -->                 
                     <xsl:apply-templates select="$current" mode="row">
