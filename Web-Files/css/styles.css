@@ -206,7 +206,9 @@ h2 {
 }
 .line {
     border-bottom: 1px dashed #AAAAAA;
-    
+}
+table {
+    border-collapse: collapse;
 }
 span.underline {
     text-decoration: underline;
