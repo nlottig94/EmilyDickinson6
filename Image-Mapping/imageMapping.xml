@@ -1413,7 +1413,7 @@
 <!-- POEM 15 -->
 
 <!-- fs -->
-<img src="../6/img/615/fs615Map.jpg" alt="Image Map for Original Poem 15" usemap="#fs615-Map" />
+<img src="../6/img/615/fs615-Map.jpg" alt="Image Map for Original Poem 15" usemap="#fs615-Map" />
 <map name="fs615-Map" id="fs615-Map">
     <area alt="As children bid the Guest 'Good Night'" title="As children bid the Guest 'Good Night'" href="#fs615-Map" shape="rect" coords="55,13,134,38" />
     <area alt="As children bid the Guest 'Good Night'" title="As children bid the Guest 'Good Night'" href="#fs615-Map" shape="rect" coords="220,18,266,36" />
@@ -1467,7 +1467,7 @@
 <!-- POEM 16 -->
 
 <!-- fs -->
-<img src="../6/img/616/fs616Map.jpg" alt="Image Map for Original Poem 16" usemap="#fs616-Map" />
+<img src="../6/img/616/fs616-Map.jpg" alt="Image Map for Original Poem 16" usemap="#fs616-Map" />
 <map name="fs616-Map" id="fs616-Map">
     <area alt="I dont know when&#8212;" title="I dont know when&#8212;" href="#fs616-Map" shape="rect" coords="66,26,122,49" />
     <area alt="I dont know when&#8212;" title="I dont know when&#8212;" href="#fs616-Map" shape="rect" coords="256,35,277,44" />
