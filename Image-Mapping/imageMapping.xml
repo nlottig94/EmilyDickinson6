@@ -627,7 +627,7 @@
 
 <!-- ce -->
 <img src="../6/img/608/608ce-Map.jpg" alt="Image Map for Centenary Edition of Poem 8" usemap="#fs608ce-Map" />
-<map name="fs608ce" id="fs608ce">
+<map name="fs608ce-Map" id="fs608ce-Map">
     <area alt="Original Dickinson: Of an inland soul to sea&#8212;" title="Original Dickinson: Of an inland soul to sea&#8212;" href="#fs608ce-Map" shape="rect" coords="209,77,239,90" />
     <area alt="Original Dickinson: Past the Houses&#8212;" title="Original Dickinson: Past the Houses&#8212;" href="#fs608ce-Map" shape="rect" coords="128,87,174,105" />
     <area alt="Original Dickinson: Past the Houses&#8212;" title="Original Dickinson: Past the Houses&#8212;" href="#fs608ce-Map" shape="rect" coords="175,91,288,107" />

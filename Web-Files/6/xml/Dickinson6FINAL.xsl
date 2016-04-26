@@ -153,7 +153,7 @@
                                 <button class="LETTERKey" id="LETTERButton">Letter from Emily
                                     Dickinson</button>
                             </xsl:if>
-                            <xsl:if test="//front//witness[@xml:id/contains(., 'D')]">
+                            <xsl:if test="//front//witness[@xml:id/contains(., '[0-9]D')]">
                                 <button class="DKey" id="DButton">Dickinson</button>
                             </xsl:if>
                             <xsl:if test="//front//witness[@xml:id/contains(., 'CP')]">
