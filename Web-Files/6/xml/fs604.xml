@@ -25,7 +25,7 @@
         <front>
             <div type="references">
                 <listRef>
-                    <ptr target="xml/604.xml"/>
+                    <ptr target="xml/fs604.xml"/>
                     <ptr target="img/604/fs604.jpg"/>
                     <ptr target="img/604/fs604-Map.jpg"/>
                     <ptr target="img/604/604CP.jpg"/>
