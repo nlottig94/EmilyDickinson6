@@ -210,6 +210,9 @@ h2 {
 table {
     border-collapse: collapse;
 }
+span.strikeThrough {
+    text-decoration: line-through;
+}
 span.underline {
     text-decoration: underline;
 }
